@@ -1,4 +1,4 @@
-# cool-it-nyc
+# Cool it?! New Yorker
 
 
 
