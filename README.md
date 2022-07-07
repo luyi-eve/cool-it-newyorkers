@@ -1,11 +1,10 @@
 # cool-it-nyc
 
----
 
 
 ## About This Project
 
----
+
 
 ## Repository Guideline
 
