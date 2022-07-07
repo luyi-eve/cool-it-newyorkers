@@ -1,4 +1,4 @@
-# Cool it?! New Yorker
+# Cool it?! New Yorkers
 
 
 
