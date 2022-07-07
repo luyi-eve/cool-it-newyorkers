@@ -2,11 +2,11 @@
 
 
 
-## About This Project
+## About this project
 
 
 
-## Repository Guideline
+## Repository guideline
 
 - Weather Scraping folder: 
 - Drinking fountains folder: 
