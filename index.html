@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Cool it?! New Yorkers</title>
+        <link rel="icon" href="sweat.ico" type="image/x-icon" />
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto"> 
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Helvetica">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cormorant Garamond">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sigmar One">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM Serif Display">
+
+        <!--This is for icons button-->
+        <script src="https://kit.fontawesome.com/a2143a8170.js" crossorigin="anonymous"></script>
+        <!--This is for d3.js-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.3.0/d3.min.js"></script>
+
+        
+        <!--Div Style-->
+         <style>
+            body {
+                margin:auto;
+                padding:50px 10px;
+            }
+            
+            .header {
+                padding-top:20px;
+                padding-bottom:20px;
+            }
+    
+            .footer {
+                padding-top:20px;
+                padding-bottom:20px;
+                background-color: white;
+            }
+
+            .story-body, .header, .chart-section, .footer {
+                margin:auto;
+                max-width: 700px;
+            }
+
+            .adjust {
+                padding-top:0px;
+                padding-bottom:20px;
+                background-color: white;
+            }
+
+        </style>
+
+         <!--BG Color Theme (to the body tag) -->
+         <style>
+            .dark-theme {
+             background-color: #b6d4e6;
+             color: #fbfbfb;
+            }
+            .light-theme {
+             background-color: white;
+             color: black;
+            }
+         </style>
+        
+        <!--Chart-section Size--> 
+        <style>
+            .chart-section {
+                width:100%;
+                max-width:700px;
+                margin-left:auto;
+                margin-right:auto;
+            }
+
+            .chart-section2 {
+                width:100%;
+                max-width:600px;
+                margin-left:auto;
+                margin-right:auto;
+            }
+
+            .chart-section3 {
+                width:100%;
+                max-width:900px;
+                margin-left:auto;
+                margin-right:auto;
+            }
+        </style>
+        
+        <!--Text Style-->
+        <style>
+            .text-center {
+                text-align:center;
+            }
+
+            h1.headline {
+                font-family: DM Serif Display;
+                font-size: 4rem;
+                font-weight: 800;
+                line-height: 50.5px;
+                margin-bottom: 15px;
+                margin-top: 5px;
+                color: #a0e3eb;
+            }
+            h2.subhead {
+                font-family: 'Roboto', sans-serif;
+                font-size: 18px;
+                line-height: 2rem;
+                margin-bottom:0;
+                margin-top: 30px;
+                font-weight: 400;
+                color: #3c3c3c
+            }
+
+            h2.annotation {
+                font-family: DM Serif Display;
+                font-size: 20px;
+                line-height: 2rem;
+                margin-top: 2px;
+                margin-bottom:15px;
+                color: #3c3c3c
+            }
+
+            h3.annotation {
+                font-family: DM Serif Display;
+                font-size: 30px;
+                font-weight: 800;
+                line-height: 2rem;
+                text-align:right;
+                color: #3c3c3c;
+                padding-top:20px;
+                padding-bottom:20px;
+                margin-bottom:10px;
+                margin-top: 30px;
+            }
+
+            h3.annotation2 {
+                font-family: DM Serif Display;
+                font-size: 30px;
+                font-weight: 800;
+                line-height: 2rem;
+                text-align:center;
+                color: #3c3c3c;
+                padding-top:20px;
+                padding-bottom:20px;
+                margin-bottom:10px;
+                margin-top: 30px;
+            }
+
+            p.body-text {
+                /*font-family: Helvetica;*/
+                text-align:justify;
+                font-size: 1.1rem;
+                line-height: 1.5em;
+                margin-top:0;
+                margin-bottom:15px;
+                color: #010101
+            }
+
+            .byline {
+                font-size: 1.1rem;
+                line-height: 0.75;
+                margin-top: 28px;
+                font-weight: 500;
+            }
+            
+            .date {
+                font-size: 0.85rem;
+                line-height: 1;
+                margin-top: 15px;
+                font-weight:400;
+                letter-spacing:0.5px;
+            }
+
+            .findcode {
+                font-family: Cormorant Garamond;
+                font-size: 1.1rem;
+                line-height: 1.4;
+                margin-top:0;
+                margin-bottom:15px;
+                color: #010101
+            }
+
+        </style>
+
+        <!--Scrolly Style-->
+        <style>
+            #scrolly {
+              position: relative;
+              /* padding: 1rem; */
+            }
+        
+            .scrolly-overlay {
+              position: relative;
+              padding: 0;
+              max-width: 35rem;
+              margin: 0 auto;
+            }
+        
+            .sticky-thing {
+              position: -webkit-sticky;
+              position: sticky;
+              left: 0;
+              width: 100%;
+              margin: 0;
+              z-index: 0;
+              top: 0;
+              height: 100vh;
+              /* Center everything inside */
+              display: flex;
+              justify-content: center;
+              flex-direction: column;
+              justify-content: center;
+            }
+        
+            .step {
+              margin: 0 auto 2rem auto;
+              margin-bottom: 25rem;
+              background-color: #fbfbfb;
+              background-color: #fbfbfb;
+              color: black;
+            }
+        
+            .step p {
+              text-align: left;
+              padding: 1rem;
+              font-size: 1rem;
+            }
+        
+            .hidden { visibility: hidden; }
+        
+            .container{max-width:60%; margin:auto;}
+            @media (max-width: 700px) {.container{max-width:98%}}
+        
+            /* When it's less than 700 pixels wide, do normal scrollytelling */
+            @media only screen and (min-width: 700px) {
+              #scrolly.side-by-side {
+                display: flex;
+             }
+        
+              #scrolly.side-by-side > div {
+                flex-basis: 0;
+                flex-grow: 1;
+                flex-shrink: 1;
+                padding-right: 0.75em;
+                /* was originally: padding: 0.75em; */
+              }
+        
+              #scrolly.side-by-side .scrolly-overlay {
+                margin-top: 70vh;
+                order: 0;
+                /* Change these to adjust sizing options */
+                min-width: 15rem;
+                max-width: 20rem;
+              }
+        
+              #scrolly.side-by-side .sticky-thing {
+                order: 1;
+                flex-grow: 2;
+              }
+            }
+        </style>
+            
+        <!--Photos Style-->
+        <style>
+            .photo-section {
+                padding:30px 0px;
+                width:100%;
+                margin:auto;
+                display:flex;
+                max-width:1200px;
+            }
+    
+            .photo {
+                width:100%;
+                padding-right:15px;
+            }
+            .photo img {
+                width:100%;	
+            }
+    
+            p.caption {
+                font-size:0.9rem;
+                margin:0;
+            }
+        </style>
+            
+        <!--Mobile Style-->
+        <style>
+        @media (max-width:700px) {
+
+            .chart-row {
+                display:block;
+            }
+
+            .chart-row .chart {
+                padding:0;
+            }
+
+            .photo-section {
+                display:block;
+            }
+            .photo {
+                padding:0;
+            }
+        }
+        </style>
+
+        <!-- icon style-->
+        <style>
+        i.padding {padding-left: 30px;}
+        i.transparency {opacity: 0.4;}
+        </style>
+
+    </head>
+
+
+    <body class="light-theme">
+        <div class="header">
+            <h1 class="headline text-center">Cool it?! New Yorkers</h1>
+            <h2 class="subhead text-center">A guide towards New York City's public cooling featuresduring extreme heat emergencies☀️⚠️.</h2>
+            <p class="byline text-center">By Eve Lu</p>
+            <p class="date text-center">July 4, 2022</p>
+        </div>
+        <div class="story-body">
+            <p class="body-text">Cool it! NYC, a citywide plan was launched two years ago in New York City by NYC Park, aiming at increasing and upgrading the amount of public cooling features located at different spots in town, during the hot and humid summer weather.</p>
+            <p class="body-text">Winter is no joke in New York City. It can drop as low as 0-degree F on the coldest nights but if you know well about this magic place, then you will definitely experience all four seasons, including the extremely hottest summers.</p>
+            <p class="body-text">With a wide variation in temperature, along with high humidity, the average temperature in 2022 July in NYC has already reached to <strong>86.3°F</strong>. The recorded hottest day during the month (so far 🤔) is July 1 with a burning-skin🔥 temperature around <strong>93°F</strong>.</p>
+
+        </div>
+        <br>
+        <div class="chart-section2">
+            <iframe title=" NYC is Burning in 2022 July " aria-label="Interactive line chart" id="datawrapper-chart-Hf1Wz" src="https://datawrapper.dwcdn.net/Hf1Wz/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="634"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+            </script>
+        </div>
+        <br>
+        <div class="story-body">
+            <p class="body-text">In such cases, in order to keep every New Yorker from heat illness and even death, in 2020, Cool it! NYC was brought to the public attention to serve residents in need during heat events to find their nearest <strong>cooling sites</strong> and <strong>spray showers</strong> in parks, along with over three thousand <strong>drinking fountains</strong> scattered across the city.</p>
+            <h3 class="annotation2"> First Step 💡 to Stay Away From Heat Wave </p>
+            <h2 class="annotation text-center">find out your nearby drinking fountains🚰</h2>
+        </div>
+        <br>
+        <!--Drinking Fountains Data-->
+        <div class="chart-section">
+            <iframe title="Scattered Drinking Fountains in New York City" aria-label="Map" id="datawrapper-chart-albSL" src="https://datawrapper.dwcdn.net/albSL/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="653"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+            </script>
+        </div>
+        <br>
+        <div class="story-body">
+            <p class="body-text">Of 3815 drinking fountains in all in the city, Central Park has 179 drinking fountains, followed by 129 placed at Flushing Meadows Corona Park. However, not all drinking fountains in public are filtered. In fact, in most parts of the world, drinking fountains' water comes straight from a nearby water main, an underground pipe supplied by municipal water distribution system, which oftentimes is also the same place where your tap water at home comes from.</p>
+            <p class="body-text">But they're not exactly the same case. The safety of public water varies with its location and the frequency of maintenance. It can sit stagnant in the fountains for hours or even days before anyone actually comes to using it, which potentially makes it a breeding ground for contaminants and harmful bacteria, especially when the fountains are exposed under the sun.</p>
+        </div>
+        <br>
+        <div class="chart-section">
+            <iframe title="How Many Of Them Are filtered?" aria-label="Dot Plot" id="datawrapper-chart-yyNig" src="https://datawrapper.dwcdn.net/yyNig/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="156"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+            </script>
+        </div>
+        <br>
+        <div class="story-body">
+            <p class="body-text">Outdoor drinking fountains without filters installed accounted for 77.46%, compriseing the largest category of the total, compared to only 34 indoor drinking fountains with the installed filters.</p>
+            <p class="body-text">So, if you suffer from New York City's painful heat and meanwhile care about water safety, you might want to check the map below to find out where these filtered drinking fountains are after walking under the sun for 10 minutes 🏃‍♀️🏃🌞 while being extremely thirsty 🥵.</p>
+        </div>
+        <br>
+        <div class="chart-section">
+            <iframe title="Only 350 Of Them Are Filtered..." aria-label="Map" id="datawrapper-chart-loaC1" src="https://datawrapper.dwcdn.net/loaC1/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="714"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+            </script>
+        </div>
+        <br>
+        <div class="story-body">
+            <h3 class="annotation2">How Heat Vulnerable Areas Get Covered?!</p>
+        </div>
+        <br>
+        <!--Misting Stations Data-->
+        <div class="story-body">
+            <p class="body-text">After Cool it! plan was launched in July 2020, to measure various neighborhoods which are the most at risk during extreme heat, NYC Health and Columbia University developed the New York City <a href="https://www.health.ny.gov/environmental/weather/vulnerability_index/">Heat Vulnerability Index (HVI)</a>. NYC Parks later expanded the scope of cooling amenities coverage with the data and direct new cooling elements to neighborhoods with HVIs of 4 and 5.</p>
+            <p class="body-text">There are two types of cooling site amenities, one of them is <strong>Misting Station</strong>. The following map shows the density of misting stations, which indicates the most vulnerable communities in need of additional cooling options in NYC.</p>
+        </div>
+        <br>
+        <div class="chart-section">
+            <iframe title="Misting Stations At Most Vulnerable Communities" aria-label="Map" id="datawrapper-chart-FPFFa" src="https://datawrapper.dwcdn.net/FPFFa/9/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="712"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+            </script>
+        </div>
+        <br>
+        <div class="story-body">
+            <p class="body-text">The other type of cooling site amenities is <strong>Spray Shower</strong>. Before 2020 July, the city already has more than 700 spray showers scattered at different corners in town. After the plan was launched, more spray showers are mapped to the middle of parks this time.</p>
+        </div>
+        <div class="story-body">
+            <h3 class="annotation2">How to Get Spray Showers Work?</p>
+            <h2 class="annotation text-center">you can call 311📞 but... </h2>
+        </div>
+        <br>
+        <!--Spray Shower befor/after 2020 Data-->
+        <div class="chart-section3">
+            <div class="columns is-mobile is-variable is-8">
+                <div class="column">
+                    <iframe title="How New York City's Spray Showers spread out before July 2020" aria-label="Map" id="datawrapper-chart-sA274" src="https://datawrapper.dwcdn.net/sA274/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="719"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+                    </script>
+                </div>
+                <div class="column">
+                    <iframe title="Installed after July 2020" aria-label="Map" id="datawrapper-chart-ORTy9" src="https://datawrapper.dwcdn.net/ORTy9/9/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="692"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+                    </script>             
+                </div>
+            </div>
+        </div>
+        <br>
+        <br>
+        <div class="story-body">
+            <p class="body-text">But spray showers can't be working all the time. NYC Parks shuts down most outdoor water amenities in each year's early fall to prevent pipes from freezing during the winter and they will restart the cooling systems around next year's St. Patrick's Day.</p>
+            <p class="body-text">Spray showers will usually be activated by parks faculty when the temperature is predicted to be at least 80 °F, but sometimes they would also do so in cooler weather at their discretion.</p>
+            <p class="body-text">People can also make a request for turning on certain public spray showers themselves by calling 311, NYC's non-emergency services numbers, but just keep that in mind——water takes time to travel all the way from pipes to sprinklers. So don't rush yourself and wait patiently for the cooling water⛲️!</p>
+        </div>
+
+    </body>
+
+
+    <footer class="light-theme">
+        <p></p>
+        <div class="footer findcode text-center">
+            <p>If you' d like to check my code for this project, they are now available on <a href="url">GitHub</a>.</p>
+            <p>The original dataset can be found <a href="https://data.cityofnewyork.us/browse?q=Cool%20It!%20NYC%202020%20&sortBy=relevance">here</a>.</p>
+        </div>        
+        <!--sometimes icon not showing up is because of subsription plan!-->
+        <div class="adjust four-icon text-center">
+            <a href="https://github.com/luyi-eve" title="Github" target="_blank"><span class="title"><i class="fab fa-github fa-2xs transparency"></i></span><a>
+            <a href="https://twitter.com/luyi_2021" title="Twitter" target="_blank"><span class="title"><i class="fab fa-twitter padding fa-2xs transparency"></i></span><a>
+            <a href="https://www.instagram.com/eseve__ly/" title="Instagram" target="_blank"><span class="title"><i class="fa-brands fa-instagram padding fa-2xs transparency"></i></span><a>
+            <a href="eseve@live.com" target="_top" title="E-mail"><span class="title"><i class="fas fa-envelope padding fa-2xs transparency"></i></span><a>
+        </div>
+        
+
+    </footer>
