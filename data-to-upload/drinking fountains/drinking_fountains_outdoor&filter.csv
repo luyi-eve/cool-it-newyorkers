@@ -1,0 +1,3816 @@
+,PropertyName,ZIPCode,Filter_Installed,Outdoor
+0,American Playground,11222.0,False,True
+1,Amersfort Park,11210.0,False,True
+2,Amersfort Park,11210.0,False,True
+3,Bensonhurst Park,11214.0,False,True
+4,Bensonhurst Park,11214.0,True,True
+5,Bensonhurst Park,11214.0,True,True
+6,Bensonhurst Park,11214.0,False,True
+7,Bensonhurst Park,11214.0,True,True
+8,Bensonhurst Park,11214.0,False,True
+9,Betsy Head Park,11212.0,False,True
+10,Betsy Head Park,11212.0,False,True
+11,Betsy Head Park,11212.0,False,True
+12,Betsy Head Park,11212.0,False,True
+13,Betsy Head Park,11212.0,False,True
+14,Betsy Head Park,11212.0,False,True
+15,Betsy Head Park,11212.0,True,True
+16,Betsy Head Park,11212.0,False,True
+17,Betsy Head Park,11212.0,False,False
+18,Betsy Head Park,11212.0,False,False
+19,Brooklyn Botanic Garden,11238.0,False,True
+20,Brooklyn Botanic Garden,11238.0,False,True
+21,Brooklyn Botanic Garden,11238.0,False,True
+22,Brooklyn Botanic Garden,11238.0,False,True
+23,Brooklyn Botanic Garden,11238.0,False,True
+24,Brower Park,11213.0,False,True
+25,Brower Park,11213.0,True,True
+26,Maria Hernandez Park,11237.0,False,True
+27,Maria Hernandez Park,11237.0,False,True
+28,Maria Hernandez Park,11237.0,False,True
+29,Maria Hernandez Park,11237.0,False,True
+30,Maria Hernandez Park,11237.0,True,True
+31,Maria Hernandez Park,11237.0,True,True
+32,Bushwick Playground,11237.0,False,True
+33,Bushwick Playground,11237.0,False,True
+34,Bushwick Playground,11237.0,False,True
+35,Bushwick Playground,11237.0,False,True
+36,Bushwick Playground,11237.0,False,True
+37,Bushwick Playground,11237.0,False,True
+38,Canarsie Park,11236.0,False,True
+39,Canarsie Park,11236.0,False,True
+40,Canarsie Park,11236.0,False,True
+41,Canarsie Park,11236.0,False,True
+42,Canarsie Park,11236.0,False,True
+43,Canarsie Park,11236.0,False,True
+44,Canarsie Park,11236.0,False,True
+45,Canarsie Park,11236.0,False,True
+46,Canarsie Park,11236.0,False,True
+47,Canarsie Park,11236.0,False,True
+48,Canarsie Park,11236.0,False,True
+49,Canarsie Park,11236.0,False,True
+50,Canarsie Park,11236.0,False,False
+51,Canarsie Park,11236.0,False,False
+52,Carroll Park,11231.0,False,True
+53,Carroll Park,11231.0,False,True
+54,Carroll Park,11231.0,False,True
+55,Commodore Barry Park,11201.0,True,True
+56,Commodore Barry Park,11201.0,False,True
+57,Commodore Barry Park,11201.0,False,True
+58,Commodore Barry Park,11201.0,False,True
+59,Commodore Barry Park,11201.0,False,True
+60,Commodore Barry Park,11201.0,True,True
+61,Commodore Barry Park,11201.0,True,False
+62,Commodore Barry Park,11201.0,True,False
+63,Commodore Barry Park,11201.0,False,False
+64,Commodore Barry Park,11201.0,False,False
+65,Middleton Playground,11206.0,False,True
+66,Lafayette Playground,11221.0,False,True
+67,Cooper Park,11211.0,False,True
+68,Cooper Park,11211.0,False,True
+69,Cooper Park,11211.0,False,True
+70,Cuyler Gore Park,11238.0,False,True
+71,Dyker Beach Park,11228.0,False,True
+72,Dyker Beach Park,11228.0,True,True
+73,Dyker Beach Park,11228.0,False,True
+74,Dyker Beach Park,11228.0,False,True
+75,Dyker Beach Park,11228.0,False,True
+76,Dyker Beach Park,11228.0,False,True
+77,Dyker Beach Park,11228.0,True,True
+78,Dyker Beach Park,11228.0,False,True
+79,Dyker Beach Park,11228.0,False,True
+80,Dyker Beach Park,11228.0,False,True
+81,Dyker Beach Park,11228.0,False,True
+82,Dyker Beach Park,11228.0,False,True
+83,Dyker Beach Park,11228.0,False,True
+84,Dyker Beach Park,11228.0,False,True
+85,Dyker Beach Park,11228.0,False,True
+86,Dyker Beach Park,11228.0,False,True
+87,Dyker Beach Park,11228.0,False,True
+88,Dyker Beach Park,11228.0,False,True
+89,Dyker Beach Park,11228.0,False,True
+90,Dyker Beach Park,11228.0,False,True
+91,Dyker Beach Park,11228.0,False,True
+92,Dyker Beach Park,11228.0,False,True
+93,Dyker Beach Park,11228.0,False,False
+94,Dyker Beach Park,11228.0,False,False
+95,Fort Greene Park,11201.0,True,True
+96,Fort Greene Park,11201.0,False,True
+97,Fort Greene Park,11201.0,False,True
+98,Fort Greene Park,11201.0,False,True
+99,Fort Greene Park,11201.0,False,True
+100,Fort Greene Park,11201.0,False,True
+101,Fort Greene Park,11201.0,False,False
+102,Fort Greene Park,11201.0,False,False
+103,John Paul Jones Park,11209.0,False,True
+104,John Paul Jones Park,11209.0,False,True
+105,Fulton Park,11233.0,False,True
+106,Fulton Park,11233.0,False,True
+107,Gravesend Park,11204.0,False,True
+108,Gravesend Park,11204.0,False,True
+109,Gravesend Park,11204.0,False,True
+110,Gravesend Park,11204.0,False,True
+111,Gravesend Park,11204.0,False,True
+112,Gravesend Park,11204.0,False,True
+113,Gravesend Park,11204.0,False,True
+114,Gravesend Park,11204.0,False,True
+115,Gravesend Park,11204.0,False,True
+116,Gravesend Park,11204.0,True,True
+117,Gravesend Park,11204.0,False,True
+118,Gravesend Park,11204.0,False,True
+119,Greenpoint Playground,11222.0,False,True
+120,Dr. Ronald McNair Park,11225.0,False,True
+121,Dr. Ronald McNair Park,11225.0,False,True
+122,Highland Park,11208.0,False,True
+123,Highland Park,11208.0,False,True
+124,Highland Park,11208.0,False,True
+125,Highland Park,11208.0,False,True
+126,Highland Park,11207.0,False,True
+127,Highland Park,11208.0,False,True
+128,Irving Square Park,11207.0,False,True
+129,Irving Square Park,11207.0,False,True
+130,Van Voorhees Playground,11201.0,False,True
+131,Van Voorhees Playground,11201.0,False,True
+132,Van Voorhees Playground,11201.0,False,True
+133,Van Voorhees Playground,11201.0,False,True
+134,Van Voorhees Playground,11201.0,True,True
+135,Kelly Park Playground,11229.0,False,True
+136,Kelly Park Playground,11229.0,False,True
+137,Kelly Park Playground,11229.0,False,True
+138,Kelly Park Playground,11229.0,False,True
+139,Kelly Park Playground,11229.0,False,True
+140,Kelly Park Playground,11229.0,False,True
+141,Leif Ericson Park,11219.0,True,True
+142,Leif Ericson Park,11220.0,False,True
+143,Leif Ericson Park,11220.0,False,True
+144,Leif Ericson Park,11220.0,True,True
+145,Leif Ericson Park,11220.0,False,True
+146,Leif Ericson Park,11220.0,False,True
+147,Leif Ericson Park,11220.0,False,True
+148,Lincoln Terrace / Arthur S. Somers Park,11213.0,False,True
+149,Lincoln Terrace / Arthur S. Somers Park,11213.0,False,True
+150,Lincoln Terrace / Arthur S. Somers Park,11213.0,False,True
+151,Lincoln Terrace / Arthur S. Somers Park,11213.0,False,True
+152,Lincoln Terrace / Arthur S. Somers Park,11213.0,False,True
+153,Lincoln Terrace / Arthur S. Somers Park,11213.0,False,True
+154,Lincoln Terrace / Arthur S. Somers Park,11213.0,False,True
+155,Lincoln Terrace / Arthur S. Somers Park,11213.0,False,True
+156,Lincoln Terrace / Arthur S. Somers Park,11213.0,False,True
+157,Lincoln Terrace / Arthur S. Somers Park,11213.0,False,True
+158,Lincoln Terrace / Arthur S. Somers Park,11233.0,False,True
+159,Lincoln Terrace / Arthur S. Somers Park,11233.0,False,True
+160,Lincoln Terrace / Arthur S. Somers Park,11233.0,False,True
+161,Lincoln Terrace / Arthur S. Somers Park,11233.0,False,True
+162,Sternberg Park,11206.0,False,True
+163,Sternberg Park,11206.0,False,True
+164,Sternberg Park,11206.0,False,True
+165,Sternberg Park,11206.0,False,True
+166,Sternberg Park,11206.0,False,True
+167,Sternberg Park,11206.0,False,True
+168,Sternberg Park,11206.0,False,True
+169,Martin Luther King Jr. Playground,11207.0,False,True
+170,Martin Luther King Jr. Playground,11207.0,False,True
+171,Marine Park,11229.0,False,True
+173,Marine Park,11229.0,False,True
+174,Hinton Park,11368.0,False,True
+175,Marine Park,11229.0,False,True
+176,Marine Park,11229.0,False,True
+177,Marine Park,11229.0,False,True
+178,Marine Park,11229.0,False,True
+179,Marine Park,11229.0,False,True
+180,Marine Park,11229.0,True,True
+181,Marine Park,11229.0,False,True
+182,Marine Park,11229.0,False,True
+183,Marine Park,11234.0,True,True
+184,Marine Park,11234.0,False,True
+185,Marine Park,11229.0,False,True
+186,Marine Park,11234.0,False,True
+187,Marine Park,11234.0,False,True
+188,Marine Park,11234.0,False,True
+189,Marine Park,11234.0,False,True
+190,Marine Park,11234.0,False,True
+191,Marine Park,11234.0,False,True
+192,Marine Park,11234.0,False,True
+193,Marine Park,11234.0,False,True
+194,Marine Park,11234.0,False,True
+195,Marine Park,11234.0,False,True
+196,Marine Park,11234.0,False,False
+197,Marine Park,11234.0,False,False
+198,Marine Park,11234.0,False,False
+199,Marine Park,11229.0,False,False
+200,Marine Park,11229.0,False,False
+201,McCarren Park,11222.0,False,True
+202,McCarren Park,11222.0,False,True
+203,Cadman Plaza Park,11201.0,False,True
+204,McCarren Park,11222.0,False,True
+205,McCarren Park,11222.0,False,True
+206,McCarren Park,11222.0,False,True
+207,McCarren Park,11211.0,False,True
+208,McCarren Park,11211.0,False,True
+209,McCarren Park,11222.0,False,True
+210,McCarren Park,11222.0,False,True
+211,McCarren Park,11222.0,False,True
+212,McCarren Park,11222.0,False,True
+213,McCarren Park,11222.0,False,True
+214,McCarren Park,11249.0,False,True
+215,McCarren Park,11249.0,False,True
+216,McCarren Park,11211.0,False,True
+217,McCarren Park,11222.0,False,False
+218,McCarren Park,11222.0,False,False
+219,McCarren Park,11222.0,False,False
+220,McCarren Park,11222.0,False,False
+221,McCarren Park,11222.0,False,False
+222,McCarren Park,11222.0,False,False
+223,McCarren Park,11222.0,False,False
+224,McCarren Park,11222.0,True,False
+225,McCarren Park,11222.0,False,False
+226,McCarren Park,11222.0,False,False
+227,McKinley Park,11228.0,False,True
+228,McKinley Park,11228.0,False,True
+229,McKinley Park,11228.0,False,True
+230,McKinley Park,11228.0,False,True
+231,Cadman Plaza Park,11201.0,False,True
+232,McKinley Park,11228.0,False,True
+233,McKinley Park,11228.0,False,True
+234,McKinley Park,11228.0,False,True
+235,McLaughlin Park,11201.0,False,True
+236,McLaughlin Park,11201.0,False,True
+237,McLaughlin Park,11201.0,False,True
+238,McLaughlin Park,11201.0,False,True
+239,McLaughlin Park,11201.0,False,True
+240,McLaughlin Park,11201.0,False,True
+241,McLaughlin Park,11201.0,False,True
+242,Milestone Park,11214.0,True,True
+243,Owl's Head Park,11220.0,True,True
+244,Owl's Head Park,11220.0,False,True
+245,Owl's Head Park,11220.0,False,True
+246,Owl's Head Park,11220.0,False,True
+247,Owl's Head Park,11220.0,False,True
+248,Owl's Head Park,11220.0,False,True
+249,Owl's Head Park,11220.0,False,True
+250,Parade Ground,11226.0,False,True
+251,Parade Ground,11226.0,False,True
+252,Parade Ground,11226.0,False,True
+253,Parade Ground,11226.0,False,True
+254,Parade Ground,11226.0,False,True
+255,Parade Ground,11226.0,False,True
+256,Parade Ground,11226.0,False,True
+257,Parade Ground,11226.0,False,True
+258,Parade Ground,11226.0,False,True
+259,Parade Ground,11226.0,False,True
+260,Parade Ground,11226.0,False,True
+261,Parade Ground,11226.0,False,True
+262,Parade Ground,11226.0,False,True
+263,Parade Ground,11226.0,False,True
+264,Parade Ground,11226.0,False,True
+265,Parade Ground,11226.0,False,True
+266,Parade Ground,11226.0,False,True
+267,Parade Ground,11226.0,False,True
+268,Parade Ground,11226.0,True,True
+269,Parade Ground,11226.0,True,True
+270,Parade Ground,11226.0,False,True
+271,Parade Ground,11226.0,False,False
+272,Parade Ground,11226.0,False,False
+273,Parade Ground,11226.0,False,False
+274,Parade Ground,11226.0,False,False
+275,Prospect Park,11215.0,False,True
+276,Prospect Park,11215.0,True,True
+277,Prospect Park,11215.0,False,True
+278,Prospect Park,11215.0,False,True
+279,Prospect Park,11215.0,False,True
+280,Prospect Park,11215.0,False,True
+281,Prospect Park,11215.0,False,True
+282,Prospect Park,11215.0,False,False
+283,Prospect Park,11215.0,False,True
+284,Prospect Park,11215.0,False,True
+285,Prospect Park,11226.0,False,True
+286,Prospect Park,11215.0,False,True
+287,Prospect Park,11215.0,False,True
+288,Prospect Park,11215.0,False,True
+290,Prospect Park,11215.0,False,True
+291,Prospect Park,11215.0,False,True
+292,Prospect Park,11215.0,False,True
+293,Prospect Park,11215.0,False,True
+294,Prospect Park,11215.0,False,True
+295,Prospect Park,11215.0,False,True
+296,Prospect Park,11215.0,False,True
+297,Prospect Park,11215.0,False,True
+298,Prospect Park,11215.0,False,True
+299,Prospect Park,11215.0,False,True
+300,Prospect Park,11215.0,False,True
+301,Prospect Park,11215.0,False,True
+302,Prospect Park,11215.0,False,True
+303,Prospect Park,11215.0,False,True
+304,Prospect Park,11215.0,False,True
+305,Prospect Park,11215.0,False,True
+306,Prospect Park,11215.0,True,True
+307,Prospect Park,11215.0,False,True
+308,Prospect Park,11215.0,False,True
+309,Prospect Park,11215.0,False,True
+310,Prospect Park,11215.0,True,True
+311,Prospect Park,11215.0,False,True
+312,Prospect Park,11215.0,False,True
+313,Prospect Park,11215.0,False,True
+314,Prospect Park,11215.0,False,True
+315,Prospect Park,11215.0,False,True
+316,Prospect Park,11215.0,False,True
+317,Prospect Park,11215.0,False,True
+318,Prospect Park,11215.0,False,True
+319,Prospect Park,11215.0,False,True
+320,Prospect Park,11215.0,False,True
+321,Prospect Park,11215.0,False,True
+322,Prospect Park,11215.0,False,True
+323,Prospect Park,11215.0,False,True
+324,Prospect Park,11215.0,False,True
+325,Prospect Park,11215.0,False,True
+326,Prospect Park,11215.0,False,False
+327,Prospect Park,11215.0,False,False
+328,Prospect Park,11215.0,False,False
+329,Prospect Park,11215.0,False,False
+330,Prospect Park,11215.0,False,False
+331,Prospect Park,11215.0,False,False
+332,Prospect Park,11215.0,True,False
+333,Prospect Park,11215.0,False,False
+334,Prospect Park,11215.0,False,False
+335,Prospect Park,11215.0,False,False
+336,Prospect Park,11215.0,False,False
+337,Prospect Park,11215.0,False,False
+338,Prospect Park,11215.0,False,False
+339,Prospect Park,11215.0,False,False
+340,Prospect Park,11215.0,False,False
+341,Prospect Park,11215.0,False,False
+342,Prospect Park,11215.0,False,False
+344,Prospect Park,11215.0,False,False
+345,Prospect Park,11215.0,False,False
+346,Prospect Park,11215.0,False,False
+347,Prospect Park,11215.0,False,False
+348,Prospect Park,11215.0,False,False
+349,Prospect Park,11215.0,False,False
+350,Prospect Park,11215.0,False,False
+351,Coffey Park,11231.0,False,True
+352,Coffey Park,11231.0,False,True
+353,Coffey Park,11231.0,False,True
+354,Grace Playground,11207.0,False,True
+355,Grace Playground,11207.0,False,True
+356,Grace Playground,11207.0,False,True
+357,Saratoga Park,11233.0,False,True
+358,Saratoga Park,11233.0,False,True
+359,Saratoga Park,11233.0,False,True
+360,Saratoga Park,11233.0,False,True
+361,Asser Levy Park,11224.0,False,True
+362,Asser Levy Park,11224.0,True,True
+363,Shore Park and Parkway,11209.0,False,True
+364,Shore Park and Parkway,11209.0,False,True
+365,Shore Park and Parkway,11209.0,False,True
+366,Shore Park and Parkway,11209.0,False,True
+367,Shore Park and Parkway,11209.0,False,True
+368,Shore Park and Parkway,11209.0,False,True
+369,Shore Park and Parkway,11209.0,False,True
+370,Shore Park and Parkway,11209.0,False,True
+371,Shore Park and Parkway,11209.0,False,True
+372,Shore Park and Parkway,11209.0,False,True
+374,Shore Park and Parkway,11209.0,False,True
+375,Metropolitan Recreation Center,11211.0,False,False
+376,Metropolitan Recreation Center,11211.0,False,False
+377,Metropolitan Recreation Center,11211.0,False,False
+378,Metropolitan Recreation Center,11211.0,False,False
+379,Sunset Park,11232.0,True,True
+380,Sunset Park,11232.0,False,True
+381,Sunset Park,11232.0,False,True
+382,Sunset Park,11232.0,False,True
+383,Sunset Park,11232.0,False,False
+384,Sunset Park,11232.0,False,False
+385,Sunset Park,11232.0,False,False
+386,Herbert Von King Park,11216.0,True,True
+387,Herbert Von King Park,11216.0,False,True
+388,Herbert Von King Park,11216.0,False,True
+389,Herbert Von King Park,11216.0,False,True
+390,Herbert Von King Park,11216.0,True,True
+391,Ennis Playground,11215.0,False,True
+392,Sgt. William Dougherty Playground,11222.0,False,True
+393,Sgt. William Dougherty Playground,11222.0,False,True
+394,Sledge Playground,11236.0,False,True
+395,Martin Luther Playground,11220.0,False,True
+396,Martin Luther Playground,11220.0,False,True
+397,Seth Low Playground/ Bealin Square,11204.0,False,True
+398,Seth Low Playground/ Bealin Square,11204.0,False,True
+399,Seth Low Playground/ Bealin Square,11204.0,False,True
+400,Seth Low Playground/ Bealin Square,11204.0,False,True
+401,Crispus Attucks Playground,11238.0,False,True
+403,Cypress Hills Playground,11208.0,False,True
+404,Cypress Hills Playground,11208.0,False,True
+405,Cypress Hills Playground,11208.0,False,True
+406,Taaffe Playground,11205.0,False,True
+407,Taaffe Playground,11205.0,False,True
+408,Scarangella Park,11223.0,False,True
+409,Scarangella Park,11223.0,False,True
+410,Scarangella Park,11223.0,False,True
+411,Scarangella Park,11223.0,False,True
+412,Lion's Pride Playground,11207.0,False,True
+413,Lion's Pride Playground,11207.0,False,True
+414,Bill Brown Playground,11235.0,False,True
+415,Bill Brown Playground,11235.0,False,True
+416,Bill Brown Playground,11235.0,False,True
+417,Bill Brown Playground,11235.0,False,True
+418,Bill Brown Playground,11235.0,False,True
+419,Bill Brown Playground,11235.0,False,False
+420,Marion Hopkinson Playground,11233.0,False,True
+421,Marion Hopkinson Playground,11233.0,False,True
+422,Marion Hopkinson Playground,11233.0,False,True
+423,Marion Hopkinson Playground,11233.0,False,True
+424,Washington Park,11215.0,False,True
+425,Washington Park,11215.0,True,True
+426,Washington Park,11215.0,False,True
+427,Washington Park,11215.0,False,True
+428,J.J. Byrne Playground,11215.0,False,True
+429,J.J. Byrne Playground,11215.0,False,True
+430,J.J. Byrne Playground,11215.0,False,True
+431,Cadman Plaza Park,11201.0,False,True
+432,Cadman Plaza Park,11201.0,False,True
+433,Cadman Plaza Park,11201.0,False,True
+435,Cadman Plaza Park,11201.0,False,False
+436,Cadman Plaza Park,11201.0,False,False
+437,Columbus Park,11201.0,False,True
+438,Columbus Park,11201.0,False,True
+439,Walt Whitman Park,11201.0,False,True
+440,Walt Whitman Park,11201.0,False,True
+441,Msgr. McGolrick Park,11222.0,False,True
+442,Msgr. McGolrick Park,11222.0,False,True
+443,Msgr. McGolrick Park,11222.0,False,True
+444,Msgr. McGolrick Park,11222.0,False,True
+445,Dodger Playground,11225.0,False,True
+446,William Sheridan Playground,11249.0,True,True
+447,William Sheridan Playground,11249.0,False,True
+448,Calvert Vaux Park,11214.0,False,True
+449,Calvert Vaux Park,11214.0,False,True
+450,Calvert Vaux Park,11214.0,False,True
+451,Calvert Vaux Park,11214.0,False,True
+452,Calvert Vaux Park,11214.0,False,True
+453,Calvert Vaux Park,11214.0,False,True
+454,Calvert Vaux Park,11214.0,False,True
+455,Calvert Vaux Park,11214.0,False,True
+456,Red Hook Recreation Area,11231.0,True,True
+457,Red Hook Recreation Area,11231.0,False,True
+458,Red Hook Recreation Area,11231.0,True,True
+459,Red Hook Recreation Area,11231.0,True,True
+460,Red Hook Recreation Area,11231.0,True,True
+461,Red Hook Recreation Area,11231.0,True,True
+462,Red Hook Recreation Area,11231.0,False,True
+464,Red Hook Recreation Area,11231.0,False,True
+465,Red Hook Recreation Area,11231.0,False,True
+466,Red Hook Recreation Area,11231.0,False,True
+467,Red Hook Recreation Area,11231.0,False,True
+468,Red Hook Recreation Area,11231.0,False,True
+469,Red Hook Recreation Area,11231.0,False,True
+470,Red Hook Recreation Area,11231.0,False,True
+471,Red Hook Recreation Area,11231.0,False,True
+472,Red Hook Recreation Area,11231.0,False,True
+473,Red Hook Recreation Area,11231.0,False,True
+474,Red Hook Recreation Area,11231.0,False,False
+475,Red Hook Recreation Area,11231.0,False,False
+476,Red Hook Recreation Area,11231.0,False,False
+477,Red Hook Recreation Area,11231.0,False,False
+478,Red Hook Recreation Area,11231.0,False,False
+479,Martinez Playground,11206.0,False,True
+480,Colonel David Marcus Playground,11230.0,False,True
+481,Colonel David Marcus Playground,11230.0,False,True
+482,Colonel David Marcus Playground,11230.0,False,True
+483,Colonel David Marcus Playground,11230.0,False,True
+484,Kaiser Park,11224.0,False,True
+485,Kaiser Park,11224.0,False,True
+486,Kaiser Park,11224.0,False,True
+487,Kaiser Park,11224.0,False,True
+488,Kaiser Park,11224.0,False,True
+489,Greenwood Playground,11218.0,False,True
+490,Greenwood Playground,11218.0,False,True
+492,Greenwood Playground,11218.0,False,True
+493,Greenwood Playground,11218.0,False,True
+494,Greenwood Playground,11218.0,False,True
+495,Greenwood Playground,11218.0,False,True
+496,Rudd Playground,11207.0,False,True
+497,Gilbert Ramirez Park,11206.0,True,True
+498,Newtown Barge Playground,11222.0,False,True
+499,Newtown Barge Playground,11222.0,False,True
+500,Sixteen Sycamores Playground,11217.0,False,True
+501,Sixteen Sycamores Playground,11217.0,True,True
+502,Heckscher Playground,11221.0,False,True
+503,Heckscher Playground,11221.0,False,True
+504,Heckscher Playground,11221.0,False,True
+505,Heckscher Playground,11221.0,True,True
+506,Heckscher Playground,11221.0,True,True
+507,City Line Park,11208.0,False,True
+508,City Line Park,11208.0,False,True
+509,City Line Park,11208.0,False,True
+510,City Line Park,11208.0,False,True
+511,Bedford Playground,11211.0,True,True
+512,Ocean Hill Playground,11233.0,False,True
+513,Ocean Hill Playground,11233.0,False,True
+514,Thomas Greene Playground,11217.0,True,True
+515,Thomas Greene Playground,11217.0,False,True
+516,Thomas Greene Playground,11217.0,False,False
+517,Thomas Greene Playground,11217.0,False,False
+518,Thomas Greene Playground,11217.0,False,False
+519,Quaker Parrot Park at the Dust Bowl,11220.0,False,True
+520,Quaker Parrot Park at the Dust Bowl,11220.0,False,True
+521,Quaker Parrot Park at the Dust Bowl,11220.0,False,True
+522,Quaker Parrot Park at the Dust Bowl,11220.0,False,True
+523,Monsignor Crawford Field,11234.0,False,True
+524,Monsignor Crawford Field,11234.0,True,True
+525,Rolph Henry Playground,11226.0,True,True
+526,Elton Playground,11208.0,False,True
+527,Linwood Playground,11208.0,False,True
+528,Kolbert Playground,11230.0,False,True
+529,Kolbert Playground,11230.0,False,True
+530,Kolbert Playground,11230.0,False,True
+531,Dome Playground,11218.0,False,True
+532,Dome Playground,11218.0,False,True
+533,Dome Playground,11218.0,False,True
+534,Rappaport Playground,11219.0,False,True
+535,Rappaport Playground,11219.0,False,True
+536,South Pacific Playground,11233.0,False,True
+537,South Pacific Playground,11233.0,False,True
+538,South Pacific Playground,11233.0,False,True
+539,Berry Playground,11249.0,False,True
+540,Powell Playground,11212.0,False,True
+541,Powell Playground,11212.0,False,True
+542,Kelly Park Playground,11229.0,True,True
+543,Garibaldi Playground,11214.0,False,True
+544,Mount Prospect Park,11238.0,False,True
+545,Mount Prospect Park,11238.0,False,True
+546,Mount Prospect Park,11238.0,False,True
+547,Mount Prospect Park,11238.0,False,True
+548,Underhill Playground,11238.0,False,True
+549,Underhill Playground,11238.0,False,True
+550,Brizzi Playground,11219.0,True,True
+551,Brizzi Playground,11219.0,False,True
+552,Sperandeo Brothers Playground,11208.0,False,True
+553,Sperandeo Brothers Playground,11208.0,False,True
+554,Sperandeo Brothers Playground,11208.0,False,True
+555,Bath Beach Park,11214.0,False,True
+556,Bath Beach Park,11214.0,True,True
+557,Bath Beach Park,11214.0,False,True
+558,Bath Beach Park,11214.0,False,True
+559,Homecrest Playground,11235.0,False,True
+560,Coney Island Boat Basin,11214.0,False,True
+561,Coney Island Boat Basin,11214.0,False,True
+562,Coney Island Boat Basin,11214.0,False,True
+563,Coney Island Boat Basin,11214.0,False,True
+564,Coney Island Boat Basin,11214.0,False,True
+565,Coney Island Boat Basin,11214.0,True,True
+566,McGuire Fields,11234.0,False,True
+567,McGuire Fields,11234.0,True,True
+568,McGuire Fields,11234.0,False,True
+569,McGuire Fields,11234.0,False,True
+570,McGuire Fields,11234.0,False,True
+571,McGuire Fields,11234.0,False,True
+572,McGuire Fields,11234.0,False,True
+573,McGuire Fields,11234.0,False,True
+574,McGuire Fields,11234.0,False,True
+575,McGuire Fields,11234.0,False,False
+576,Belt Parkway/Shore Parkway,11234.0,False,True
+577,Belt Parkway/Shore Parkway,11234.0,False,True
+578,Belt Parkway/Shore Parkway,11234.0,False,True
+579,La Guardia Playground,11211.0,False,True
+580,Continental Army Plaza,11211.0,False,True
+581,Brighton Playground,11235.0,False,True
+582,Seton Park,10471.0,False,True
+583,Poseidon Playground,11224.0,False,True
+584,Poseidon Playground,11224.0,False,False
+585,Coney Island Beach & Boardwalk,11235.0,False,True
+586,Coney Island Beach & Boardwalk,11235.0,False,True
+587,Coney Island Beach & Boardwalk,11235.0,False,True
+588,Coney Island Beach & Boardwalk,11235.0,False,True
+589,Coney Island Beach & Boardwalk,11235.0,False,True
+590,Coney Island Beach & Boardwalk,11224.0,False,True
+591,Coney Island Beach & Boardwalk,11224.0,False,True
+592,Coney Island Beach & Boardwalk,11235.0,False,True
+593,Coney Island Beach & Boardwalk,11235.0,False,True
+594,Coney Island Beach & Boardwalk,11224.0,False,True
+595,Coney Island Beach & Boardwalk,11224.0,False,True
+596,Coney Island Beach & Boardwalk,11224.0,False,True
+597,Coney Island Beach & Boardwalk,11224.0,False,True
+598,Coney Island Beach & Boardwalk,11224.0,False,True
+599,Coney Island Beach & Boardwalk,11224.0,False,True
+600,Coney Island Beach & Boardwalk,11224.0,False,True
+601,Coney Island Beach & Boardwalk,11224.0,False,True
+602,Coney Island Beach & Boardwalk,11224.0,False,True
+603,Coney Island Beach & Boardwalk,11224.0,False,True
+604,Coney Island Beach & Boardwalk,11224.0,False,True
+605,Coney Island Beach & Boardwalk,11224.0,False,True
+606,Coney Island Beach & Boardwalk,11224.0,False,True
+607,Coney Island Beach & Boardwalk,11224.0,False,True
+608,Coney Island Beach & Boardwalk,11224.0,False,True
+609,Coney Island Beach & Boardwalk,11224.0,False,True
+610,Coney Island Beach & Boardwalk,11224.0,False,True
+611,Coney Island Beach & Boardwalk,11224.0,False,True
+612,Coney Island Beach & Boardwalk,11224.0,False,True
+613,Coney Island Beach & Boardwalk,11224.0,False,True
+614,Coney Island Beach & Boardwalk,11224.0,False,True
+615,Coney Island Beach & Boardwalk,11224.0,False,True
+616,Coney Island Beach & Boardwalk,11224.0,False,True
+617,Coney Island Beach & Boardwalk,11224.0,False,True
+618,Coney Island Beach & Boardwalk,11224.0,False,True
+619,Coney Island Beach & Boardwalk,11224.0,False,True
+620,Coney Island Beach & Boardwalk,11224.0,False,True
+621,Coney Island Beach & Boardwalk,11224.0,False,True
+622,Coney Island Beach & Boardwalk,11224.0,False,True
+623,Coney Island Beach & Boardwalk,11224.0,False,True
+624,Coney Island Beach & Boardwalk,11224.0,False,True
+625,Coney Island Beach & Boardwalk,11224.0,False,True
+626,Coney Island Beach & Boardwalk,11224.0,False,True
+627,Coney Island Beach & Boardwalk,11224.0,False,True
+628,Coney Island Beach & Boardwalk,11224.0,False,True
+629,Coney Island Beach & Boardwalk,11224.0,False,True
+630,Coney Island Beach & Boardwalk,11224.0,False,True
+631,Coney Island Beach & Boardwalk,11224.0,False,True
+632,Coney Island Beach & Boardwalk,11224.0,False,True
+633,Coney Island Beach & Boardwalk,11224.0,False,True
+634,Coney Island Beach & Boardwalk,11224.0,True,False
+635,Coney Island Beach & Boardwalk,11224.0,False,False
+636,Coney Island Beach & Boardwalk,11224.0,False,False
+637,Fraser Square,11234.0,False,True
+638,Fort Hamilton Athletic Field,11209.0,False,True
+639,Fort Hamilton Athletic Field,11209.0,False,True
+640,Fort Hamilton Athletic Field,11209.0,False,True
+641,Russell Pedersen Playground,11209.0,False,True
+642,Russell Pedersen Playground,11209.0,False,True
+643,Hamilton Metz Field,11203.0,False,True
+644,Hamilton Metz Field,11203.0,False,True
+645,Hamilton Metz Field,11203.0,False,True
+646,Hamilton Metz Field,11203.0,False,True
+647,Mellett Playground,11229.0,False,True
+648,Mellett Playground,11229.0,False,True
+649,Elizabeth Stroud Playground,11233.0,False,True
+650,Sunners Playground,11234.0,False,True
+651,Sarsfield Playground,11234.0,False,True
+652,Sarsfield Playground,11234.0,False,True
+653,Pfc Norton Playground,11229.0,False,True
+654,Galapo Playground,11229.0,False,True
+655,Galapo Playground,11229.0,False,True
+656,John Allen Payne Playground,11220.0,False,True
+657,John Allen Payne Playground,11220.0,False,True
+658,John Allen Payne Playground,11220.0,False,True
+659,D'Emic Playground,11232.0,False,True
+660,D'Emic Playground,11232.0,False,True
+661,Harold Ickes Playground,11231.0,False,True
+663,Gonzalo Plasencia Playground,11232.0,False,True
+664,Gonzalo Plasencia Playground,11232.0,False,True
+665,Gonzalo Plasencia Playground,11232.0,True,True
+666,Pena Herrera Playground,11220.0,True,True
+667,Pena Herrera Playground,11220.0,False,True
+668,John J Carty Park,11209.0,True,True
+669,John J Carty Park,11209.0,False,True
+670,John J Carty Park,11209.0,False,True
+671,John J Carty Park,11209.0,False,True
+672,John J Carty Park,11209.0,False,False
+673,John J Carty Park,11209.0,False,False
+674,Hot Spot Tot Lot,11210.0,False,True
+675,Linden Park,11207.0,False,True
+676,Linden Park,11207.0,False,True
+677,Linden Park,11207.0,False,True
+678,Linden Park,11207.0,False,True
+679,Linden Park,11207.0,False,True
+680,Linden Park,11207.0,False,True
+681,Linden Park,11207.0,False,True
+682,Decatur Playground,11233.0,False,True
+683,Raymond Bush Playground,11221.0,False,True
+684,Raymond Bush Playground,11221.0,False,True
+685,Marcy Playground,11206.0,False,True
+686,Marcy Playground,11206.0,False,True
+687,Marcy Playground,11206.0,False,True
+688,Marcy Playground,11206.0,False,True
+689,Paerdegat Park,11203.0,False,True
+690,Paerdegat Park,11203.0,False,True
+691,Paerdegat Park,11203.0,False,True
+692,Callahan-Kelly Playground,11233.0,False,True
+693,Callahan-Kelly Playground,11233.0,False,True
+694,Callahan-Kelly Playground,11233.0,False,True
+695,Callahan-Kelly Playground,11233.0,False,True
+696,Washington Hall Park,11205.0,False,True
+697,Washington Hall Park,11205.0,False,True
+698,Steuben Playground,11205.0,False,True
+699,Pierrepont Playground,11201.0,True,True
+700,Pierrepont Playground,11201.0,True,True
+701,Dimattina Playground,11231.0,False,True
+702,Dimattina Playground,11231.0,False,True
+703,Dimattina Playground,11231.0,False,True
+704,Dimattina Playground,11231.0,False,True
+705,Dimattina Playground,11231.0,False,True
+706,Adam Yauch Park,11201.0,False,True
+707,Adam Yauch Park,11201.0,False,True
+708,Adam Yauch Park,11201.0,False,True
+709,Brooklyn Heights Promenade,11201.0,False,True
+710,Brooklyn Heights Promenade,11201.0,False,True
+711,Brooklyn Heights Promenade,11201.0,False,True
+712,Squibb Park,11201.0,False,True
+713,Squibb Park,11201.0,False,True
+714,Hillside Dog Park,11201.0,False,True
+715,Hillside Dog Park,11201.0,False,True
+716,Harry Chapin Playground,11201.0,False,True
+717,Bridge Park,11201.0,False,True
+718,Bridge Park,11201.0,False,True
+719,Bridge Park 3,11201.0,False,True
+720,Trinity Park,11201.0,False,True
+721,Penn Triangle,11249.0,False,True
+722,Rodney Park Center,11211.0,False,True
+723,Rodney Park North,11211.0,True,True
+724,John Hancock Playground,11216.0,False,True
+725,Rodney Playground South,11211.0,True,True
+726,Rodney Playground Center,11211.0,False,True
+727,Rodney Playground North,11211.0,True,True
+728,Jaime Campiz Playground,11211.0,False,True
+729,Jaime Campiz Playground,11211.0,False,True
+730,P.O. Reinaldo Salgado Playground,11221.0,True,True
+731,P.O. Reinaldo Salgado Playground,11221.0,False,True
+732,St. Andrew's Playground,11216.0,False,True
+733,St. Andrew's Playground,11216.0,False,True
+734,St. Andrew's Playground,11216.0,False,True
+735,St. Andrew's Playground,11216.0,False,True
+736,Dr. Green Playground,11212.0,False,True
+737,Dr. Green Playground,11212.0,False,True
+738,Dr. Green Playground,11212.0,False,True
+739,Nicholas Naquan Heyward Jr. Park,11217.0,False,True
+740,Nicholas Naquan Heyward Jr. Park,11217.0,False,True
+741,Nicholas Naquan Heyward Jr. Park,11217.0,False,True
+742,Dean Playground,11217.0,True,True
+743,Dean Playground,11217.0,False,True
+744,Dean Playground,11217.0,False,True
+745,Dean Playground,11217.0,True,True
+746,Dean Playground,11217.0,False,True
+747,Tilden Playground,11203.0,True,True
+748,Tilden Playground,11203.0,False,True
+749,Herman Dolgon Playground,11229.0,False,True
+750,Herman Dolgon Playground,11229.0,False,True
+751,Glenwood Playground,11234.0,False,True
+752,Glenwood Playground,11234.0,False,True
+753,Glenwood Playground,11234.0,False,True
+754,John Hancock Playground,11216.0,False,True
+755,Sheepshead Playground,11235.0,True,True
+756,Sheepshead Playground,11235.0,True,True
+757,Tucker Place,11235.0,False,True
+758,Golconda Playground,11201.0,False,True
+759,Golconda Playground,11201.0,False,True
+760,Golconda Playground,11201.0,False,True
+761,McDonald Playground,11223.0,False,True
+762,McDonald Playground,11223.0,False,True
+763,McDonald Playground,11223.0,False,True
+764,St. John's Park,11213.0,False,True
+765,St. John's Park,11213.0,False,True
+766,St. John's Park,11213.0,False,True
+767,St. John's Park,11213.0,False,True
+768,St. John's Park,11213.0,False,True
+769,St. John's Park,11213.0,False,True
+770,St. John's Park,11213.0,False,True
+771,St. John's Park,11213.0,False,True
+772,St. John's Park,11213.0,False,True
+773,St. John's Park,11213.0,False,True
+774,St. John's Park,11213.0,False,True
+775,St. John's Park,11213.0,False,True
+776,St. John's Park,11213.0,False,True
+777,St. John's Park,11213.0,False,False
+778,St. John's Park,11213.0,False,False
+779,St. John's Park,11213.0,True,False
+780,St. John's Park,11213.0,False,False
+781,Jerome Playground,11207.0,False,True
+782,Jerome Playground,11207.0,False,True
+783,Jerome Playground,11207.0,False,True
+784,Breukelen Ballfields,11207.0,False,True
+785,Breukelen Ballfields,11207.0,False,True
+787,Breukelen Ballfields,11207.0,False,True
+788,Breukelen Ballfields,11207.0,False,True
+789,Breukelen Ballfields,11207.0,False,True
+790,Breukelen Ballfields,11207.0,False,True
+791,Breukelen Ballfields,11207.0,False,True
+792,Breukelen Ballfields,11207.0,False,True
+793,Fox Playground,11234.0,False,True
+794,Fox Playground,11234.0,False,True
+795,Fox Playground,11234.0,False,True
+796,Van Dyke Playground,11212.0,False,True
+797,Van Dyke Playground,11212.0,False,True
+798,Van Dyke Playground,11212.0,False,True
+799,Nostrand Playground,11210.0,False,True
+800,Nostrand Playground,11210.0,False,True
+801,Nostrand Playground,11210.0,True,True
+802,Manhattan Beach Park,11235.0,True,True
+803,Manhattan Beach Park,11235.0,False,True
+804,Manhattan Beach Park,11235.0,False,True
+805,Manhattan Beach Park,11235.0,False,True
+806,Manhattan Beach Park,11235.0,False,True
+807,Manhattan Beach Park,11235.0,False,True
+808,Manhattan Beach Park,11235.0,False,True
+809,Manhattan Beach Park,11235.0,False,True
+810,Manhattan Beach Park,11235.0,False,True
+811,Manhattan Beach Park,11235.0,False,True
+812,Manhattan Beach Park,11235.0,False,True
+813,Manhattan Beach Park,11235.0,False,True
+814,Manhattan Beach Park,11235.0,False,True
+815,Manhattan Beach Park,11235.0,False,True
+816,Manhattan Beach Park,11235.0,False,True
+817,Manhattan Beach Park,11235.0,False,True
+818,Manhattan Beach Park,11235.0,False,True
+819,Manhattan Beach Park,11235.0,False,True
+820,Manhattan Beach Park,11235.0,False,True
+821,Manhattan Beach Park,11235.0,False,True
+822,Manhattan Beach Park,11235.0,False,True
+823,Manhattan Beach Park,11235.0,False,True
+824,Manhattan Beach Park,11235.0,False,True
+825,West Playground,11223.0,True,True
+826,West Playground,11223.0,False,True
+827,West Playground,11223.0,False,True
+828,West Playground,11223.0,False,True
+829,Albert J. Parham Playground,11205.0,False,True
+830,Albert J. Parham Playground,11205.0,False,True
+831,Wingate Park,11203.0,False,True
+832,Wingate Park,11203.0,False,True
+833,Wingate Park,11203.0,False,True
+834,Wingate Park,11203.0,False,True
+835,Wingate Park,11203.0,False,True
+836,Wingate Park,11203.0,False,True
+837,Wingate Park,11203.0,False,False
+838,Detective Joseph Mayrose Park,11215.0,False,True
+839,Butterfly Gardens,11215.0,False,True
+840,Thomas J. Cuite Park,11218.0,True,True
+841,Seeley Park,11218.0,False,True
+842,Park,11218.0,False,True
+843,Frost Playground,11211.0,False,True
+844,Brevoort Playground,11233.0,False,True
+845,Brevoort Playground,11233.0,False,True
+847,Brevoort Playground,11233.0,False,True
+848,Underwood Park,11205.0,False,True
+849,Underwood Park,11205.0,False,True
+850,Howard Pool,11212.0,True,False
+851,Howard Pool,11212.0,False,False
+852,Howard Pool,11212.0,True,True
+853,Howard Pool,11212.0,False,True
+854,Howard Pool,11212.0,False,False
+855,Howard Pool,11212.0,False,False
+856,Howard Pool,11212.0,False,False
+857,Howard Playground,11212.0,False,True
+858,Howard Playground,11212.0,False,True
+859,Sankofa Park,11207.0,False,True
+860,Potomac Playground,11216.0,False,True
+861,Potomac Playground,11216.0,False,True
+862,Potomac Playground,11216.0,False,True
+863,Sumner Playground,11206.0,True,True
+864,Sumner Playground,11206.0,False,True
+865,Sumner Playground,11206.0,False,True
+866,Sumner Playground,11206.0,False,True
+867,Roebling Playground,11211.0,False,True
+868,Roebling Playground,11211.0,False,True
+869,Rainbow Playground,11220.0,False,True
+870,Star Spangled Playground,11205.0,False,True
+871,Star Spangled Playground,11205.0,False,True
+872,Star Spangled Playground,11205.0,False,True
+873,Winthrop Playground,11225.0,False,True
+874,Winthrop Playground,11225.0,False,True
+875,Winthrop Playground,11225.0,False,True
+876,Nautilus Playground,11224.0,False,True
+877,Nautilus Playground,11224.0,False,True
+878,Jesse Owens Playground,11221.0,False,True
+879,Jesse Owens Playground,11221.0,False,True
+880,Jesse Owens Playground,11221.0,False,True
+881,Brownsville Playground,11212.0,False,True
+882,Brownsville Playground,11212.0,False,True
+883,Brownsville Playground,11212.0,False,True
+884,Brownsville Playground,11212.0,False,False
+885,Brownsville Playground,11212.0,False,False
+886,Brownsville Playground,11212.0,False,False
+887,Brownsville Playground,11212.0,False,False
+888,Brownsville Playground,11212.0,True,False
+889,Brownsville Playground,11212.0,False,False
+890,Brownsville Playground,11212.0,False,False
+891,Brownsville Playground,11212.0,False,False
+892,Railroad Playground,11236.0,False,True
+893,Railroad Playground,11236.0,False,True
+894,Railroad Playground,11236.0,True,True
+895,Railroad Playground,11236.0,False,True
+896,Railroad Playground,11236.0,False,True
+897,Marlboro Playground,11223.0,False,True
+898,Bayview Playground,11236.0,True,True
+899,Bayview Playground,11236.0,False,True
+900,Grady Playground,11235.0,False,True
+901,Benson Playground,11214.0,False,True
+902,Benson Playground,11214.0,True,True
+903,Patrick O'Rourke Playground,11228.0,False,True
+904,Belmont Playground,11208.0,True,True
+905,Marc And Jason's Playground,11225.0,False,True
+906,Harry Maze Playground,11203.0,False,True
+907,Harry Maze Playground,11203.0,False,True
+908,Harry Maze Playground,11203.0,False,True
+909,Harry Maze Playground,11203.0,False,True
+910,Bartlett Playground,11206.0,False,True
+911,Bartlett Playground,11206.0,False,True
+912,Andries Playground,11210.0,True,True
+913,Andries Playground,11210.0,True,True
+914,Slope Park Playground,11215.0,False,True
+915,Slope Park Playground,11215.0,True,True
+916,Slope Park Playground,11215.0,True,True
+917,Power Playground,11234.0,False,True
+918,Pratt Playground,11205.0,False,True
+919,Pratt Playground,11205.0,False,True
+920,Classon Playground,11205.0,False,True
+921,Jackie Robinson Park Playground,11233.0,False,True
+922,Jackie Robinson Park Playground,11233.0,False,True
+923,Jackie Robinson Park Playground,11233.0,False,True
+924,Jackie Robinson Park Playground,11233.0,False,True
+925,Jackie Robinson Park Playground,11233.0,False,True
+926,Oxport Playground,11205.0,False,True
+927,Oxport Playground,11205.0,False,True
+928,Oxport Playground,11205.0,False,True
+929,Luna Playground,11224.0,False,True
+930,Luna Playground,11224.0,False,True
+931,Luna Playground,11224.0,False,True
+932,Albemarle Playground,11218.0,True,True
+933,Albemarle Playground,11218.0,False,True
+934,Albemarle Playground,11218.0,False,True
+935,Stockton Playground,11206.0,False,True
+937,Stockton Playground,11206.0,False,True
+938,Stockton Playground,11206.0,False,True
+939,Oracle Playground,11205.0,False,True
+940,Greene Playground,11238.0,False,True
+941,Greene Playground,11238.0,False,True
+942,Charlie's Place,11206.0,False,True
+943,Kennedy King Playground,11212.0,True,True
+944,Kennedy King Playground,11212.0,True,True
+945,P.S. 279 Playground,11236.0,False,True
+946,Tiger Playground,11207.0,False,True
+947,Yak Playground,11235.0,False,True
+948,Yak Playground,11235.0,False,True
+949,Pink Playground,11208.0,False,True
+950,Pink Playground,11208.0,False,True
+951,Bushwick Playground,11206.0,False,True
+952,Bushwick Playground,11206.0,False,True
+953,Bushwick Playground,11206.0,False,True
+954,Bushwick Playground,11206.0,False,True
+955,Bushwick Playground,11206.0,True,False
+956,Bushwick Playground,11206.0,True,False
+957,Bushwick Playground,11206.0,True,True
+958,Bushwick Playground,11206.0,False,False
+959,Bushwick Playground,11206.0,False,False
+960,Bushwick Playground,11206.0,False,True
+961,Ten Eyck Playground,11206.0,False,True
+962,Ten Eyck Playground,11206.0,False,True
+963,El Shabazz Playground,11233.0,False,True
+964,El Shabazz Playground,11233.0,False,True
+965,Surf Playground,11224.0,False,True
+966,Surf Playground,11224.0,False,True
+967,DiGilio Playground,11218.0,False,True
+968,DiGilio Playground,11218.0,False,True
+969,Lafayette Gardens Playground,11205.0,False,True
+970,Lafayette Gardens Playground,11205.0,False,True
+971,Park Slope Playground,11217.0,False,True
+972,Park Slope Playground,11217.0,False,True
+973,Edmonds Playground,11205.0,False,True
+974,Edmonds Playground,11205.0,False,True
+975,Pulaski Playground,11206.0,False,True
+976,Pulaski Playground,11206.0,False,True
+977,Pulaski Playground,11206.0,False,True
+978,Hattie Carthan Playground,11216.0,False,True
+979,Hattie Carthan Playground,11216.0,False,True
+980,Jacob Joffe Fields,11234.0,False,True
+981,Jacob Joffe Fields,11234.0,False,True
+982,Jacob Joffe Fields,11234.0,False,True
+983,Fish Playground,11233.0,False,True
+984,Fish Playground,11233.0,False,True
+985,Cobble Hill Park,11201.0,False,True
+986,Cobble Hill Park,11201.0,False,True
+987,Lindower Park,11234.0,True,True
+988,Lindower Park,11234.0,False,True
+989,Lindower Park,11234.0,False,True
+990,Lindower Park,11234.0,False,True
+991,Hickman Playground,11234.0,False,True
+992,Hickman Playground,11234.0,False,True
+993,Hickman Playground,11234.0,False,True
+994,Hickman Playground,11234.0,False,True
+995,Neptune Playground,11224.0,False,True
+996,Evergreen Playground,11207.0,False,True
+997,Evergreen Playground,11207.0,False,True
+998,Fermi Playground,11221.0,True,True
+999,Fermi Playground,11221.0,True,True
+1000,Fermi Playground,11221.0,False,True
+1001,Bildersee Playground,11236.0,False,True
+1002,Bildersee Playground,11236.0,False,True
+1003,Bildersee Playground,11236.0,False,True
+1004,Century Playground,11224.0,False,True
+1005,Century Playground,11224.0,False,True
+1006,Garden Playground,11206.0,False,True
+1007,100% Playground,11236.0,False,True
+1008,100% Playground,11236.0,False,True
+1009,Osborn Playground,11212.0,False,True
+1010,Osborn Playground,11212.0,True,True
+1011,Osborn Playground,11212.0,False,True
+1012,Ethan Allen Playground,11207.0,True,True
+1013,Ethan Allen Playground,11207.0,False,True
+1014,Ethan Allen Playground,11207.0,False,True
+1015,Ericsson Playground,11222.0,False,True
+1016,Carver Playground,11233.0,False,True
+1017,Carver Playground,11233.0,False,True
+1018,Carver Playground,11233.0,False,True
+1019,Willoughby Playground,11206.0,False,True
+1020,Bath Playground,11214.0,False,True
+1021,Bath Playground,11214.0,False,True
+1022,Stroud Playground,11238.0,False,True
+1023,Stroud Playground,11238.0,False,True
+1024,Kosciuszko Pool,11216.0,False,False
+1025,Kosciuszko Pool,11216.0,False,False
+1026,Kosciuszko Pool,11216.0,False,False
+1027,Kosciuszko Pool,11216.0,False,False
+1028,Curtis Playground,11236.0,False,True
+1029,Robert E. Venable Park,11208.0,False,True
+1030,Curtis Playground,11236.0,False,True
+1031,Bergen Beach Playground,11234.0,False,True
+1032,North Pacific Playground,11217.0,False,True
+1033,Jackie Robinson Playground,11225.0,False,True
+1034,Jackie Robinson Playground,11225.0,False,True
+1035,Jackie Robinson Playground,11225.0,False,True
+1036,De Hostos Playground,11206.0,False,True
+1037,De Hostos Playground,11206.0,False,True
+1038,De Hostos Playground,11206.0,False,True
+1039,Eleanor Roosevelt Playground,11221.0,False,True
+1040,Remsen Playground,11236.0,False,True
+1041,Boerum Park,11201.0,False,True
+1042,Boerum Park,11201.0,False,True
+1043,Chester Playground,11212.0,False,True
+1044,Chester Playground,11212.0,False,True
+1045,Houston Playground,11212.0,False,True
+1046,Woods Playground,11213.0,False,True
+1047,Livonia Park,11212.0,False,True
+1048,Steeplechase Park,11224.0,False,True
+1049,Steeplechase Park,11224.0,False,True
+1050,Spring Creek Park,11239.0,False,True
+1051,Spring Creek Park,11239.0,False,True
+1052,Friends Field,11230.0,False,True
+1053,Friends Field,11230.0,False,True
+1054,Friends Field,11230.0,True,True
+1055,Friends Field,11230.0,False,True
+1056,Chiarantano Playground,11203.0,False,True
+1057,Floyd Patterson Ballfields,11212.0,False,True
+1058,Floyd Patterson Ballfields,11212.0,False,True
+1059,Robert E. Venable Park,11208.0,False,True
+1060,Robert E. Venable Park,11208.0,True,True
+1061,Thomas Boyland Park,11207.0,False,True
+1062,Thomas Boyland Park,11207.0,False,True
+1063,Roberto Clemente Ballfield,11249.0,False,True
+1064,Roberto Clemente Ballfield,11249.0,False,True
+1065,Roberto Clemente Ballfield,11249.0,False,True
+1066,WNYC Transmitter Park,11222.0,False,True
+1067,Hilltop Playground,11233.0,False,True
+1068,Hilltop Playground,11233.0,False,True
+1069,Hilltop Playground,11233.0,False,True
+1070,Mother Cabrini Park,11231.0,False,True
+1071,Lott Park,11226.0,False,True
+1072,Green Central Knoll,11206.0,False,True
+1073,Green Central Knoll,11206.0,False,True
+1074,Green Central Knoll,11206.0,False,True
+1075,Nehemiah Park,11212.0,False,True
+1076,Carter G. Woodson Children's Park,11212.0,False,True
+1077,Grand Ferry Park,11249.0,False,True
+1078,George Walker Jr. Park,11207.0,False,True
+1079,George Walker Jr. Park,11207.0,False,True
+1080,East Flatbush Children's Playground,11212.0,False,True
+1081,Epiphany Playground,11249.0,False,True
+1082,South Oxford Park,11217.0,False,True
+1083,Valentino Pier,11231.0,False,True
+1084,Sutter Ballfields,11207.0,False,True
+1085,Sutter Ballfields,11207.0,False,True
+1086,Sutter Ballfields,11207.0,False,True
+1087,Lewis Playground,11206.0,False,True
+1088,Brooklyn Bridge Park,11201.0,False,True
+1089,Brooklyn Bridge Park,11201.0,False,True
+1091,Brooklyn Bridge Park,,False,True
+1092,Brooklyn Bridge Park,,False,False
+1093,Brooklyn Bridge Park,11201.0,False,True
+1094,Brooklyn Bridge Park,,False,False
+1095,Brooklyn Bridge Park,11201.0,False,True
+1096,Brooklyn Bridge Park,11201.0,False,True
+1097,Hendrick I. Lott House,11234.0,True,True
+1098,Bushwick Inlet Park,11249.0,False,True
+1099,Bushwick Inlet Park,11249.0,False,True
+1100,Bushwick Inlet Park,11249.0,False,True
+1101,Bushwick Inlet Park,11249.0,False,True
+1102,Bushwick Inlet Park,11249.0,False,False
+1103,Bushwick Inlet Park,11249.0,False,False
+1104,Bushwick Inlet Park,11249.0,False,False
+1105,Bushwick Inlet Park,11249.0,False,False
+1109,Holocaust Memorial Park,11235.0,False,True
+1112,Bush Terminal Park,11232.0,False,True
+1113,Bush Terminal Park,11232.0,False,True
+1114,Bush Terminal Park,11232.0,False,True
+1115,Bush Terminal Park,11232.0,False,True
+1116,Bush Terminal Park,11232.0,False,True
+1117,Bush Terminal Park,11232.0,False,True
+1118,Bush Terminal Park,11232.0,False,True
+1120,Bush Terminal Park,11232.0,False,True
+1121,St. Mark's Playground,11213.0,False,True
+1125,Abingdon Square,10014.0,False,True
+1126,Annunciation Playground,10031.0,False,True
+1127,Allen Mall One,10002.0,False,True
+1128,Allen Mall One,10002.0,False,True
+1129,The Battery,10004.0,False,True
+1130,The Battery,10004.0,False,True
+1131,The Battery,10004.0,False,True
+1132,The Battery,10004.0,False,True
+1133,The Battery,10004.0,False,True
+1134,The Battery,10004.0,False,True
+1135,The Battery,10004.0,False,True
+1136,The Battery,10004.0,False,True
+1137,The Battery,10004.0,True,True
+1138,The Battery,10004.0,False,True
+1139,The Battery,10004.0,False,True
+1140,The Battery,10004.0,False,False
+1141,The Battery,10004.0,False,False
+1142,Tribeca Park,10013.0,False,True
+1143,Bennett Park,10033.0,False,True
+1144,Bennett Park,10033.0,False,True
+1145,Central Park,83.0,False,True
+1146,Central Park,83.0,False,True
+1147,Central Park,83.0,False,True
+1148,Central Park,83.0,False,True
+1149,Central Park,83.0,False,False
+1150,Central Park,83.0,False,True
+1151,Central Park,83.0,False,True
+1152,Central Park,83.0,True,True
+1153,Central Park,83.0,False,True
+1154,Central Park,83.0,False,True
+1155,Central Park,83.0,False,True
+1156,Central Park,83.0,False,True
+1157,Central Park,83.0,False,True
+1158,Central Park,83.0,False,True
+1159,Central Park,83.0,False,True
+1160,Central Park,83.0,False,True
+1161,Central Park,83.0,False,True
+1162,Central Park,83.0,False,True
+1163,Central Park,83.0,False,True
+1164,Central Park,83.0,False,True
+1165,Central Park,83.0,False,True
+1166,Central Park,83.0,False,True
+1167,Central Park,83.0,False,True
+1168,Central Park,83.0,False,True
+1169,Central Park,83.0,False,True
+1170,Central Park,83.0,False,True
+1171,Central Park,83.0,False,True
+1172,Central Park,83.0,False,True
+1173,Central Park,83.0,False,True
+1174,Central Park,83.0,False,True
+1175,Central Park,83.0,False,True
+1176,Central Park,83.0,False,True
+1177,Highbridge Park,10032.0,False,True
+1178,Central Park,83.0,False,True
+1179,Central Park,83.0,False,True
+1180,Central Park,83.0,False,True
+1181,Central Park,83.0,False,True
+1182,Central Park,83.0,False,True
+1183,Central Park,83.0,False,True
+1184,Central Park,83.0,False,True
+1185,Central Park,83.0,False,True
+1186,Central Park,83.0,False,True
+1187,Central Park,83.0,False,True
+1188,Central Park,83.0,False,True
+1189,Central Park,83.0,False,True
+1190,Central Park,83.0,False,True
+1191,Central Park,83.0,False,True
+1192,Central Park,83.0,False,True
+1193,Central Park,83.0,False,True
+1194,Central Park,83.0,False,True
+1195,Central Park,83.0,False,True
+1196,Central Park,83.0,False,True
+1197,Central Park,83.0,False,True
+1198,Central Park,83.0,False,True
+1199,Central Park,83.0,False,True
+1200,Central Park,83.0,False,True
+1201,Central Park,83.0,False,True
+1202,Central Park,83.0,False,True
+1203,Central Park,83.0,False,True
+1205,Central Park,83.0,True,True
+1206,Central Park,83.0,False,True
+1207,Central Park,83.0,False,True
+1208,Central Park,83.0,True,True
+1209,Central Park,83.0,False,True
+1210,Central Park,83.0,False,True
+1211,Central Park,83.0,False,True
+1212,Central Park,83.0,False,True
+1213,Central Park,83.0,False,True
+1214,Central Park,83.0,False,True
+1215,Central Park,83.0,False,True
+1216,Central Park,83.0,False,True
+1217,Central Park,83.0,False,True
+1218,Central Park,83.0,False,True
+1219,Central Park,83.0,False,True
+1220,Central Park,83.0,False,True
+1221,Central Park,83.0,False,True
+1222,Central Park,83.0,False,True
+1223,Central Park,83.0,False,True
+1224,Central Park,83.0,False,True
+1225,Central Park,83.0,False,True
+1226,Central Park,83.0,False,True
+1227,Central Park,83.0,False,True
+1228,Central Park,83.0,False,True
+1229,Central Park,83.0,False,True
+1230,Central Park,83.0,False,True
+1231,Central Park,83.0,False,True
+1232,Central Park,83.0,False,True
+1233,Central Park,83.0,False,True
+1234,Central Park,83.0,False,True
+1235,Central Park,83.0,False,True
+1236,Central Park,83.0,False,True
+1237,Central Park,83.0,False,True
+1238,Central Park,83.0,False,True
+1239,Central Park,83.0,False,True
+1240,Central Park,83.0,False,True
+1241,Central Park,83.0,False,True
+1242,Central Park,83.0,False,True
+1243,Central Park,83.0,False,True
+1244,Central Park,83.0,False,True
+1245,Central Park,83.0,False,True
+1246,Central Park,83.0,False,True
+1247,Central Park,83.0,False,True
+1248,Central Park,83.0,False,True
+1249,Central Park,83.0,False,True
+1250,Central Park,83.0,False,True
+1251,Central Park,83.0,False,True
+1252,Central Park,83.0,False,True
+1253,Central Park,83.0,False,True
+1254,Central Park,83.0,False,True
+1255,Central Park,83.0,False,True
+1256,Central Park,83.0,False,True
+1257,Central Park,83.0,False,True
+1258,Central Park,83.0,False,True
+1259,Central Park,83.0,False,True
+1260,Central Park,83.0,False,True
+1261,Central Park,83.0,False,True
+1262,Central Park,83.0,False,True
+1263,Central Park,83.0,False,True
+1264,Central Park,83.0,False,True
+1265,Central Park,83.0,True,True
+1266,Central Park,83.0,False,True
+1267,Central Park,83.0,False,True
+1268,Central Park,83.0,False,True
+1269,Central Park,83.0,False,True
+1270,Central Park,83.0,False,True
+1271,Central Park,83.0,False,True
+1272,Central Park,83.0,False,True
+1273,Central Park,83.0,False,True
+1274,Central Park,83.0,False,True
+1275,Central Park,83.0,False,True
+1276,Central Park,83.0,False,True
+1277,Central Park,83.0,False,True
+1278,Central Park,83.0,False,True
+1279,Central Park,83.0,False,True
+1280,Central Park,83.0,False,True
+1281,Central Park,83.0,False,True
+1282,Central Park,83.0,False,False
+1283,Central Park,83.0,False,False
+1284,Central Park,83.0,False,False
+1285,Central Park,83.0,False,False
+1286,Central Park,83.0,False,False
+1287,Central Park,83.0,False,False
+1289,Central Park,83.0,False,False
+1290,Central Park,83.0,False,False
+1291,Central Park,83.0,False,False
+1292,Central Park,83.0,False,False
+1293,Central Park,83.0,False,False
+1294,Central Park,83.0,False,False
+1295,Central Park,83.0,False,False
+1296,Central Park,83.0,False,False
+1297,Central Park,83.0,False,False
+1298,Central Park,83.0,False,False
+1299,Central Park,83.0,False,False
+1300,Central Park,83.0,False,False
+1301,Central Park,83.0,False,False
+1302,Central Park,83.0,False,False
+1303,Central Park,83.0,False,False
+1304,Central Park,83.0,False,False
+1305,Central Park,83.0,False,False
+1306,Central Park,83.0,False,False
+1307,Central Park,83.0,False,False
+1308,Central Park,83.0,False,False
+1309,Central Park,83.0,False,False
+1310,Central Park,83.0,False,False
+1311,Central Park,83.0,False,False
+1312,Central Park,83.0,False,False
+1313,Central Park,83.0,False,False
+1314,Central Park,83.0,False,False
+1315,Central Park,83.0,False,False
+1316,Central Park,83.0,False,False
+1317,Central Park,83.0,False,False
+1318,Central Park,83.0,False,False
+1319,Central Park,83.0,False,False
+1320,Central Park,83.0,False,False
+1321,Central Park,83.0,False,False
+1322,Central Park,83.0,False,False
+1323,Central Park,83.0,False,False
+1324,Central Park,83.0,False,False
+1325,Chelsea Park,10001.0,False,True
+1326,Chelsea Park,10001.0,False,True
+1327,Chelsea Park,10001.0,False,True
+1328,Chelsea Park,10001.0,False,False
+1329,Chelsea Park,10001.0,False,False
+1330,Chelsea Park,10001.0,False,True
+1331,City Hall Park,10007.0,False,True
+1332,City Hall Park,10007.0,False,True
+1333,Jackie Robinson Park,10039.0,False,True
+1334,Jackie Robinson Park,10039.0,False,True
+1335,Jackie Robinson Park,10039.0,False,True
+1336,Jackie Robinson Park,10039.0,False,True
+1337,Jackie Robinson Park,10039.0,False,True
+1338,Jackie Robinson Park,10039.0,True,True
+1339,Jackie Robinson Park,10039.0,False,True
+1340,Jackie Robinson Park,10039.0,True,True
+1341,Jackie Robinson Park,10039.0,False,False
+1342,Jackie Robinson Park,10039.0,False,False
+1343,Jackie Robinson Park,10039.0,False,False
+1344,Jackie Robinson Park,10039.0,False,False
+1345,Jackie Robinson Park,10039.0,False,False
+1346,Columbus Park,10013.0,False,True
+1347,Columbus Park,10013.0,False,True
+1348,Columbus Park,10013.0,False,True
+1349,Columbus Park,10013.0,False,True
+1350,Columbus Park,10013.0,False,True
+1351,Columbus Park,10013.0,False,True
+1352,Columbus Park,10013.0,False,True
+1353,Cooper Triangle,10003.0,False,True
+1354,Corlears Hook Park,10002.0,False,True
+1355,Corlears Hook Park,10002.0,False,True
+1356,Carmansville Playground,10031.0,False,True
+1357,Coleman Playground,10002.0,False,True
+1358,Coleman Playground,10002.0,False,True
+1359,Coleman Playground,10002.0,False,True
+1360,De Witt Clinton Park,10019.0,False,True
+1361,De Witt Clinton Park,10019.0,False,True
+1362,De Witt Clinton Park,10019.0,False,True
+1363,De Witt Clinton Park,10019.0,False,True
+1364,De Witt Clinton Park,10019.0,False,True
+1365,De Witt Clinton Park,10019.0,False,True
+1366,De Witt Clinton Park,10019.0,True,True
+1367,De Witt Clinton Park,10019.0,False,True
+1368,De Witt Clinton Park,10019.0,False,False
+1369,Downing Street Playground,10014.0,False,True
+1370,Fort Washington Park,10032.0,False,True
+1371,Fort Washington Park,10032.0,False,True
+1373,Fort Washington Park,10032.0,False,True
+1374,Fort Washington Park,10032.0,False,True
+1375,Fort Washington Park,10032.0,False,True
+1376,Fort Washington Park,10032.0,False,True
+1377,Fort Washington Park,10032.0,False,True
+1378,Fort Washington Park,10032.0,False,True
+1379,Fort Washington Park,10032.0,False,True
+1380,Fort Tryon Park,10040.0,False,True
+1381,Fort Tryon Park,10040.0,False,True
+1382,Fort Tryon Park,10040.0,False,True
+1383,Fort Tryon Park,10040.0,False,True
+1384,Fort Tryon Park,10040.0,False,True
+1385,Fort Tryon Park,10040.0,False,True
+1386,Fort Tryon Park,10040.0,False,True
+1387,Fort Tryon Park,10040.0,False,True
+1388,Fort Tryon Park,10040.0,False,True
+1389,Fort Tryon Park,10040.0,False,True
+1390,Thomas Paine Park,10007.0,False,True
+1391,Thomas Paine Park,10007.0,False,True
+1392,Amelia Gorman Park,10040.0,False,True
+1393,Hamilton Fish Park,10002.0,False,True
+1394,Hamilton Fish Park,10002.0,False,True
+1395,Hamilton Fish Park,10002.0,False,True
+1396,Hamilton Fish Park,10002.0,False,True
+1397,Hamilton Fish Park,10002.0,False,False
+1398,Hamilton Fish Park,10002.0,False,False
+1399,Hamilton Fish Park,10002.0,False,False
+1400,Hamilton Fish Park,10002.0,False,False
+1401,Highbridge Park,10032.0,True,True
+1402,Highbridge Park,10033.0,False,True
+1403,Highbridge Park,10032.0,False,True
+1404,Highbridge Park,10032.0,False,True
+1405,Highbridge Park,10032.0,True,True
+1406,Highbridge Park,10032.0,False,True
+1407,Highbridge Park,10032.0,False,True
+1408,Highbridge Park,10040.0,False,True
+1409,Highbridge Park,10040.0,False,True
+1410,Highbridge Park,10040.0,False,True
+1411,Highbridge Park,10040.0,False,True
+1412,Highbridge Park,10040.0,True,True
+1413,Highbridge Park,10040.0,False,True
+1414,Highbridge Park,10040.0,True,True
+1415,Highbridge Park,10032.0,False,False
+1416,Highbridge Park,10032.0,False,False
+1417,James J Walker Park,10014.0,False,True
+1418,James J Walker Park,10014.0,False,True
+1419,Alexander Hamilton Playground,10031.0,False,True
+1420,Alexander Hamilton Playground,10031.0,False,True
+1421,Inwood Hill Park,10034.0,False,True
+1422,Inwood Hill Park,10034.0,False,True
+1423,Inwood Hill Park,10034.0,False,True
+1424,Inwood Hill Park,10034.0,False,True
+1425,Inwood Hill Park,10034.0,False,True
+1426,Inwood Hill Park,10034.0,False,True
+1427,Inwood Hill Park,10034.0,False,True
+1428,Inwood Hill Park,10034.0,False,True
+1429,Inwood Hill Park,10034.0,False,True
+1430,Inwood Hill Park,10034.0,False,True
+1431,Inwood Hill Park,10034.0,False,True
+1432,Inwood Hill Park,10034.0,False,True
+1433,Inwood Hill Park,10034.0,False,False
+1434,Isham Park,10034.0,False,True
+1435,Isham Park,10034.0,False,True
+1436,Isham Park,10034.0,False,True
+1437,Isham Park,10034.0,False,True
+1438,Isham Park,10034.0,False,True
+1439,Isham Park,10034.0,False,True
+1440,Jackson Square,10014.0,False,True
+1441,John Jay Park,10075.0,False,True
+1442,John Jay Park,10075.0,False,True
+1443,John Jay Park,10075.0,False,True
+1444,John Jay Park,10075.0,False,True
+1445,John Jay Park,10075.0,False,True
+1446,John Jay Park,10075.0,True,True
+1447,Thomas Jefferson Park,10029.0,False,True
+1448,Thomas Jefferson Park,10029.0,False,True
+1449,Thomas Jefferson Park,10029.0,False,True
+1450,Thomas Jefferson Park,10029.0,False,True
+1451,Thomas Jefferson Park,10029.0,False,True
+1452,Thomas Jefferson Park,10029.0,False,True
+1453,Thomas Jefferson Park,10029.0,False,True
+1454,Thomas Jefferson Park,10029.0,False,True
+1455,Thomas Jefferson Park,10029.0,False,True
+1456,Thomas Jefferson Park,10029.0,False,True
+1457,Thomas Jefferson Park,10029.0,False,True
+1458,Thomas Jefferson Park,10029.0,False,True
+1459,Thomas Jefferson Park,10029.0,False,False
+1460,Thomas Jefferson Park,10029.0,False,False
+1461,Thomas Jefferson Park,10029.0,False,False
+1462,Madison Square Park,10010.0,False,True
+1463,Madison Square Park,10010.0,False,True
+1464,Madison Square Park,10010.0,False,True
+1465,Theodore Roosevelt Park,10024.0,False,True
+1466,Theodore Roosevelt Park,10024.0,False,True
+1467,Mitchel Square,10032.0,False,True
+1468,Morningside Park,10026.0,False,True
+1469,Morningside Park,10026.0,True,True
+1470,Morningside Park,10026.0,False,True
+1471,Morningside Park,10026.0,True,True
+1472,Morningside Park,10026.0,False,True
+1473,Morningside Park,10026.0,False,True
+1474,Morningside Park,10026.0,False,True
+1475,Morningside Park,10026.0,False,True
+1476,Morningside Park,10026.0,False,False
+1477,Morningside Park,10026.0,False,False
+1478,Marcus Garvey Park,10027.0,True,True
+1479,Marcus Garvey Park,10027.0,False,True
+1480,Marcus Garvey Park,10027.0,False,True
+1481,Marcus Garvey Park,10027.0,False,True
+1482,Marcus Garvey Park,10027.0,False,True
+1483,Marcus Garvey Park,10027.0,False,True
+1484,Marcus Garvey Park,10027.0,False,True
+1485,J. Hood Wright Park,10033.0,True,True
+1486,Marcus Garvey Park,10027.0,False,False
+1487,Marcus Garvey Park,10027.0,False,False
+1488,Marcus Garvey Park,10027.0,False,False
+1489,Marcus Garvey Park,10027.0,False,False
+1490,Marcus Garvey Park,10027.0,False,False
+1491,Marcus Garvey Park,10027.0,False,False
+1492,Murphy Brothers Playground,10009.0,False,True
+1493,Murphy Brothers Playground,10009.0,False,True
+1494,Murphy Brothers Playground,10009.0,False,True
+1495,Gertrude Ederle Recreation Center,10023.0,False,True
+1496,Gertrude Ederle Recreation Center,10023.0,False,False
+1497,Gertrude Ederle Recreation Center,10023.0,False,False
+1498,Gertrude Ederle Recreation Center,10023.0,False,False
+1499,Lillian D Wald Playground,10002.0,False,True
+1500,Lillian D Wald Playground,10002.0,False,True
+1501,Luther Gulick Park,10002.0,False,True
+1502,Dr. Gertrude B. Kelly Playground,10011.0,False,True
+1503,Dr. Gertrude B. Kelly Playground,10011.0,False,True
+1504,Sophie Irene Loeb,10002.0,False,True
+1505,Vesuvio Playground,10012.0,False,True
+1506,Vesuvio Playground,10012.0,False,True
+1507,Riverside Park,10023.0,False,True
+1508,Riverside Park,10024.0,False,True
+1509,Riverside Park,10024.0,False,True
+1510,Riverside Park,10023.0,False,True
+1511,Riverside Park,10024.0,False,True
+1513,Riverside Park,10024.0,False,True
+1514,Riverside Park,10024.0,False,True
+1515,Riverside Park,10024.0,False,True
+1516,Riverside Park,10024.0,False,True
+1517,Riverside Park,10023.0,False,True
+1518,Riverside Park,10024.0,False,True
+1519,Riverside Park,10024.0,False,True
+1520,Riverside Park,10024.0,False,True
+1521,Riverside Park,10024.0,False,True
+1522,Riverside Park,10024.0,False,True
+1523,Riverside Park,10024.0,False,True
+1524,Riverside Park,10024.0,True,True
+1525,Riverside Park,10024.0,False,True
+1526,Riverside Park,10024.0,False,True
+1527,Riverside Park,10024.0,False,True
+1528,Riverside Park,10024.0,False,True
+1529,Riverside Park,10024.0,False,True
+1530,Riverside Park,10024.0,False,True
+1531,Riverside Park,10024.0,False,True
+1532,Riverside Park,10024.0,False,True
+1533,Riverside Park,10024.0,False,True
+1534,Riverside Park,10024.0,False,True
+1535,Riverside Park,10024.0,False,True
+1536,Riverside Park,10024.0,False,True
+1537,Riverside Park,10024.0,False,True
+1538,Riverside Park,10024.0,False,True
+1539,Riverside Park,10024.0,False,True
+1540,Riverside Park,10024.0,True,True
+1541,Riverside Park,10024.0,False,True
+1542,Riverside Park,10023.0,False,True
+1543,Riverside Park,10024.0,False,False
+1544,Riverside Park,10024.0,False,False
+1545,Riverside Park,10024.0,False,False
+1546,Riverside Park,10024.0,False,False
+1547,Riverside Park,10024.0,False,False
+1548,Riverside Park,10024.0,False,False
+1549,Riverside Park,10024.0,False,False
+1550,Riverside Park,10024.0,False,False
+1551,Riverside Park,10031.0,False,True
+1552,Riverside Park,10031.0,False,True
+1553,St. Vartan Park,10016.0,False,True
+1554,St. Vartan Park,10016.0,False,False
+1555,St. Nicholas Park,10031.0,True,True
+1556,St. Nicholas Park,10031.0,True,True
+1557,St. Nicholas Park,10027.0,False,True
+1558,St. Nicholas Park,10027.0,True,True
+1559,St. Nicholas Park,10027.0,False,True
+1560,St. Nicholas Park,10027.0,False,True
+1561,St. Nicholas Park,10027.0,False,True
+1562,St. Nicholas Park,10027.0,False,True
+1563,St. Catherine's Park,10065.0,False,True
+1564,St. Catherine's Park,10065.0,False,True
+1565,St. Catherine's Park,10065.0,False,True
+1566,Schiff Mall,10002.0,False,True
+1567,Carl Schurz Park,10028.0,False,True
+1568,Carl Schurz Park,10028.0,False,True
+1569,Carl Schurz Park,10028.0,False,True
+1570,Carl Schurz Park,10028.0,False,True
+1571,Carl Schurz Park,10028.0,False,True
+1572,Carl Schurz Park,10028.0,False,True
+1573,Carl Schurz Park,10028.0,False,True
+1574,Carl Schurz Park,10028.0,False,True
+1575,Carl Schurz Park,10028.0,False,False
+1576,Carl Schurz Park,10028.0,False,False
+1577,Carl Schurz Park,10028.0,False,False
+1578,Seward Park,10002.0,False,True
+1579,Seward Park,10002.0,False,True
+1580,Seward Park,10002.0,False,True
+1581,Seward Park,10002.0,False,True
+1582,Stuyvesant Square,10003.0,False,True
+1583,Stuyvesant Square,10003.0,False,True
+1584,Stuyvesant Square,10003.0,False,True
+1585,Stuyvesant Square,10003.0,False,False
+1586,Stuyvesant Square,10003.0,False,False
+1587,Sakura Park,10027.0,False,True
+1588,Sakura Park,10027.0,False,True
+1589,Tompkins Square Park,10009.0,False,True
+1590,Tompkins Square Park,10009.0,False,True
+1591,Tompkins Square Park,10009.0,False,True
+1592,Tompkins Square Park,10009.0,True,True
+1593,Tompkins Square Park,10009.0,False,True
+1594,Tompkins Square Park,10009.0,False,True
+1595,Tompkins Square Park,10009.0,False,True
+1596,Tompkins Square Park,10009.0,False,True
+1597,Tompkins Square Park,10009.0,False,True
+1598,Tompkins Square Park,10009.0,False,True
+1599,Tompkins Square Park,10009.0,False,True
+1600,Tompkins Square Park,10009.0,False,True
+1601,Union Square Park,10003.0,False,True
+1602,Union Square Park,10003.0,False,True
+1603,Union Square Park,10003.0,False,True
+1604,Union Square Park,10003.0,False,True
+1605,Union Square Park,10003.0,False,True
+1606,Union Square Park,10003.0,False,False
+1607,Washington Square Park,10011.0,False,True
+1608,Washington Square Park,10011.0,False,True
+1609,Washington Square Park,10011.0,False,True
+1610,Washington Square Park,10011.0,False,True
+1611,Washington Square Park,10011.0,False,True
+1612,Washington Square Park,10011.0,False,True
+1613,Washington Square Park,10011.0,False,True
+1614,Washington Square Park,10011.0,False,True
+1615,Washington Square Park,10011.0,False,True
+1616,Washington Square Park,10011.0,False,True
+1617,Washington Square Park,10011.0,False,True
+1618,Washington Square Park,10011.0,False,True
+1619,Washington Square Park,10011.0,False,True
+1620,J. Hood Wright Park,10033.0,False,True
+1621,J. Hood Wright Park,10033.0,False,True
+1622,J. Hood Wright Park,10033.0,True,True
+1623,J. Hood Wright Park,10033.0,False,False
+1624,J. Hood Wright Park,10033.0,False,False
+1625,J. Hood Wright Park,10033.0,False,False
+1626,Tony Dapolito Recreation Center,10014.0,False,False
+1627,Tony Dapolito Recreation Center,10014.0,False,False
+1628,Tony Dapolito Recreation Center,10014.0,False,False
+1629,Tony Dapolito Recreation Center,10014.0,False,False
+1630,Tony Dapolito Recreation Center,10014.0,False,False
+1631,Randall's Island Park,10035.0,False,True
+1632,Randall's Island Park,10035.0,False,True
+1633,Randall's Island Park,10035.0,False,True
+1634,Randall's Island Park,10035.0,False,True
+1635,Randall's Island Park,10035.0,False,True
+1636,Randall's Island Park,10035.0,False,True
+1637,Randall's Island Park,10035.0,False,True
+1638,Randall's Island Park,10035.0,False,True
+1639,Randall's Island Park,10035.0,False,False
+1640,Randall's Island Park,10035.0,False,True
+1641,Randall's Island Park,10035.0,False,True
+1642,Randall's Island Park,10035.0,False,True
+1643,Randall's Island Park,10035.0,False,True
+1644,Randall's Island Park,10035.0,False,True
+1645,Randall's Island Park,10035.0,False,True
+1646,Randall's Island Park,10035.0,False,True
+1647,Randall's Island Park,10035.0,False,False
+1648,MacArthur Playground,10017.0,False,True
+1649,Randall's Island Park,10035.0,False,False
+1650,Randall's Island Park,10035.0,False,False
+1651,Randall's Island Park,10035.0,False,False
+1652,Randall's Island Park,10035.0,False,False
+1653,Randall's Island Park,10035.0,False,False
+1654,Randall's Island Park,10035.0,False,False
+1655,Randall's Island Park,10035.0,False,False
+1656,Randall's Island Park,10035.0,False,False
+1657,Randall's Island Park,10035.0,False,False
+1658,Randall's Island Park,10035.0,False,False
+1659,Randall's Island Park,10035.0,False,False
+1660,Randall's Island Park,10035.0,False,False
+1661,Randall's Island Park,10035.0,False,False
+1662,Randall's Island Park,10035.0,False,False
+1663,Randall's Island Park,10035.0,False,False
+1664,Sara D. Roosevelt Park,10002.0,False,True
+1665,Sara D. Roosevelt Park,10002.0,False,True
+1666,Sara D. Roosevelt Park,10002.0,True,True
+1667,Sara D. Roosevelt Park,10002.0,True,True
+1668,Sara D. Roosevelt Park,10002.0,True,True
+1669,Sara D. Roosevelt Park,10002.0,False,True
+1670,Sara D. Roosevelt Park,10002.0,True,True
+1671,Sara D. Roosevelt Park,10002.0,False,True
+1672,Sara D. Roosevelt Park,10002.0,False,True
+1673,Sara D. Roosevelt Park,10002.0,False,False
+1674,Sara D. Roosevelt Park,10002.0,False,False
+1675,Sara D. Roosevelt Park,10002.0,False,False
+1676,Sara D. Roosevelt Park,10002.0,False,False
+1677,Sara D. Roosevelt Park,10002.0,False,False
+1678,Sara D. Roosevelt Park,10002.0,False,False
+1679,Sara D. Roosevelt Park,10002.0,False,False
+1680,Sara D. Roosevelt Park,10002.0,False,False
+1681,Sara D. Roosevelt Park,10002.0,False,False
+1682,Sara D. Roosevelt Park,10002.0,False,True
+1683,Wards Island Park,10035.0,False,True
+1684,Wards Island Park,10035.0,False,True
+1685,Wards Island Park,10035.0,False,True
+1686,Wards Island Park,10035.0,True,True
+1687,Wards Island Park,10035.0,False,True
+1688,Wards Island Park,10035.0,False,True
+1689,Wards Island Park,10035.0,True,True
+1690,Wards Island Park,10035.0,True,True
+1691,Wards Island Park,10035.0,False,True
+1692,Wards Island Park,10035.0,False,True
+1693,Wards Island Park,10035.0,False,False
+1694,Wards Island Park,10035.0,False,False
+1695,Playground 103 CIII,10029.0,True,True
+1696,Playground 103 CIII,10029.0,False,True
+1697,Peter Detmold Park,10022.0,False,True
+1698,Sutton Parks,10022.0,False,True
+1699,Andrew Haswell Green Park,10065.0,False,True
+1700,Andrew Haswell Green Park,10065.0,False,True
+1701,Andrew Haswell Green Park,10065.0,False,True
+1702,Twenty-Four Sycamores Park,10065.0,False,True
+1703,Twenty-Four Sycamores Park,10065.0,False,True
+1704,Twenty-Four Sycamores Park,10065.0,False,True
+1705,East River Walk,10021.0,True,True
+1706,William McCray Playground,10037.0,False,True
+1707,James Weldon Johnson Playground,10029.0,False,True
+1708,James Weldon Johnson Playground,10029.0,False,True
+1709,James Weldon Johnson Playground,10029.0,False,True
+1710,James Weldon Johnson Playground,10029.0,False,True
+1711,Joseph C. Sauer Park,10009.0,False,True
+1712,Joseph C. Sauer Park,10009.0,False,True
+1713,ABC Playground,10002.0,False,True
+1714,William F. Passannante Ballfield,10012.0,False,True
+1715,Playground of the Americas,10014.0,True,True
+1716,First Park,10003.0,False,True
+1717,First Park,10003.0,False,True
+1718,Minetta Playground,10012.0,False,True
+1719,West 4th Street Courts,10012.0,False,True
+1720,Recreation Center 54,10022.0,False,False
+1721,Recreation Center 54,10022.0,False,False
+1722,Recreation Center 54,10022.0,False,False
+1723,Hansborough Recreation Center,10037.0,False,False
+1724,Hansborough Recreation Center,10037.0,False,False
+1725,Hansborough Recreation Center,10037.0,False,False
+1726,Little Flower Playground,10002.0,False,True
+1727,Little Flower Playground,10002.0,False,True
+1728,Little Flower Playground,10002.0,False,True
+1729,Bill Bojangles Robinson Playground,10039.0,False,True
+1730,Recreational Area,10032.0,False,True
+1731,Recreational Area,10032.0,False,True
+1732,Recreational Area,10032.0,False,True
+1733,Harlem Lane Playground,10039.0,False,True
+1734,Harlem Lane Playground,10039.0,False,True
+1735,John V. Lindsay East River Park,10002.0,False,True
+1736,John V. Lindsay East River Park,10002.0,False,True
+1737,John V. Lindsay East River Park,10002.0,False,True
+1738,John V. Lindsay East River Park,10002.0,False,True
+1739,John V. Lindsay East River Park,10002.0,False,True
+1740,John V. Lindsay East River Park,10002.0,False,True
+1741,John V. Lindsay East River Park,10002.0,False,True
+1742,John V. Lindsay East River Park,10002.0,False,True
+1743,John V. Lindsay East River Park,10002.0,False,True
+1744,John V. Lindsay East River Park,10002.0,False,True
+1745,John V. Lindsay East River Park,10002.0,False,True
+1746,John V. Lindsay East River Park,10002.0,False,True
+1747,John V. Lindsay East River Park,10002.0,False,True
+1748,John V. Lindsay East River Park,10002.0,False,True
+1749,John V. Lindsay East River Park,10002.0,False,True
+1750,John V. Lindsay East River Park,10002.0,False,True
+1751,John V. Lindsay East River Park,10002.0,False,True
+1752,John V. Lindsay East River Park,10002.0,False,True
+1753,John V. Lindsay East River Park,10002.0,False,True
+1754,John V. Lindsay East River Park,10002.0,False,True
+1755,John V. Lindsay East River Park,10002.0,False,True
+1756,John V. Lindsay East River Park,10002.0,False,True
+1757,John V. Lindsay East River Park,10002.0,False,True
+1758,John V. Lindsay East River Park,10002.0,True,True
+1759,John V. Lindsay East River Park,10002.0,False,True
+1760,John V. Lindsay East River Park,10002.0,False,True
+1761,John V. Lindsay East River Park,10002.0,False,True
+1762,John V. Lindsay East River Park,10002.0,False,True
+1763,John V. Lindsay East River Park,10002.0,False,True
+1764,John V. Lindsay East River Park,10002.0,False,True
+1765,John V. Lindsay East River Park,10002.0,False,True
+1766,John V. Lindsay East River Park,10002.0,False,True
+1767,John V. Lindsay East River Park,10002.0,False,True
+1768,John V. Lindsay East River Park,10002.0,False,True
+1769,John V. Lindsay East River Park,10002.0,False,True
+1770,Albert Capsouto Park,10013.0,False,True
+1771,White Playground,10029.0,True,True
+1772,White Playground,10029.0,False,True
+1773,Mathews-Palmer Playground,10036.0,False,True
+1774,Mathews-Palmer Playground,10036.0,False,True
+1775,Mathews-Palmer Playground,10036.0,False,True
+1776,Mathews-Palmer Playground,10036.0,False,False
+1777,Courtney Callender Playground,10037.0,False,True
+1778,Courtney Callender Playground,10037.0,False,True
+1779,Robert Moses Playground,10017.0,False,True
+1780,Robert Moses Playground,10017.0,False,True
+1781,Frederick Johnson Playground,10039.0,False,True
+1782,Frederick Johnson Playground,10039.0,False,True
+1783,Frederick Johnson Playground,10039.0,False,True
+1784,Frederick Johnson Playground,10039.0,False,True
+1785,Fred Samuel Playground,10030.0,False,True
+1786,Fred Samuel Playground,10030.0,False,True
+1787,McCaffrey Playground,10036.0,True,True
+1788,McCaffrey Playground,10036.0,False,True
+1789,McCaffrey Playground,10036.0,False,True
+1790,McCaffrey Playground,10036.0,True,True
+1791,McCaffrey Playground,10036.0,True,False
+1792,Asser Levy Playground,10010.0,False,True
+1793,Asser Levy Playground,10010.0,False,True
+1794,Asser Levy Playground,10010.0,False,True
+1795,Asser Levy Playground,10010.0,False,False
+1796,Asser Levy Playground,10010.0,False,False
+1797,Asser Levy Playground,10010.0,False,False
+1798,Asser Levy Playground,10010.0,False,False
+1799,Baruch Playground,10002.0,False,True
+1800,Baruch Playground,10002.0,False,True
+1801,Baruch Playground,10002.0,False,True
+1802,Petrosino Square,10012.0,False,True
+1803,Cherry Clinton Playground,10002.0,False,True
+1804,Catherine Slip Malls,10002.0,False,True
+1805,Lt. Wm. Tighe Triangle,10034.0,True,True
+1806,Samuel N. Bennerson 2nd Playground,10023.0,False,True
+1807,Samuel N. Bennerson 2nd Playground,10023.0,False,True
+1808,Col. Young Playground,10037.0,False,True
+1809,Col. Young Playground,10037.0,False,True
+1810,Col. Young Playground,10037.0,False,True
+1811,Col. Young Playground,10037.0,False,True
+1812,Col. Young Playground,10037.0,False,True
+1813,Col. Young Playground,10037.0,False,True
+1814,Col. Young Playground,10037.0,True,True
+1815,Marx Brothers Playground,10029.0,False,True
+1816,Sheltering Arms Playground,10027.0,False,True
+1817,Sheltering Arms Playground,10027.0,False,True
+1818,Sheltering Arms Playground,10027.0,False,True
+1819,Sheltering Arms Playground,10027.0,False,True
+1820,Sheltering Arms Playground,10027.0,False,False
+1821,Sheltering Arms Playground,10027.0,False,False
+1822,Sheltering Arms Playground,10027.0,False,False
+1823,Stanley Isaacs Playground,10029.0,False,True
+1824,Stanley Isaacs Playground,10128.0,False,True
+1825,Stanley Isaacs Playground,10128.0,False,True
+1826,Abraham Lincoln Playground,10037.0,False,True
+1827,Abraham Lincoln Playground,10037.0,False,True
+1828,Alfred E. Smith Playground,10038.0,False,True
+1829,Alfred E. Smith Playground,10038.0,False,True
+1830,Alfred E. Smith Playground,10038.0,False,False
+1831,Alfred E. Smith Playground,10038.0,False,False
+1832,Alfred E. Smith Playground,10038.0,False,False
+1833,Alfred E. Smith Playground,10038.0,False,False
+1834,Sidney Hillman Playground,10002.0,False,True
+1835,Playground One,10038.0,False,True
+1836,Playground One,10038.0,False,True
+1837,Wayanda Park,11429.0,True,True
+1838,"Martin Luther King, Jr. Playground",10026.0,False,True
+1839,"Martin Luther King, Jr. Playground",10026.0,False,True
+1840,Booker T. Washington Playground,10025.0,False,True
+1841,Booker T. Washington Playground,10025.0,False,True
+1842,Wald Playground,10009.0,False,True
+1843,Dag Hammarskjold Plaza,10017.0,False,True
+1844,Moore Playground,10037.0,False,True
+1845,Moore Playground,10037.0,False,True
+1846,Playground One Twenty Five CXXV,10027.0,False,True
+1847,Tanahey Playground,10002.0,False,True
+1848,Tanahey Playground,10002.0,False,True
+1849,Father Fagan Park,10013.0,False,True
+1850,Alice Kornegay Triangle,10035.0,False,True
+1851,Harlem River Park,10037.0,False,True
+1852,Harlem River Park,10035.0,False,True
+1853,Harlem River Park,10035.0,False,True
+1854,Harlem River Park,10035.0,False,True
+1855,Harlem River Park,10035.0,False,True
+1856,Harlem River Park,10035.0,False,True
+1857,Harlem River Park,10035.0,False,True
+1858,Crack Is Wack Playground,10035.0,False,True
+1859,St. Nicholas Playground South,10027.0,False,True
+1860,St. Nicholas Playground South,10027.0,False,True
+1861,St. Nicholas Playground North,10027.0,False,True
+1862,St. Nicholas Playground North,10027.0,False,True
+1863,Mae Grant Playground,10029.0,False,True
+1864,Blake Hobbs Playground,10029.0,False,True
+1865,Cherry Tree Park,10029.0,False,True
+1866,Cherry Tree Park,10029.0,False,True
+1867,Holcombe Rucker Park,10039.0,False,True
+1868,Holcombe Rucker Park,10039.0,False,True
+1869,Holcombe Rucker Park,10039.0,False,True
+1870,Holcombe Rucker Park,10039.0,False,True
+1871,Howard Bennett Playground,10037.0,False,True
+1872,Howard Bennett Playground,10037.0,False,True
+1873,Howard Bennett Playground,10037.0,False,True
+1874,DeSalvio Playground,10012.0,False,True
+1875,Tecumseh Playground,10024.0,False,True
+1876,Tecumseh Playground,10024.0,False,True
+1877,Frederick Douglass Playground,10025.0,False,True
+1878,Frederick Douglass Playground,10025.0,False,True
+1879,Frederick Douglass Playground,10025.0,False,True
+1880,Gutenberg Playground,10019.0,False,True
+1881,Grand Canal Court,10013.0,False,True
+1882,Jacob H. Schiff Playground,10031.0,False,True
+1883,Jacob H. Schiff Playground,10031.0,False,True
+1884,Jacob H. Schiff Playground,10031.0,False,True
+1885,Jacob H. Schiff Playground,10031.0,False,True
+1886,Wagner Playground,10035.0,False,True
+1887,Wagner Playground,10035.0,False,True
+1888,Augustus St. Gaudens Playground,10003.0,False,True
+1889,Peter's Field,10010.0,False,True
+1890,Henry M. Jackson Playground,10002.0,False,True
+1891,Henry M. Jackson Playground,10002.0,False,True
+1892,Happy Warrior Playground,10025.0,False,True
+1893,Poor Richard's Playground,10029.0,False,True
+1894,Seton Park,10471.0,False,True
+1895,Poor Richard's Playground,10029.0,False,True
+1896,Matthew P. Sapolin Playground,10023.0,False,True
+1897,Matthew P. Sapolin Playground,10023.0,False,True
+1898,Wright Brothers Playground,10032.0,False,True
+1899,Sol Lain Plgd,10002.0,False,True
+1900,Sol Lain Plgd,10002.0,False,True
+1901,Sol Lain Plgd,10002.0,False,True
+1902,Sol Lain Plgd,10002.0,False,True
+1903,Samuel Seabury Playground,10128.0,False,True
+1904,Samuel Seabury Playground,10128.0,False,True
+1905,Corporal John A. Seravalli Playground,10014.0,False,True
+1906,Corporal John A. Seravalli Playground,10014.0,False,True
+1907,Bloomingdale Playground,10025.0,False,True
+1908,P.S. 155 Playground,10035.0,False,True
+1909,Audubon Playground,10032.0,False,True
+1910,Audubon Playground,10032.0,False,True
+1911,Nathan Straus Playground,10002.0,False,True
+1912,Nathan Straus Playground,10002.0,False,True
+1913,Collect Pond Park,10013.0,False,True
+1914,Collect Pond Park,10013.0,False,True
+1915,Eugene McCabe Field,10035.0,True,True
+1916,Sol Bloom Playground,10025.0,False,True
+1917,Sol Bloom Playground,10025.0,False,True
+1918,Renaissance Playground,10030.0,False,True
+1919,Renaissance Playground,10030.0,False,True
+1920,Bleecker Playground,10014.0,False,True
+1921,Bleecker Playground,10014.0,False,True
+1922,James Madison Plaza,10038.0,False,True
+1923,MacArthur Playground,10017.0,False,True
+1924,Clement Clarke Moore Park,10011.0,False,True
+1925,East River Playground,10029.0,False,True
+1926,East River Playground,10029.0,False,False
+1927,East River Playground,10029.0,False,False
+1928,McKinley Playground,10009.0,False,True
+1929,Chelsea Recreation Center,10001.0,False,False
+1930,Chelsea Recreation Center,10001.0,False,False
+1931,Chelsea Recreation Center,10001.0,False,False
+1932,Chelsea Recreation Center,10001.0,False,False
+1933,Chelsea Recreation Center,10001.0,False,False
+1934,Chelsea Recreation Center,10001.0,False,False
+1935,Chelsea Recreation Center,10001.0,False,False
+1936,Chelsea Recreation Center,10001.0,False,False
+1937,Chelsea Recreation Center,10001.0,False,False
+1938,Bellevue South Park,10016.0,False,True
+1939,Bellevue South Park,10016.0,False,True
+1940,Bellevue South Park,10016.0,False,True
+1941,Playground Eighty Nine LXXXIX,10024.0,False,True
+1942,Vincent F. Albano Jr. Playground,10016.0,False,True
+1943,Vincent F. Albano Jr. Playground,10016.0,False,True
+1944,Dry Dock Playground,10009.0,False,True
+1945,Dry Dock Playground,10009.0,False,True
+1946,Dry Dock Playground,10009.0,True,True
+1947,Dry Dock Playground,10009.0,True,True
+1948,Wagner Houses Pool,10035.0,True,True
+1949,Wagner Houses Pool,10035.0,False,False
+1950,Wagner Houses Pool,10035.0,False,False
+1951,Wagner Houses Pool,10035.0,False,True
+1952,Wagner Houses Pool,10035.0,False,True
+1953,Wagner Houses Pool,10035.0,False,False
+1954,Hell's Kitchen Park,10036.0,False,True
+1955,Hell's Kitchen Park,10036.0,False,True
+1956,Hell's Kitchen Park,10036.0,False,True
+1957,Dr. Ronald E. McNair Playground,10035.0,False,True
+1958,Asphalt Green,10128.0,False,True
+1959,Ramon Aponte Park,10036.0,False,True
+1960,Ruppert Park,10128.0,False,True
+1961,Ruppert Park,10128.0,False,True
+1962,Washington Market Park,10013.0,False,True
+1963,Washington Market Park,10013.0,True,True
+1964,Washington Market Park,10013.0,False,True
+1965,Washington Market Park,10013.0,False,True
+1966,Riverside Park South,10069.0,False,True
+1967,Riverside Park South,10069.0,False,True
+1968,Riverside Park South,10069.0,False,True
+1969,Riverside Park South,10023.0,False,True
+1970,Riverside Park South,10069.0,False,True
+1971,Riverside Park South,10069.0,False,True
+1972,Robert L. Clinkscales Playground and Community Garden,10039.0,False,True
+1973,The High Line,10011.0,False,True
+1974,The High Line,10011.0,False,True
+1975,The High Line,10011.0,False,True
+1976,The High Line,10001.0,False,True
+1977,The High Line,10001.0,False,True
+1978,The High Line,10014.0,False,True
+1979,West Harlem Piers,10027.0,False,True
+1980,West Harlem Piers,10027.0,False,True
+1981,West Harlem Piers,10027.0,False,True
+1982,Pearl St Playground,10038.0,False,True
+1983,DeLury Square,10038.0,False,True
+1984,Imagination Playground,10038.0,False,True
+1985,East River Waterfront Esplanade,10004.0,False,True
+1986,East River Waterfront Esplanade,10004.0,False,True
+1987,East River Waterfront Esplanade,10038.0,False,True
+1988,East River Waterfront Esplanade,10002.0,False,True
+1989,East River Waterfront Esplanade,10002.0,False,True
+1990,East River Waterfront Esplanade,10002.0,False,True
+1991,Bella Abzug Park,10018.0,False,True
+1992,Bella Abzug Park,10001.0,False,True
+1993,Bella Abzug Park,10001.0,False,True
+1994,NYC AIDS Memorial Park at St. Vincent’s Triangle,10011.0,False,True
+1995,Arsenal North,10029.0,False,False
+1996,Arsenal North,10029.0,False,False
+1997,Arsenal West,10023.0,False,False
+1998,Arsenal West,10023.0,False,False
+1999,Arsenal West,10023.0,False,False
+2000,Arsenal West,10023.0,False,False
+2001,Arsenal West,10023.0,False,False
+2002,Arsenal West,10023.0,False,False
+2003,Arsenal West,10023.0,False,False
+2004,Arsenal West,10023.0,False,False
+2005,Arsenal West,10023.0,False,False
+2006,Arsenal West,10023.0,False,False
+2007,Arsenal West,10023.0,False,False
+2008,Arsenal West,10023.0,False,False
+2015,Alley Athletic Playground,11426.0,False,True
+2016,Alley Athletic Playground,11426.0,False,True
+2017,Alley Athletic Playground,11426.0,False,True
+2018,Alley Athletic Playground,11426.0,False,True
+2019,Alley Athletic Playground,11426.0,False,True
+2020,Alley Athletic Playground,11426.0,False,True
+2021,Alley Pond Park,11364.0,False,True
+2022,Alley Pond Park,11364.0,False,True
+2023,Alley Pond Park,11364.0,False,True
+2024,Alley Pond Park,11364.0,False,True
+2025,Alley Pond Park,11364.0,False,True
+2026,Alley Pond Park,11364.0,False,True
+2027,Alley Pond Park,11364.0,False,True
+2028,Alley Pond Park,11364.0,False,True
+2029,Alley Pond Park,11364.0,False,True
+2030,Alley Pond Park,11364.0,False,True
+2031,Alley Pond Park,11364.0,False,True
+2032,Alley Pond Park,11364.0,False,True
+2033,Alley Pond Park,11364.0,False,True
+2034,Alley Pond Park,11364.0,False,True
+2035,Alley Pond Park,11364.0,False,False
+2036,Alley Pond Park,11364.0,False,False
+2037,Grover Cleveland Playground,11385.0,False,True
+2038,Grover Cleveland Playground,11385.0,False,True
+2039,Grover Cleveland Playground,11385.0,False,True
+2040,Grover Cleveland Playground,11385.0,False,True
+2041,Grover Cleveland Playground,11385.0,False,True
+2042,Astoria Park,11105.0,False,True
+2043,Astoria Park,11105.0,False,True
+2044,Astoria Park,11105.0,False,True
+2045,Astoria Park,11105.0,False,True
+2046,Astoria Park,11105.0,False,True
+2047,Astoria Park,11105.0,False,True
+2048,Astoria Park,11105.0,False,True
+2049,Astoria Park,11105.0,True,True
+2050,Astoria Park,11105.0,False,True
+2051,Astoria Park,11105.0,False,True
+2052,Astoria Park,11105.0,False,True
+2053,Astoria Park,11105.0,True,True
+2054,Astoria Park,11105.0,False,False
+2055,Astoria Park,11105.0,False,False
+2056,Astoria Park,11105.0,False,False
+2057,Astoria Park,11105.0,False,False
+2058,Astoria Park,11105.0,False,False
+2059,Astoria Park,11105.0,False,False
+2060,Baisley Pond Park,11434.0,False,True
+2061,Baisley Pond Park,11434.0,False,True
+2062,Baisley Pond Park,11434.0,False,True
+2063,Baisley Pond Park,11434.0,False,True
+2064,Baisley Pond Park,11434.0,False,True
+2065,Baisley Pond Park,11434.0,False,True
+2066,Baisley Pond Park,11434.0,False,True
+2067,Baisley Pond Park,11434.0,False,True
+2068,Baisley Pond Park,11434.0,True,True
+2069,Baisley Pond Park,11434.0,False,True
+2070,Baisley Pond Park,11434.0,False,True
+2071,Baisley Pond Park,11434.0,False,True
+2072,Baisley Pond Park,11434.0,True,True
+2073,Baisley Pond Park,11434.0,False,True
+2074,Baisley Pond Park,11434.0,False,True
+2075,Baisley Pond Park,11434.0,False,True
+2076,Baisley Pond Park,11434.0,False,True
+2077,Baisley Pond Park,11434.0,False,True
+2078,Bowne Park,11354.0,False,True
+2079,Bowne Park,11354.0,False,True
+2080,Bayswater Park,11691.0,False,True
+2081,Bayswater Park,11691.0,False,True
+2082,Bayswater Park,11691.0,True,True
+2083,Bayswater Park,11691.0,False,True
+2084,Bayswater Park,11691.0,False,True
+2085,Bayswater Park,11691.0,False,True
+2086,Bayswater Park,11691.0,True,True
+2087,Bayswater Park,11691.0,False,True
+2088,Bayswater Park,11691.0,False,True
+2089,Brookville Park,11422.0,False,True
+2090,Brookville Park,11422.0,False,True
+2091,Brookville Park,11422.0,False,True
+2092,Brookville Park,11422.0,False,True
+2093,Brookville Park,11413.0,True,True
+2094,Brookville Park,11422.0,False,True
+2095,Hermon A. MacNeil Park,11356.0,False,True
+2096,Hermon A. MacNeil Park,11356.0,False,True
+2097,Hermon A. MacNeil Park,11356.0,False,True
+2098,Little Bay Park,11360.0,False,True
+2099,Little Bay Park,11360.0,False,True
+2100,Little Bay Park,11360.0,False,True
+2101,Little Bay Park,11360.0,False,True
+2102,Little Bay Park,11360.0,False,True
+2103,Little Bay Park,11360.0,False,True
+2104,Poppenhusen Playground,11356.0,False,True
+2105,Poppenhusen Playground,11356.0,False,True
+2106,John Golden Park,11361.0,False,True
+2107,John Golden Park,11361.0,True,True
+2108,Crocheron Park,11361.0,False,True
+2109,Crocheron Park,11361.0,False,True
+2110,Crocheron Park,11361.0,True,True
+2111,Crocheron Park,11361.0,False,True
+2112,Crocheron Park,11361.0,False,True
+2113,Crocheron Park,11361.0,True,True
+2114,Crocheron Park,11361.0,False,True
+2115,Veterans Grove,11373.0,False,True
+2116,Veterans Grove,11373.0,False,True
+2117,Astoria Heights Playground,11103.0,False,True
+2118,Astoria Heights Playground,11103.0,False,True
+2119,Astoria Heights Playground,11103.0,False,True
+2120,Astoria Heights Playground,11103.0,False,True
+2121,Forest Park,11415.0,False,True
+2122,Forest Park,11415.0,False,True
+2123,Forest Park,11415.0,False,True
+2124,Forest Park,11375.0,False,True
+2125,Forest Park,11385.0,False,True
+2126,Forest Park,11385.0,False,True
+2127,Forest Park,11385.0,False,True
+2128,Forest Park,11385.0,False,True
+2129,Forest Park,11385.0,False,True
+2130,Forest Park,11385.0,False,True
+2131,Forest Park,11385.0,True,True
+2132,Forest Park,11385.0,True,True
+2133,Forest Park,11385.0,False,True
+2134,Forest Park,11385.0,False,True
+2135,Forest Park,11385.0,True,True
+2136,Forest Park,11385.0,False,True
+2137,Forest Park,11385.0,False,True
+2138,Forest Park,11385.0,False,True
+2139,Forest Park,11385.0,False,True
+2140,Forest Park,11385.0,False,True
+2141,Forest Park,11385.0,False,True
+2142,Forest Park,11385.0,False,True
+2143,Forest Park,11385.0,False,True
+2144,Forest Park,11385.0,False,True
+2145,Forest Park,11385.0,False,True
+2146,Forest Park,11385.0,False,True
+2147,Forest Park,11385.0,False,True
+2148,Forest Park,11385.0,False,True
+2149,Forest Park,11385.0,False,True
+2150,Forest Park,11385.0,False,True
+2151,Forest Park,11415.0,False,True
+2152,Forest Park,11385.0,False,True
+2153,Forest Park,11385.0,False,True
+2154,Forest Park,11385.0,False,True
+2155,Forest Park,11385.0,True,True
+2156,Forest Park,11385.0,False,True
+2157,Forest Park,11385.0,True,True
+2158,Forest Park,11385.0,False,True
+2159,Forest Park,11385.0,False,True
+2160,Forest Park,11415.0,False,True
+2161,Forest Park,11415.0,False,False
+2162,Forest Park,11385.0,False,False
+2163,Forest Park,11385.0,False,False
+2164,Forest Park,11385.0,False,False
+2165,Forest Park,11385.0,False,False
+2166,Forest Park,11385.0,False,False
+2167,Forest Park,11385.0,True,False
+2168,Forest Park,11385.0,False,False
+2169,Forest Park,11385.0,False,False
+2170,Forest Park,11385.0,False,False
+2171,Forest Park,11385.0,True,False
+2172,Forest Park,11385.0,False,False
+2173,Forest Park,11385.0,False,False
+2174,Forest Park,11385.0,False,False
+2175,Forest Park,11385.0,False,False
+2176,Forest Park,11385.0,False,False
+2177,Forest Park,11385.0,False,False
+2178,Forest Park,11415.0,False,False
+2179,Forest Park,11415.0,False,False
+2180,Forest Park,11415.0,False,False
+2181,Forest Park,11385.0,False,False
+2182,Forest Park,11385.0,True,False
+2183,The Olde Towne of Flushing Burial Ground,11358.0,True,True
+2184,Highland Park,11385.0,False,True
+2185,Highland Park,11385.0,False,True
+2186,Highland Park,11208.0,False,True
+2187,Highland Park,11208.0,False,True
+2188,Highland Park,11208.0,False,True
+2189,McLaughlin Playground,11423.0,False,True
+2190,Cunningham Park,11364.0,False,True
+2191,Cunningham Park,11364.0,False,True
+2192,Cunningham Park,11364.0,False,True
+2193,Cunningham Park,11364.0,True,True
+2194,Cunningham Park,11364.0,False,True
+2195,Cunningham Park,11364.0,False,True
+2196,Cunningham Park,11364.0,False,True
+2197,Cunningham Park,11423.0,False,True
+2198,Cunningham Park,11423.0,False,True
+2199,Cunningham Park,11423.0,False,True
+2200,Cunningham Park,11423.0,False,True
+2201,Cunningham Park,11423.0,True,True
+2202,Cunningham Park,11423.0,False,True
+2203,Cunningham Park,11423.0,False,True
+2204,Cunningham Park,11423.0,False,True
+2205,Cunningham Park,11423.0,False,True
+2206,Cunningham Park,11423.0,True,True
+2207,Cunningham Park,11423.0,False,True
+2208,Cunningham Park,11364.0,False,True
+2209,Cunningham Park,11364.0,False,True
+2210,Cunningham Park,11364.0,False,True
+2211,Cunningham Park,11364.0,False,True
+2212,Cunningham Park,11364.0,False,True
+2213,Cunningham Park,11364.0,False,True
+2214,Cunningham Park,11364.0,False,True
+2215,Cunningham Park,11364.0,False,True
+2216,Cunningham Park,11364.0,False,True
+2217,Cunningham Park,11364.0,False,True
+2218,Cunningham Park,11364.0,False,True
+2219,Cunningham Park,11364.0,False,True
+2220,Cunningham Park,11364.0,False,True
+2221,Cunningham Park,11364.0,False,True
+2222,Cunningham Park,11364.0,False,True
+2223,Cunningham Park,11423.0,True,True
+2224,Cunningham Park,11423.0,False,False
+2225,Cunningham Park,11423.0,False,False
+2226,Margaret I. Carman Green - Weeping Beech,11354.0,False,True
+2227,Rufus King Park,11432.0,False,True
+2228,Rufus King Park,11432.0,False,True
+2229,Rufus King Park,11432.0,False,True
+2230,Rufus King Park,11432.0,False,True
+2231,Kissena Park,11365.0,False,True
+2232,Kissena Park,11365.0,False,True
+2233,Kissena Park,11365.0,False,True
+2234,Kissena Park,11365.0,False,True
+2235,Kissena Park,11365.0,False,True
+2236,Kissena Park,11365.0,False,True
+2237,Kissena Park,11365.0,False,True
+2238,Kissena Park,11365.0,False,True
+2239,Kissena Park,11365.0,False,True
+2240,Kissena Park,11365.0,True,True
+2241,Kissena Park,11365.0,False,True
+2242,Kissena Park,11365.0,False,True
+2243,Kissena Park,11365.0,True,True
+2244,Kissena Park,11365.0,False,True
+2245,Park Of The Americas,11368.0,False,True
+2246,Park Of The Americas,11368.0,False,True
+2247,Park Of The Americas,11368.0,True,True
+2248,Park Of The Americas,11368.0,False,True
+2249,Laurelton Parkway,11411.0,False,True
+2250,Laurelton Parkway,11411.0,False,True
+2251,Laurelton Parkway,11411.0,False,True
+2252,William F Moore Park,11368.0,False,True
+2253,Doughboy Park,11377.0,False,True
+2254,Lawrence Virgilio Playground,11377.0,False,True
+2255,Lawrence Virgilio Playground,11377.0,False,True
+2256,Benninger Playground,11385.0,False,True
+2257,Benninger Playground,11385.0,False,True
+2258,L/CPL Thomas P. Noonan Jr. Playground,11104.0,False,True
+2259,L/CPL Thomas P. Noonan Jr. Playground,11104.0,False,True
+2260,Andrews Grove,11101.0,False,True
+2261,Josephine Caminiti Playground,11368.0,True,True
+2262,Rainey Park,11106.0,False,True
+2263,Jacobs Riis Park,11694.0,False,False
+2264,Rockaway Beach,11694.0,False,True
+2265,Rockaway Beach,11694.0,False,True
+2266,Rockaway Beach,11694.0,False,True
+2267,Rockaway Beach,11694.0,False,True
+2268,Rockaway Beach,11694.0,False,True
+2269,Rockaway Beach,11694.0,False,False
+2270,Rockaway Beach,11694.0,False,False
+2271,St. Albans Park,11433.0,False,True
+2272,St. Albans Park,11433.0,False,True
+2273,St. Albans Park,11433.0,False,True
+2274,St. Albans Park,11433.0,False,True
+2275,St. Albans Park,11433.0,False,True
+2276,St. Albans Park,11433.0,False,True
+2277,Captain Tilly Park,11432.0,False,True
+2278,Equity Playground,11421.0,False,True
+2279,Sohncke Square,11377.0,False,True
+2280,Catharine Turner Richardson Park,11363.0,False,True
+2281,John Vincent Daniels Jr. Square,11377.0,True,True
+2282,Triborough Bridge Playground B,11102.0,False,True
+2283,Triborough Bridge Playground C,11102.0,False,True
+2284,Triborough Bridge Playground C,11102.0,False,True
+2285,Triborough Bridge Playground C,11102.0,False,True
+2286,Hoyt Playground,11102.0,False,True
+2287,Hoyt Playground,11102.0,False,True
+2288,General Hart Playground,11377.0,False,True
+2289,General Hart Playground,11377.0,True,True
+2290,General Hart Playground,11377.0,False,True
+2291,Plaut Triangle,11358.0,False,True
+2292,Glendale Veterans Triangle,11385.0,False,True
+2293,Wayanda Park,11429.0,False,True
+2294,Flushing Meadows Corona Park,11368.0,False,True
+2295,Flushing Meadows Corona Park,11368.0,False,True
+2296,Flushing Meadows Corona Park,11368.0,False,True
+2297,Flushing Meadows Corona Park,11368.0,False,True
+2298,Flushing Meadows Corona Park,11368.0,False,True
+2299,Flushing Meadows Corona Park,11368.0,True,True
+2300,Flushing Meadows Corona Park,11368.0,False,True
+2301,Flushing Meadows Corona Park,11375.0,False,True
+2302,Flushing Meadows Corona Park,11375.0,False,True
+2303,Flushing Meadows Corona Park,11375.0,False,True
+2304,Flushing Meadows Corona Park,11368.0,False,True
+2305,Flushing Meadows Corona Park,11368.0,False,True
+2306,Flushing Meadows Corona Park,11368.0,False,True
+2307,Gorman Playground,11370.0,False,True
+2308,Flushing Fields,11354.0,False,True
+2309,Flushing Fields,11354.0,False,True
+2310,Flushing Fields,11354.0,False,True
+2311,Flushing Fields,11354.0,False,True
+2312,Flushing Fields,11354.0,False,True
+2313,Harvey Park,11357.0,False,True
+2314,Harvey Park,11357.0,False,True
+2315,Harvey Park,11357.0,False,True
+2316,Harvey Park,11357.0,False,True
+2317,Harvey Park,11357.0,False,True
+2318,Harvey Park,11357.0,False,True
+2319,Police Officer Edward Byrne Park,11420.0,False,True
+2320,Police Officer Edward Byrne Park,11420.0,False,True
+2321,Police Officer Edward Byrne Park,11420.0,False,True
+2322,Police Officer Edward Byrne Park,11420.0,False,True
+2323,Tudor Park,11417.0,False,True
+2324,Tudor Park,11417.0,False,True
+2325,Tudor Park,11417.0,False,True
+2326,Tudor Park,11417.0,True,True
+2327,Tudor Park,11417.0,False,True
+2328,Tudor Park,11417.0,False,True
+2329,Tudor Park,11417.0,False,True
+2330,Vito Locascio Field,11417.0,False,True
+2331,Southern Fields,11420.0,False,True
+2332,Southern Fields,11420.0,False,True
+2333,Southern Fields,11420.0,True,True
+2334,Southern Fields,11420.0,False,True
+2335,Lefferts Playground,11420.0,False,True
+2336,Lefferts Playground,11420.0,False,True
+2337,Frank D. O'Connor Playground,11373.0,False,True
+2338,Frank D. O'Connor Playground,11373.0,False,True
+2339,Frank D. O'Connor Playground,11373.0,False,True
+2340,Flushing Meadows Corona Park,11368.0,False,True
+2341,Flushing Meadows Corona Park,11368.0,True,True
+2342,Flushing Meadows Corona Park,11368.0,True,True
+2343,Flushing Meadows Corona Park,11368.0,True,True
+2344,Flushing Meadows Corona Park,11368.0,False,True
+2345,Flushing Meadows Corona Park,11368.0,True,True
+2346,Flushing Meadows Corona Park,11368.0,False,True
+2347,Flushing Meadows Corona Park,11368.0,False,True
+2348,Flushing Meadows Corona Park,11368.0,False,True
+2349,Flushing Meadows Corona Park,11368.0,False,True
+2350,Flushing Meadows Corona Park,11368.0,True,True
+2351,Flushing Meadows Corona Park,11367.0,False,True
+2352,Queensbridge Park,11101.0,False,True
+2353,Flushing Meadows Corona Park,11367.0,False,True
+2354,Flushing Meadows Corona Park,11367.0,False,True
+2355,Flushing Meadows Corona Park,11367.0,False,True
+2356,Flushing Meadows Corona Park,11367.0,False,True
+2357,Flushing Meadows Corona Park,11367.0,False,True
+2358,Flushing Meadows Corona Park,11367.0,False,True
+2359,Flushing Meadows Corona Park,11368.0,False,True
+2360,Flushing Meadows Corona Park,11368.0,False,True
+2361,Flushing Meadows Corona Park,11368.0,False,True
+2362,Flushing Meadows Corona Park,11368.0,False,True
+2363,Flushing Meadows Corona Park,11368.0,False,True
+2364,Flushing Meadows Corona Park,11368.0,False,True
+2365,Flushing Meadows Corona Park,11368.0,False,True
+2366,Flushing Meadows Corona Park,11368.0,False,True
+2367,Flushing Meadows Corona Park,11368.0,False,True
+2368,Flushing Meadows Corona Park,11368.0,False,True
+2369,Flushing Meadows Corona Park,11368.0,False,True
+2370,Flushing Meadows Corona Park,11368.0,False,True
+2371,Flushing Meadows Corona Park,11368.0,False,True
+2372,Flushing Meadows Corona Park,11368.0,False,True
+2373,Flushing Meadows Corona Park,11367.0,False,True
+2374,Flushing Meadows Corona Park,11367.0,False,True
+2375,Flushing Meadows Corona Park,11368.0,False,True
+2376,Flushing Meadows Corona Park,11368.0,False,True
+2377,Flushing Meadows Corona Park,11368.0,False,True
+2378,Flushing Meadows Corona Park,11368.0,False,True
+2379,Flushing Meadows Corona Park,11368.0,False,True
+2380,Flushing Meadows Corona Park,11368.0,False,True
+2381,Flushing Meadows Corona Park,11368.0,False,True
+2382,Flushing Meadows Corona Park,11368.0,False,True
+2383,Flushing Meadows Corona Park,11368.0,False,True
+2384,Flushing Meadows Corona Park,11368.0,False,True
+2385,Flushing Meadows Corona Park,11368.0,False,True
+2386,Flushing Meadows Corona Park,11368.0,False,True
+2387,Flushing Meadows Corona Park,11368.0,False,True
+2388,Flushing Meadows Corona Park,11368.0,False,True
+2389,Flushing Meadows Corona Park,11368.0,False,True
+2390,Flushing Meadows Corona Park,11368.0,False,True
+2391,Flushing Meadows Corona Park,11368.0,False,True
+2392,Flushing Meadows Corona Park,11368.0,False,True
+2393,Flushing Meadows Corona Park,11368.0,False,True
+2394,Flushing Meadows Corona Park,11368.0,False,True
+2395,Flushing Meadows Corona Park,11368.0,False,True
+2396,Flushing Meadows Corona Park,11368.0,False,True
+2397,Flushing Meadows Corona Park,11368.0,False,True
+2398,Flushing Meadows Corona Park,11368.0,False,True
+2399,Flushing Meadows Corona Park,11368.0,False,True
+2400,Flushing Meadows Corona Park,11368.0,False,True
+2401,Flushing Meadows Corona Park,11368.0,False,True
+2402,Flushing Meadows Corona Park,11368.0,False,True
+2403,Flushing Meadows Corona Park,11368.0,False,True
+2404,Seton Park,10471.0,False,True
+2405,Flushing Meadows Corona Park,11368.0,False,True
+2406,Flushing Meadows Corona Park,11368.0,False,True
+2407,Flushing Meadows Corona Park,11368.0,False,True
+2408,Flushing Meadows Corona Park,11368.0,False,True
+2409,Flushing Meadows Corona Park,11368.0,False,True
+2410,Flushing Meadows Corona Park,11368.0,False,True
+2411,Flushing Meadows Corona Park,11355.0,False,True
+2412,Flushing Meadows Corona Park,11355.0,False,True
+2413,Flushing Meadows Corona Park,11367.0,False,True
+2414,Flushing Meadows Corona Park,11367.0,False,True
+2415,Flushing Meadows Corona Park,11368.0,False,True
+2416,Flushing Meadows Corona Park,11368.0,False,True
+2417,Flushing Meadows Corona Park,11368.0,True,True
+2418,Flushing Meadows Corona Park,11367.0,False,True
+2419,Flushing Meadows Corona Park,11367.0,False,True
+2420,Flushing Meadows Corona Park,11367.0,False,True
+2421,Flushing Meadows Corona Park,11368.0,False,True
+2422,Flushing Meadows Corona Park,11368.0,False,True
+2423,Flushing Meadows Corona Park,11368.0,False,True
+2424,Flushing Meadows Corona Park,11368.0,False,True
+2425,Flushing Meadows Corona Park,11368.0,False,True
+2426,Flushing Meadows Corona Park,11368.0,False,True
+2427,Flushing Meadows Corona Park,11368.0,False,True
+2428,Flushing Meadows Corona Park,11368.0,False,True
+2429,Flushing Meadows Corona Park,11368.0,True,True
+2430,Flushing Meadows Corona Park,11355.0,False,False
+2431,Flushing Meadows Corona Park,11355.0,False,False
+2432,Flushing Meadows Corona Park,11355.0,False,False
+2433,Flushing Meadows Corona Park,11355.0,False,False
+2434,Flushing Meadows Corona Park,11355.0,False,False
+2435,Flushing Meadows Corona Park,11355.0,False,False
+2436,Flushing Meadows Corona Park,11368.0,False,False
+2437,Flushing Meadows Corona Park,11368.0,False,False
+2438,Flushing Meadows Corona Park,11368.0,False,False
+2439,Flushing Meadows Corona Park,11368.0,False,False
+2440,Flushing Meadows Corona Park,11368.0,False,False
+2441,Flushing Meadows Corona Park,11368.0,False,False
+2442,Flushing Meadows Corona Park,11368.0,False,False
+2443,Flushing Meadows Corona Park,11368.0,False,False
+2444,Flushing Meadows Corona Park,11368.0,False,False
+2445,Flushing Meadows Corona Park,11368.0,False,False
+2446,Flushing Meadows Corona Park,11368.0,False,False
+2447,Flushing Meadows Corona Park,11368.0,False,False
+2448,Flushing Meadows Corona Park,11368.0,False,False
+2449,Flushing Meadows Corona Park,11368.0,False,False
+2450,Flushing Meadows Corona Park,11368.0,False,False
+2451,Flushing Meadows Corona Park,11368.0,False,False
+2452,Flushing Meadows Corona Park,11368.0,False,False
+2453,Flushing Meadows Corona Park,11368.0,False,False
+2454,Flushing Meadows Corona Park,11368.0,False,False
+2455,Flushing Meadows Corona Park,11368.0,False,False
+2456,Flushing Meadows Corona Park,11368.0,False,False
+2457,Flushing Meadows Corona Park,11368.0,False,False
+2458,Middle Village Playground,11379.0,False,True
+2459,Juniper Valley Park,11379.0,False,True
+2460,Juniper Valley Park,11379.0,False,True
+2461,Juniper Valley Park,11379.0,False,True
+2462,Juniper Valley Park,11379.0,False,True
+2463,Juniper Valley Park,11379.0,False,True
+2464,Juniper Valley Park,11379.0,False,True
+2465,Juniper Valley Park,11379.0,False,True
+2466,Juniper Valley Park,11379.0,False,True
+2467,Juniper Valley Park,11379.0,False,True
+2468,Juniper Valley Park,11379.0,False,True
+2469,Juniper Valley Park,11379.0,False,True
+2470,Juniper Valley Park,11379.0,False,True
+2471,Juniper Valley Park,11379.0,False,True
+2472,Juniper Valley Park,11379.0,False,True
+2473,Juniper Valley Park,11379.0,False,True
+2474,Juniper Valley Park,11379.0,False,True
+2475,Juniper Valley Park,11379.0,False,True
+2476,Juniper Valley Park,11379.0,False,True
+2477,Juniper Valley Park,11379.0,False,False
+2478,Kennedy Playground,11361.0,False,True
+2479,Queensbridge Park,11101.0,False,True
+2480,Queensbridge Park,11101.0,False,True
+2481,Highbridge Park,,False,True
+2482,Queensbridge Park,11101.0,False,True
+2483,Howard Von Dohlen Playground,11435.0,False,True
+2484,Daniel M. O'Connell Playground,11412.0,False,True
+2485,Daniel M. O'Connell Playground,11412.0,False,True
+2486,Daniel M. O'Connell Playground,11412.0,False,True
+2487,Daniel M. O'Connell Playground,11412.0,False,True
+2488,Springfield Park,11413.0,False,True
+2489,Springfield Park,11413.0,False,True
+2490,Springfield Park,11413.0,False,True
+2491,Laurelton Playground,11422.0,False,True
+2492,Laurelton Playground,11422.0,False,True
+2493,Police Officer Nicholas Demutiis Park,11417.0,False,True
+2494,Frederick B. Judge Playground,11420.0,True,True
+2495,Frederick B. Judge Playground,11420.0,False,True
+2496,Harvard Playground,11432.0,False,True
+2497,Harvard Playground,11432.0,False,True
+2498,Detective Keith L Williams Park,11433.0,True,True
+2499,Detective Keith L Williams Park,11433.0,False,True
+2500,Detective Keith L Williams Park,11433.0,False,True
+2501,Detective Keith L Williams Park,11433.0,False,True
+2502,Detective Keith L Williams Park,11433.0,False,True
+2503,Detective Keith L Williams Park,11433.0,False,True
+2504,Detective Keith L Williams Park,11433.0,False,True
+2505,Detective Keith L Williams Park,11433.0,False,True
+2506,Detective Keith L Williams Park,11433.0,True,True
+2507,Detective Keith L Williams Park,11433.0,False,True
+2508,Detective Keith L Williams Park,11433.0,False,True
+2509,Detective Keith L Williams Park,11433.0,False,False
+2510,Detective Keith L Williams Park,11433.0,False,False
+2511,Detective Keith L Williams Park,11433.0,False,False
+2512,Junction Playground,11372.0,False,True
+2513,Junction Playground,11372.0,False,True
+2514,Astoria Health Playground,11106.0,False,True
+2515,Francis Lewis Park,11357.0,False,True
+2516,Francis Lewis Park,11357.0,False,True
+2517,Francis Lewis Park,11357.0,False,True
+2518,Francis Lewis Park,11357.0,False,True
+2519,Francis Lewis Park,11357.0,False,True
+2520,Marconi Park,11433.0,False,True
+2521,Marconi Park,11433.0,False,True
+2522,Marconi Park,11433.0,False,True
+2523,Marconi Park,11433.0,False,True
+2524,London Planetree Playground,11416.0,False,True
+2525,London Planetree Playground,11416.0,False,True
+2526,"Phil ""Scooter"" Rizzuto Park",11419.0,False,True
+2527,"Phil ""Scooter"" Rizzuto Park",11419.0,False,True
+2528,"Phil ""Scooter"" Rizzuto Park",11419.0,False,True
+2529,"Phil ""Scooter"" Rizzuto Park",11419.0,True,True
+2530,Frank Principe Park,11378.0,False,True
+2531,Frank Principe Park,11378.0,False,True
+2532,Frank Principe Park,11378.0,False,True
+2533,Frank Principe Park,11378.0,False,True
+2534,Frank Principe Park,11378.0,False,True
+2535,Frank Principe Park,11378.0,False,True
+2536,Frank Principe Park,11378.0,False,True
+2537,Hempstead Ballfield,11429.0,False,True
+2538,Pat Williams Playground,11429.0,False,True
+2539,Breininger Park,11426.0,False,True
+2540,Breininger Park,11426.0,False,True
+2541,Breininger Park,11426.0,False,True
+2542,Murray Playground,11101.0,False,True
+2543,Murray Playground,11101.0,True,True
+2544,Murray Playground,11101.0,False,True
+2545,Rockaway Beach and Boardwalk,11691.0,False,True
+2546,Rockaway Beach and Boardwalk,11691.0,False,True
+2547,Rockaway Beach and Boardwalk,11692.0,False,True
+2548,Rockaway Beach and Boardwalk,11692.0,False,True
+2549,Rockaway Beach and Boardwalk,11692.0,False,True
+2550,Rockaway Beach and Boardwalk,11692.0,False,True
+2551,Rockaway Beach and Boardwalk,11692.0,False,False
+2552,Rockaway Beach and Boardwalk,11692.0,False,False
+2553,Beach 59th St Playground,11692.0,True,True
+2554,Beach 30th Street Playground,11691.0,False,True
+2555,Beach 30th Street Playground,11691.0,False,True
+2556,Beach 30th Street Playground,11691.0,False,True
+2557,Beach 30th Street Playground,11691.0,False,True
+2558,Beach 30th Street Playground,11691.0,False,True
+2559,Beach 30th Street Playground,11691.0,False,True
+2560,Beach 30th Street Playground,11691.0,False,True
+2561,Beach 30th Street Playground,11691.0,False,False
+2562,Rockaway Beach and Boardwalk,11691.0,False,True
+2563,Rockaway Beach and Boardwalk,11691.0,True,True
+2564,Beach 9 Playground,11691.0,False,True
+2565,Beach 9 Playground,11691.0,False,True
+2566,Beach 9 Playground,11691.0,False,True
+2567,Beach 9 Playground,11691.0,False,True
+2568,Beach 9 Playground,11691.0,False,True
+2569,Beach 17 Playground,11691.0,False,True
+2570,Beach 17 Playground,11691.0,False,True
+2571,Beach 9 Playground,11691.0,False,True
+2572,Beach 17 Playground,11691.0,False,True
+2573,Beach 17 Playground,11691.0,False,True
+2574,Beach 17 Playground,11691.0,False,True
+2575,Beach 17 Playground,11691.0,False,True
+2576,Beach 17 Playground,11691.0,False,True
+2577,Beach 17 Playground,11691.0,False,True
+2578,Beach 17 Playground,11691.0,False,False
+2579,Rockaway Beach Boardwalk,11694.0,False,True
+2580,Rockaway Beach Boardwalk,11693.0,False,True
+2581,Rockaway Beach Boardwalk,11693.0,False,True
+2582,Rockaway Beach Boardwalk,11693.0,False,True
+2583,Rockaway Beach Boardwalk,11693.0,False,True
+2584,Rockaway Beach Boardwalk,11693.0,False,True
+2585,Rockaway Beach Boardwalk,11693.0,False,True
+2586,Rockaway Beach Boardwalk,11693.0,False,True
+2587,Rockaway Beach Boardwalk,11693.0,False,True
+2588,Rockaway Beach Boardwalk,11693.0,False,True
+2589,Rockaway Beach Boardwalk,11693.0,False,True
+2590,Rockaway Beach Boardwalk,11694.0,False,True
+2591,Rockaway Beach Boardwalk,11694.0,False,True
+2592,Rockaway Beach Boardwalk,11694.0,False,True
+2593,Rockaway Beach Boardwalk,11694.0,False,True
+2594,Rockaway Beach Boardwalk,11693.0,False,True
+2595,Rockaway Beach Boardwalk,11694.0,False,False
+2596,Queens Valley Playground,11367.0,False,True
+2597,Rockaway Beach Boardwalk,11693.0,False,False
+2598,Rockaway Beach Boardwalk,11693.0,False,False
+2599,Rockaway Beach Boardwalk,11693.0,False,False
+2600,Rockaway Beach Boardwalk,11694.0,False,False
+2601,Rockaway Beach Boardwalk,11692.0,False,False
+2602,Rockaway Beach Boardwalk,11693.0,False,False
+2603,Rockaway Beach Boardwalk,11693.0,False,False
+2604,Rockaway Beach Boardwalk,11693.0,False,False
+2605,Rockaway Beach Boardwalk,11693.0,False,False
+2606,Rockaway Beach Boardwalk,11693.0,False,False
+2607,Rockaway Beach Boardwalk,11694.0,False,False
+2608,Rockaway Beach Boardwalk,11693.0,False,False
+2609,Rockaway Beach,11694.0,False,False
+2610,St. Michael's Playground,11377.0,False,True
+2611,St. Michael's Playground,11377.0,False,True
+2612,St. Michael's Playground,11377.0,False,True
+2613,St. Michael's Playground,11377.0,False,True
+2614,St. Michael's Playground,11377.0,False,True
+2615,Woodside Memorial Triangle,11377.0,False,True
+2616,Big Bush Playground,11377.0,False,True
+2617,Big Bush Playground,11377.0,False,True
+2618,Big Bush Playground,11377.0,False,True
+2619,Big Bush Playground,11377.0,False,True
+2620,Nathan Weidenbaum Playground,11377.0,False,True
+2621,Nathan Weidenbaum Playground,11377.0,False,True
+2622,MacDonald Park,11375.0,True,True
+2623,Maple Playground,11355.0,False,True
+2624,Queens Valley Playground,11367.0,False,True
+2625,Whitey Ford Field,11102.0,False,True
+2626,Whitey Ford Field,11102.0,False,True
+2627,Whitey Ford Field,11102.0,False,True
+2628,Dutch Kills Playground,11106.0,False,True
+2629,Rockaway Freeway,11693.0,False,True
+2630,Dr. Charles R. Drew Park,11436.0,False,True
+2631,Dr. Charles R. Drew Park,11436.0,False,True
+2632,Dr. Charles R. Drew Park,11436.0,False,True
+2633,Playground One Forty,11436.0,False,True
+2634,Hoover - Manton Playgrounds,11435.0,False,True
+2635,Hoover - Manton Playgrounds,11435.0,False,True
+2636,Hoover - Manton Playgrounds,11435.0,False,True
+2637,Hoover - Manton Playgrounds,11435.0,False,True
+2638,Farm Playground,11365.0,True,True
+2639,Farm Playground,11365.0,False,True
+2640,Farm Playground,11365.0,False,True
+2641,Westbourne Playground,11691.0,False,True
+2642,"""Uncle"" Vito F. Maranzano Glendale Playground",11385.0,False,True
+2643,Starr Playground,11385.0,False,True
+2644,Starr Playground,11385.0,False,True
+2645,Utopia Playground,11365.0,True,True
+2646,Utopia Playground,11365.0,False,True
+2647,Utopia Playground,11365.0,False,True
+2648,Paul Raimonda Playground,11105.0,False,True
+2649,Paul Raimonda Playground,11105.0,False,True
+2650,Holy Cow Playground,11365.0,False,True
+2651,Kissena Corridor Park,11365.0,False,True
+2652,Kissena Corridor Park,11365.0,False,True
+2653,Kissena Corridor Park,11365.0,False,True
+2655,Kissena Corridor Park,11365.0,False,True
+2656,Kissena Corridor Park,11365.0,False,True
+2657,Kissena Corridor Park,11355.0,True,True
+2658,Kissena Corridor Park,11355.0,True,True
+2659,Kissena Corridor Park,11355.0,False,True
+2660,Kissena Corridor Park,11355.0,False,True
+2661,Kissena Corridor Park,11355.0,False,True
+2662,Kissena Corridor Park,11355.0,True,True
+2663,Kissena Corridor Park,11355.0,False,True
+2664,Kissena Corridor Park,11355.0,False,True
+2665,Kissena Corridor Park,11355.0,False,True
+2666,Evergreen Park,11385.0,False,True
+2667,Evergreen Park,11385.0,False,True
+2668,Evergreen Park,11385.0,False,True
+2669,Travers Park,11372.0,False,True
+2670,Travers Park,11372.0,True,True
+2671,Travers Park,11372.0,False,True
+2672,Travers Park,11372.0,False,True
+2673,Ehrenreich-Austin Playground,11375.0,False,True
+2674,Ehrenreich-Austin Playground,11375.0,False,True
+2675,Ehrenreich-Austin Playground,11375.0,False,True
+2676,Ehrenreich-Austin Playground,11375.0,False,True
+2677,Mafera Park,11385.0,False,True
+2678,Mafera Park,11385.0,False,True
+2679,Mafera Park,11385.0,False,True
+2680,Mafera Park,11385.0,False,True
+2681,Mafera Park,11385.0,False,True
+2682,Mafera Park,11385.0,False,True
+2683,Mafera Park,11385.0,False,True
+2684,Mafera Park,11385.0,False,True
+2685,Mafera Park,11385.0,False,True
+2686,The Painter's Playground,11374.0,False,True
+2687,The Painter's Playground,11374.0,False,True
+2688,The Painter's Playground,11374.0,False,True
+2689,The Painter's Playground,11374.0,False,True
+2690,Delphin H. Greene Playground,11411.0,False,True
+2691,Delphin H. Greene Playground,11411.0,False,True
+2692,Bowne Playground,11355.0,False,True
+2693,Bowne Playground,11355.0,False,True
+2694,Bowne Playground,11355.0,False,True
+2695,Glen Oaks Oval,11004.0,False,True
+2696,Glen Oaks Oval,11004.0,True,True
+2697,Glen Oaks Oval,11004.0,False,True
+2698,Arverne Playground,11692.0,True,True
+2699,Arverne Playground,11692.0,False,True
+2700,Fresh Meadows Playground,11365.0,False,True
+2701,Tall Oak Playground,11364.0,False,True
+2702,Playground Eighty LXXX,11004.0,False,True
+2703,Playground Eighty LXXX,11004.0,False,True
+2704,Playground Eighty LXXX,11004.0,False,True
+2705,Annadale Playground,11375.0,False,True
+2706,Vleigh Playground,11367.0,True,True
+2707,Van Alst Playground,11102.0,False,True
+2708,Van Alst Playground,11102.0,False,True
+2709,Bellaire Playground,11427.0,False,True
+2710,Bellaire Playground,11427.0,False,True
+2711,Bland Playground,11354.0,True,True
+2712,Castlewood Playground,11426.0,False,True
+2713,Castlewood Playground,11426.0,False,True
+2714,Pomonok Playground,11367.0,False,True
+2715,Pomonok Playground,11367.0,False,True
+2716,Pomonok Playground,11367.0,False,True
+2717,Locust Manor Playground,11413.0,False,True
+2718,Locust Manor Playground,11413.0,False,True
+2719,Woodtree Playground,11105.0,False,True
+2720,Woodtree Playground,11105.0,True,True
+2721,Woodtree Playground,11105.0,False,True
+2722,Ravenswood Playground,11106.0,True,True
+2723,Ravenswood Playground,11106.0,True,True
+2724,Playground Twenty One,11357.0,True,True
+2725,Russell Sage Playground,11375.0,False,True
+2726,Russell Sage Playground,11375.0,False,True
+2727,Judge Moses Weinstein Playground,11367.0,True,True
+2728,Judge Moses Weinstein Playground,11367.0,False,True
+2729,Maurice A FitzGerald Playground,11416.0,False,True
+2730,Maurice A FitzGerald Playground,11416.0,False,True
+2731,Admiral Playground,11363.0,False,True
+2732,Admiral Playground,11363.0,False,True
+2733,Cambria Playground,11411.0,False,True
+2734,Cambria Playground,11411.0,False,True
+2735,Cambria Playground,11411.0,False,True
+2736,Cambria Playground,11411.0,False,True
+2737,Cambria Playground,11411.0,False,True
+2738,Torsney Playground,11104.0,False,True
+2739,Torsney Playground,11104.0,False,True
+2740,Torsney Playground,11104.0,False,True
+2741,Torsney Playground,11104.0,False,True
+2742,Torsney Playground,11104.0,False,True
+2743,Sherry Dog Run,11377.0,False,True
+2744,Crosson Green,11377.0,False,True
+2745,Crosson Park,11377.0,False,True
+2746,Electric Playground,11365.0,False,True
+2748,Electric Playground,11365.0,False,True
+2749,Electric Playground,11365.0,False,True
+2750,Whitestone Playground,11357.0,False,True
+2751,Whitestone Playground,11357.0,False,True
+2752,Emerald Playground,11365.0,False,True
+2753,Emerald Playground,11365.0,False,True
+2754,Emerald Playground,11365.0,False,True
+2755,Redfern Playground,11691.0,False,True
+2756,Redfern Playground,11691.0,True,True
+2757,Redfern Playground,11691.0,False,True
+2758,Challenge Playground,11362.0,False,True
+2759,Challenge Playground,11362.0,False,True
+2760,Challenge Playground,11362.0,False,True
+2761,Colden Playground,11354.0,False,True
+2762,Colden Playground,11354.0,False,True
+2763,Willow Lake Playground,11375.0,False,True
+2764,Telephone Playground,11364.0,False,True
+2765,Telephone Playground,11364.0,False,True
+2766,Peters Field,11423.0,True,True
+2767,Peters Field,11423.0,False,True
+2768,Peters Field,11423.0,True,True
+2769,Hillside Playground,11004.0,False,True
+2770,Hillside Playground,11004.0,False,True
+2771,Grassmere Playground,11691.0,False,True
+2772,Grassmere Playground,11691.0,False,True
+2773,Playground Seventy Five,11366.0,False,True
+2774,Alley Park,11364.0,False,True
+2775,Alley Park,11364.0,False,True
+2776,Alley Park,11364.0,False,True
+2777,Barrier Playground,11375.0,False,True
+2778,Real Good Playground,11374.0,False,True
+2779,Real Good Playground,11374.0,False,True
+2780,Turtle Playground,11367.0,False,True
+2781,Detective William T. Gunn Playground,11426.0,False,True
+2782,Detective William T. Gunn Playground,11427.0,False,True
+2783,Haggerty Park,11423.0,False,True
+2784,Haggerty Park,11423.0,False,True
+2785,Whitefish Triangle,11378.0,True,True
+2786,Crowley Playground,11373.0,False,True
+2787,Frontera Park,11378.0,False,True
+2788,Frontera Park,11378.0,False,True
+2789,Hoffman Park,11373.0,False,True
+2790,Hoffman Park,11373.0,False,True
+2791,Hoffman Park,11373.0,False,True
+2792,Playground Ninety,11369.0,False,True
+2793,Northern Playground,11372.0,False,True
+2794,Northern Playground,11372.0,False,True
+2795,Northern Playground,11372.0,False,True
+2796,Marie Curie Playground,11361.0,False,True
+2797,Marie Curie Playground,11361.0,False,True
+2798,Marie Curie Playground,11361.0,True,True
+2799,Marie Curie Playground,11361.0,False,True
+2800,Louis C. Moser Playground,11370.0,False,True
+2801,Hammel Playground,11693.0,False,True
+2802,Hammel Playground,11693.0,False,True
+2803,Louis Pasteur Park,11362.0,False,True
+2804,Louis Pasteur Park,11362.0,False,True
+2805,Louis Pasteur Park,11362.0,False,True
+2806,Louis Pasteur Park,11362.0,False,True
+2807,Freedom Square Playground,11367.0,False,True
+2808,East Elmhurst Playground,11369.0,False,True
+2809,East Elmhurst Playground,11369.0,False,True
+2810,East Elmhurst Playground,11369.0,False,True
+2812,Willets Point Playground,11357.0,False,True
+2813,Willets Point Playground,11357.0,False,True
+2814,Playground Sixty Two LXII,11375.0,False,True
+2815,Playground Sixty Two LXII,11375.0,False,True
+2816,Ampere Playground,11416.0,False,True
+2817,Francis Lewis Playground,11361.0,False,True
+2818,Francis Lewis Playground,11361.0,False,True
+2819,Cardozo Playground,11692.0,False,True
+2820,Cardozo Playground,11692.0,False,True
+2821,Ditmars Playground,11105.0,False,True
+2822,Ditmars Playground,11105.0,False,True
+2823,Centreville Playground,11417.0,False,True
+2824,Centreville Playground,11417.0,False,True
+2825,Bayside Fields,11360.0,False,True
+2826,Bayside Fields,11360.0,False,True
+2827,Linnaeus Park,11364.0,False,True
+2828,Bayside Playground,11694.0,False,True
+2829,Clintonville Playground,11357.0,False,True
+2830,Clintonville Playground,11357.0,True,True
+2831,Joseph Austin Playground,11432.0,False,True
+2832,Joseph Austin Playground,11432.0,False,True
+2833,Joseph Austin Playground,11432.0,False,True
+2834,Joseph Austin Playground,11432.0,False,True
+2835,Idlewild Park,11413.0,False,True
+2836,Idlewild Park,11413.0,True,True
+2837,Idlewild Park,11413.0,True,True
+2838,LaGuardia Landing Lights,11370.0,False,True
+2839,LaGuardia Landing Lights,11370.0,False,True
+2840,Conch Playground,11691.0,False,True
+2841,Conch Playground,11691.0,False,True
+2842,Montbellier Park,11413.0,False,True
+2843,Montbellier Park,11413.0,False,True
+2844,Montbellier Park,11413.0,False,True
+2845,Montbellier Park,11413.0,False,True
+2846,Auburndale Playground,11358.0,False,True
+2847,Auburndale Playground,11358.0,False,True
+2848,Rosemary's Playground,11385.0,False,True
+2849,Rosemary's Playground,11385.0,False,True
+2850,Bay Terrace Playground,11360.0,False,True
+2851,Oakland Gardens,11364.0,False,True
+2852,Oakland Gardens,11364.0,True,True
+2853,Lost Battalion Hall Recreation Center,11374.0,False,True
+2854,Lost Battalion Hall Recreation Center,11374.0,False,False
+2855,Lost Battalion Hall Recreation Center,11374.0,False,False
+2856,Lost Battalion Hall Recreation Center,11374.0,False,False
+2857,Lost Battalion Hall Recreation Center,11374.0,False,False
+2858,Lost Battalion Hall Recreation Center,11374.0,False,False
+2859,Lost Battalion Hall Recreation Center,11374.0,False,False
+2860,Lost Battalion Hall Recreation Center,11374.0,False,False
+2861,Latimer Playground,11433.0,True,True
+2862,Latimer Playground,11433.0,False,True
+2863,Beach Channel Playground,11693.0,False,True
+2864,East Springfield Playground,11411.0,False,True
+2865,East Springfield Playground,11411.0,False,True
+2866,Hollis Playground,11412.0,False,True
+2867,Lanett Playground,11691.0,False,True
+2868,Harold Schneiderman Playground,11414.0,True,True
+2869,Harold Schneiderman Playground,11414.0,True,True
+2870,Harold Schneiderman Playground,11414.0,False,True
+2871,Hinton Park,11368.0,False,True
+2872,Hinton Park,11368.0,False,True
+2873,Hinton Park,11368.0,False,True
+2874,Rochdale Park,11434.0,False,True
+2875,Rochdale Park,11434.0,False,True
+2876,Rochdale Park,11434.0,False,True
+2877,Rochdale Park,11434.0,False,True
+2878,Rochdale Park,11434.0,False,True
+2879,Rochdale Park,11434.0,True,True
+2880,Rochdale Park,11434.0,False,True
+2881,Rochdale Park,11434.0,False,False
+2882,Rochdale Park,11434.0,False,False
+2883,Rocket Playground,11417.0,False,True
+2884,Rocket Playground,11417.0,False,True
+2885,Louis Armstrong Playground,11368.0,False,True
+2886,Hart Playground,11354.0,False,True
+2887,Walter Ward Playground,11414.0,False,True
+2888,Walter Ward Playground,11414.0,False,True
+2889,Seaside Playground,11694.0,False,True
+2890,Seaside Playground,11694.0,False,True
+2891,Seaside Playground,11694.0,False,True
+2892,Reiff Playground,11378.0,False,True
+2893,Reiff Playground,11378.0,False,True
+2894,Reiff Playground,11378.0,False,True
+2895,Yellowstone Park,11375.0,False,True
+2896,Yellowstone Park,11375.0,False,True
+2897,Yellowstone Park,11375.0,False,True
+2898,North Rochdale Playground,11434.0,False,True
+2899,South Rochdale Playground,11434.0,False,True
+2900,South Rochdale Playground,11434.0,False,True
+2901,Horace Harding Playground,11374.0,False,True
+2902,Horace Harding Playground,11374.0,False,True
+2903,Horace Harding Playground,11374.0,False,True
+2904,Spirit Playground,11106.0,False,True
+2905,Spirit Playground,11106.0,False,True
+2906,Sunrise Playground,11422.0,False,True
+2907,Long Island Mews,11373.0,False,True
+2908,Athens Square,11102.0,False,True
+2909,Athens Square,11102.0,False,True
+2910,Murray Hill Playground,11355.0,False,True
+2911,Fisher Pool,11369.0,False,False
+2912,Fisher Pool,11369.0,False,False
+2913,Fisher Pool,11369.0,False,False
+2914,Almeda Playground,11692.0,False,True
+2915,Almeda Playground,11692.0,False,True
+2916,Sean's Place,11103.0,False,True
+2917,Frank Golden Park,11356.0,False,True
+2918,Sorrentino Recreation Center,11691.0,False,False
+2919,Sorrentino Recreation Center,11691.0,False,False
+2920,Roy Wilkins Recreation Center,11434.0,True,True
+2921,Roy Wilkins Recreation Center,11434.0,True,True
+2922,Roy Wilkins Recreation Center,11434.0,True,True
+2923,Roy Wilkins Recreation Center,11434.0,False,True
+2924,Roy Wilkins Recreation Center,11434.0,False,True
+2925,Roy Wilkins Recreation Center,11434.0,True,True
+2926,Roy Wilkins Recreation Center,11434.0,False,True
+2927,Roy Wilkins Recreation Center,11434.0,False,True
+2928,Roy Wilkins Recreation Center,11434.0,False,False
+2929,Roy Wilkins Recreation Center,11434.0,False,False
+2930,Roy Wilkins Recreation Center,11434.0,False,False
+2931,Corona Golf Playground,11368.0,False,True
+2932,Corona Golf Playground,11368.0,True,True
+2934,Rockaway Garage,11692.0,False,False
+2935,Rockaway Garage,11692.0,False,False
+2936,Gene Gray Playground,11693.0,False,True
+2937,College Point Park,11356.0,False,True
+2938,College Point Park,11356.0,False,True
+2939,Fort Totten Park,11359.0,False,True
+2940,Fort Totten Park,11359.0,False,True
+2941,Fort Totten Park,11359.0,True,True
+2942,Fort Totten Park,11359.0,False,False
+2943,Fort Totten Park,11359.0,False,False
+2944,Fort Totten Park,11359.0,False,False
+2945,Fort Totten Park,11359.0,False,False
+2946,Fort Totten Park,11359.0,False,False
+2947,Fort Totten Park,11359.0,False,False
+2948,Fort Totten Park,11359.0,False,False
+2949,Fort Totten Park,11359.0,False,False
+2950,Fort Totten Park,11359.0,False,False
+2951,Broad Channel Park,11693.0,False,True
+2952,Broad Channel Park,11693.0,False,True
+2953,Broad Channel Park,11693.0,False,True
+2954,Socrates Sculpture Park,11106.0,True,True
+2955,Broad Channel American Park,11693.0,False,True
+2956,Louis Armstrong Community Center,11368.0,False,False
+2957,Louis Armstrong Community Center,11368.0,False,False
+2958,Louis Armstrong Community Center,11368.0,False,False
+2959,A.R.R.O.W. REC CENTER,11106.0,False,True
+2960,A.R.R.O.W. REC CENTER,11106.0,False,False
+2961,Hunter's Point South Park,11101.0,False,True
+2963,Hunter's Point South Park,11101.0,False,True
+2964,Hunter's Point South Park,11101.0,False,True
+2965,Hunter's Point South Park,11101.0,False,True
+2966,Hunter's Point South Park,11101.0,False,True
+2967,Hunter's Point South Park,11101.0,False,True
+2968,Hunter's Point South Park,11101.0,False,True
+2969,Hunter's Point South Park,11101.0,False,True
+2970,Hunter's Point South Park,11101.0,False,True
+2971,Simeone Park,11368.0,False,True
+2972,Simeone Park,11368.0,False,True
+2973,College Point Fields,11354.0,False,True
+2974,College Point Fields,11354.0,False,True
+2975,College Point Fields,11354.0,False,True
+2976,College Point Fields,11354.0,True,True
+2977,College Point Fields,11354.0,True,True
+2978,College Point Fields,11354.0,False,True
+2979,College Point Fields,11354.0,False,True
+2980,College Point Fields,11354.0,True,True
+2981,Two Coves Community Garden,11102.0,False,True
+2982,Elmhurst Park,11373.0,False,True
+2983,Elmhurst Park,11373.0,False,True
+2984,Elmhurst Park,11373.0,False,True
+2985,Gwirtzman Triangle,11694.0,False,True
+2986,Ian Maclennan Garden,11375.0,False,True
+2987,Barrett Triangle,10301.0,False,True
+2988,Clove Lakes Park,10301.0,False,False
+2989,Clove Lakes Park,10301.0,False,True
+2990,Clove Lakes Park,10301.0,False,True
+2991,Clove Lakes Park,10301.0,False,True
+2992,Clove Lakes Park,10301.0,False,True
+2993,Clove Lakes Park,10301.0,False,True
+2994,Clove Lakes Park,10301.0,False,True
+2995,Clove Lakes Park,10301.0,False,True
+2996,Clove Lakes Park,10301.0,False,True
+2997,Clove Lakes Park,10301.0,False,True
+2998,Clove Lakes Park,10301.0,False,False
+2999,Clove Lakes Park,10301.0,False,False
+3000,Clove Lakes Park,10301.0,False,False
+3001,Clove Lakes Park,10301.0,False,False
+3002,Clove Lakes Park,10301.0,False,False
+3003,Conference House Park,10307.0,False,True
+3004,Conference House Park,10307.0,False,False
+3005,Conference House Park,10307.0,False,False
+3006,Conference House Park,10307.0,False,False
+3007,Conference House Park,10307.0,False,False
+3008,Conference House Park,10307.0,False,False
+3009,Faber Pool and Park,10302.0,False,True
+3010,Faber Pool and Park,10302.0,False,True
+3011,Faber Pool and Park,10302.0,False,True
+3012,Faber Pool and Park,10302.0,False,True
+3013,Faber Pool and Park,10302.0,False,False
+3014,Hero Park,10301.0,True,True
+3015,White Park,10305.0,False,True
+3016,Walker Park,10310.0,False,True
+3017,Walker Park,10310.0,False,True
+3019,Walker Park,10310.0,True,True
+3020,Walker Park,10310.0,True,False
+3021,Walker Park,10310.0,False,False
+3022,Great Kills Park,10306.0,False,True
+3023,Freshkills Park,10312.0,False,True
+3024,Freshkills Park,10312.0,False,True
+3025,Freshkills Park,10312.0,False,True
+3026,Freshkills Park,10312.0,False,True
+3027,Freshkills Park,10314.0,False,False
+3028,Freshkills Park,10314.0,False,False
+3029,Freshkills Park,10314.0,False,True
+3030,Veterans Park,10302.0,False,True
+3031,Silver Lake Park,10301.0,False,True
+3032,Silver Lake Park,10301.0,False,True
+3033,Silver Lake Park,10301.0,False,True
+3034,Silver Lake Park,10301.0,False,True
+3035,Silver Lake Park,10301.0,False,True
+3036,Silver Lake Park,10301.0,False,True
+3037,Silver Lake Park,10301.0,False,True
+3038,Silver Lake Park,10301.0,True,True
+3039,Silver Lake Park,10301.0,False,True
+3040,Silver Lake Park,10301.0,False,True
+3041,Silver Lake Park,10301.0,False,True
+3042,Silver Lake Park,10301.0,False,False
+3043,Silver Lake Park,10301.0,True,False
+3044,Silver Lake Park,10301.0,True,False
+3045,Tompkinsville Park,10301.0,True,True
+3047,Mahoney Playground,10301.0,True,True
+3048,Mahoney Playground,10301.0,False,True
+3049,Gerard P. Dugan Playground,10306.0,False,True
+3050,Gerard P. Dugan Playground,10306.0,False,True
+3051,Gerard P. Dugan Playground,10306.0,False,True
+3052,Aesop Park,10309.0,False,True
+3053,Tappen Park,10304.0,False,True
+3054,Tappen Park,10304.0,False,True
+3055,Tappen Park,10304.0,False,True
+3056,Tappen Park,10304.0,False,True
+3057,Westerleigh Park,10314.0,False,True
+3058,Willowbrook Park,10314.0,False,True
+3059,Willowbrook Park,10314.0,False,True
+3060,Willowbrook Park,10314.0,False,True
+3061,Willowbrook Park,10314.0,False,True
+3062,Willowbrook Park,10314.0,False,True
+3063,Willowbrook Park,10314.0,True,True
+3064,Willowbrook Park,10314.0,False,True
+3065,Wolfe's Pond Park,10312.0,False,True
+3066,Wolfe's Pond Park,10312.0,False,True
+3067,Wolfe's Pond Park,10309.0,True,True
+3068,Wolfe's Pond Park,10309.0,False,True
+3069,Wolfe's Pond Park,10312.0,False,True
+3070,Wolfe's Pond Park,10309.0,True,False
+3071,Wolfe's Pond Park,10309.0,False,False
+3072,Austin J. McDonald Playground,10310.0,False,True
+3073,Austin J. McDonald Playground,10310.0,False,True
+3074,De Matti Park,10305.0,False,True
+3075,De Matti Park,10305.0,False,True
+3076,Mariners Harbor Playground,10303.0,False,True
+3077,Liotti Ikefugi Playground,10301.0,True,True
+3078,Midland Field,10306.0,False,True
+3079,Midland Field,10306.0,False,True
+3080,Midland Field,10306.0,False,True
+3081,Midland Field,10306.0,False,True
+3082,Midland Field,10306.0,False,True
+3083,Midland Field,10306.0,False,False
+3084,Midland Field,10306.0,False,False
+3085,Midland Playground,10306.0,True,True
+3086,Midland Playground,10306.0,False,True
+3087,Kaltenmeier Playground,10305.0,False,True
+3088,Lyons Pool,10301.0,False,True
+3089,Lyons Pool,10301.0,True,True
+3090,Lyons Pool,10301.0,True,True
+3091,Lyons Pool,10301.0,True,False
+3092,Lyons Pool,10301.0,True,False
+3093,Lyons Pool,10301.0,True,False
+3094,Lyons Pool,10301.0,True,False
+3095,Lyons Pool,10301.0,False,False
+3096,Lyons Pool,10301.0,True,False
+3097,Schmul Park,10314.0,False,True
+3098,Schmul Park,10314.0,False,True
+3099,Schmul Park,10314.0,False,True
+3100,Schmul Park,10314.0,False,True
+3101,Franklin D. Roosevelt Boardwalk and Beach,10305.0,False,True
+3102,Franklin D. Roosevelt Boardwalk and Beach,10305.0,False,True
+3103,Franklin D. Roosevelt Boardwalk and Beach,10305.0,False,True
+3104,Franklin D. Roosevelt Boardwalk and Beach,10305.0,False,True
+3105,Slattery Playground,10458.0,False,True
+3106,Franklin D. Roosevelt Boardwalk and Beach,10305.0,False,True
+3107,Franklin D. Roosevelt Boardwalk and Beach,10305.0,False,True
+3108,Franklin D. Roosevelt Boardwalk and Beach,10305.0,False,True
+3109,Franklin D. Roosevelt Boardwalk and Beach,10305.0,False,True
+3110,Franklin D. Roosevelt Boardwalk and Beach,10305.0,False,True
+3111,Franklin D. Roosevelt Boardwalk and Beach,10305.0,True,True
+3112,Franklin D. Roosevelt Boardwalk and Beach,10305.0,False,True
+3113,Franklin D. Roosevelt Boardwalk and Beach,10305.0,False,True
+3114,Franklin D. Roosevelt Boardwalk and Beach,10305.0,True,True
+3115,Franklin D. Roosevelt Boardwalk and Beach,10305.0,False,True
+3116,Franklin D. Roosevelt Boardwalk and Beach,10305.0,False,True
+3117,Franklin D. Roosevelt Boardwalk and Beach,10305.0,False,True
+3118,Franklin D. Roosevelt Boardwalk and Beach,10305.0,False,True
+3119,Franklin D. Roosevelt Boardwalk and Beach,10305.0,False,True
+3120,Franklin D. Roosevelt Boardwalk and Beach,10305.0,False,True
+3121,Franklin D. Roosevelt Boardwalk and Beach,10305.0,True,True
+3122,Franklin D. Roosevelt Boardwalk and Beach,10305.0,False,True
+3123,Franklin D. Roosevelt Boardwalk and Beach,10305.0,False,True
+3124,Franklin D. Roosevelt Boardwalk and Beach,10305.0,False,True
+3125,Franklin D. Roosevelt Boardwalk and Beach,10305.0,False,True
+3126,Franklin D. Roosevelt Boardwalk and Beach,10305.0,False,True
+3127,Franklin D. Roosevelt Boardwalk and Beach,10305.0,False,True
+3128,Franklin D. Roosevelt Boardwalk and Beach,10305.0,False,True
+3129,Franklin D. Roosevelt Boardwalk and Beach,10305.0,False,True
+3130,Franklin D. Roosevelt Boardwalk and Beach,10305.0,True,True
+3131,Franklin D. Roosevelt Boardwalk and Beach,10305.0,False,True
+3132,Franklin D. Roosevelt Boardwalk and Beach,10305.0,True,True
+3133,Franklin D. Roosevelt Boardwalk and Beach,10305.0,False,True
+3134,Franklin D. Roosevelt Boardwalk and Beach,10305.0,True,True
+3135,Franklin D. Roosevelt Boardwalk and Beach,10305.0,False,True
+3136,Franklin D. Roosevelt Boardwalk and Beach,,False,True
+3137,Franklin D. Roosevelt Boardwalk and Beach,,False,True
+3138,Franklin D. Roosevelt Boardwalk and Beach,10305.0,False,True
+3139,Franklin D. Roosevelt Boardwalk and Beach,10305.0,True,True
+3140,Franklin D. Roosevelt Boardwalk and Beach,10305.0,False,False
+3141,Willowbrook Parkway,10314.0,False,False
+3142,Von Briesen Park,10305.0,False,True
+3143,Stapleton Playground,10304.0,False,True
+3144,Stapleton Playground,10304.0,False,True
+3145,Stapleton Playground,10304.0,False,True
+3146,Stapleton Playground,10304.0,False,True
+3147,Arrochar Playground,10305.0,False,True
+3148,Old Town Playground,10305.0,False,True
+3149,Old Town Playground,10305.0,False,True
+3150,Old Town Playground,10305.0,False,True
+3151,Old Town Playground,10305.0,False,False
+3152,Old Town Playground,10305.0,False,False
+3153,Christopher J. Igneri Playground,10314.0,True,True
+3154,Richmond Parkway,10309.0,False,True
+3155,North Shore Esplanade,10301.0,False,True
+3156,Gen. Douglas MacArthur Park,10304.0,False,True
+3157,Gen. Douglas MacArthur Park,10304.0,False,True
+3158,Gen. Douglas MacArthur Park,10304.0,False,True
+3159,Gen. Douglas MacArthur Park,10304.0,False,True
+3160,Terrace Playground,10301.0,False,True
+3161,Terrace Playground,10301.0,False,True
+3162,Terrace Playground,10301.0,False,True
+3163,Great Kills Veterans Playground,10308.0,False,True
+3164,Great Kills Veterans Playground,10308.0,False,True
+3165,Clawson Playground,10306.0,False,True
+3166,Naples Playground,10304.0,False,True
+3167,Father Macris Park,10314.0,False,True
+3168,Markham Playground,10302.0,False,True
+3169,Markham Playground,10302.0,False,True
+3170,Markham Playground,10302.0,False,True
+3171,Markham Playground,10302.0,True,True
+3172,Markham Playground,10302.0,False,True
+3173,Northerleigh Park,10302.0,False,True
+3174,Lemon Creek Park,10309.0,False,True
+3175,Annadale Green,10312.0,False,True
+3176,E.M.T. Christopher J. Prescott Playground,10312.0,False,True
+3177,Davis Playground,10301.0,False,True
+3178,Davis Playground,10301.0,False,True
+3179,Davis Playground,10301.0,False,True
+3180,Dongan Playground,10305.0,False,True
+3181,High Rock Park,10306.0,False,False
+3182,High Rock Park,10306.0,False,False
+3183,High Rock Park,10306.0,False,False
+3184,High Rock Park,10314.0,False,False
+3185,High Rock Park,10306.0,False,False
+3186,High Rock Park,10306.0,False,False
+3188,High Rock Park,10306.0,False,False
+3189,Greencroft Playground,10308.0,True,True
+3190,Greencroft Playground,10308.0,False,True
+3191,Lieutenant John H. Martinson Playground,10312.0,False,True
+3192,Lieutenant John H. Martinson Playground,10312.0,True,True
+3193,Lieutenant John H. Martinson Playground,10312.0,False,True
+3194,Prall Playground,10310.0,False,True
+3195,Prall Playground,10310.0,True,True
+3196,Prall Playground,10310.0,False,True
+3197,Bloomingdale Park,10309.0,False,True
+3198,Bloomingdale Park,10309.0,False,True
+3199,Bloomingdale Park,10309.0,False,True
+3200,Bloomingdale Park,10309.0,False,True
+3201,Bloomingdale Park,10309.0,False,True
+3202,Bloomingdale Park,10309.0,False,True
+3203,Bloomingdale Park,10309.0,False,True
+3204,Bloomingdale Park,10309.0,False,True
+3205,Bloomingdale Park,10309.0,False,True
+3206,CPL. Thompson Park,10310.0,False,True
+3207,CPL. Thompson Park,10310.0,False,True
+3208,CPL. Thompson Park,10310.0,True,False
+3209,CPL. Thompson Park,10310.0,False,False
+3210,CPL. Thompson Park,10310.0,True,False
+3211,Tottenville Pool,10307.0,False,False
+3212,Tottenville Pool,10307.0,False,False
+3213,Tottenville Pool,10307.0,False,False
+3214,Tottenville Pool,10307.0,False,False
+3215,Tottenville Pool,10307.0,False,False
+3217,Lt. Lia Playground,10301.0,False,True
+3218,Jennifer's Playground,10314.0,True,True
+3219,Jennifer's Playground,10314.0,False,True
+3220,Jennifer's Playground,10314.0,False,True
+3221,Jennifer's Playground,10314.0,False,True
+3222,Jennifer's Playground,10314.0,True,False
+3223,Alice Austen Park,10305.0,False,False
+3224,Alice Austen Park,10305.0,False,False
+3225,Blue Heron Park,10312.0,False,False
+3226,Blue Heron Park,10312.0,False,False
+3227,Skyline Playground,10301.0,False,True
+3228,Lopez Playground,10304.0,False,True
+3229,Lopez Playground,10304.0,True,True
+3230,Blood Root Valley,10314.0,False,False
+3231,Blood Root Valley,10314.0,False,False
+3232,Blood Root Valley,10314.0,False,False
+3233,Blood Root Valley,10314.0,False,False
+3234,Blood Root Valley,10314.0,True,False
+3235,Seaside Wildlife Nature Park,10308.0,False,True
+3236,Ocean Breeze Park,10305.0,False,False
+3237,Ocean Breeze Park,10305.0,False,False
+3238,Ocean Breeze Park,10305.0,False,False
+3239,Ocean Breeze Park,10305.0,False,False
+3240,Ocean Breeze Park,10305.0,False,False
+3241,Ocean Breeze Park,10305.0,False,False
+3242,Sylvan Grove Cemetery,10314.0,True,True
+3243,Stapleton Esplanade,10304.0,True,True
+3244,Brookfield Park,10308.0,False,False
+3246,Brookfield Park,10308.0,False,False
+3247,Aqueduct Walk,10453.0,False,True
+3248,Aqueduct Walk,10453.0,False,True
+3249,Aqueduct Walk,10453.0,False,True
+3250,Aqueduct Walk,10453.0,False,True
+3251,Bronx Park,10462.0,False,True
+3252,Bronx Park,10467.0,True,True
+3253,Bronx Park,10467.0,False,True
+3254,Bronx Park,10467.0,False,True
+3255,Bronx Park,10467.0,False,True
+3256,Bronx Park,10467.0,False,True
+3257,Bronx Park,10467.0,False,True
+3258,Bronx Park,10462.0,True,True
+3259,Bronx Park,10462.0,False,True
+3260,Bronx Park,10462.0,False,True
+3261,Bronx Park,10462.0,False,True
+3262,Bronx Park,10462.0,False,True
+3263,Bronx Park,10462.0,False,True
+3264,Bronx Park,10462.0,False,True
+3265,Bronx Park,10462.0,False,False
+3266,Bronx Park,10462.0,False,False
+3267,Bronx Park,10462.0,False,False
+3268,Bronx Park,10462.0,False,False
+3269,Bronx Park,10462.0,False,False
+3270,Bronx Park,10462.0,False,False
+3271,Bronx Park,10462.0,False,False
+3272,Bronx Park,10462.0,False,False
+3273,Bronx Park,10462.0,False,False
+3274,Bronx Park,10462.0,False,False
+3276,Bronx River Parkway,10467.0,False,True
+3277,Bronx River Parkway,10467.0,False,True
+3278,Bronx River Parkway,10467.0,False,True
+3279,Bronx River Parkway,10467.0,False,True
+3280,Bronx River Parkway,10467.0,False,True
+3281,Bronx River Parkway,10467.0,False,True
+3282,Bronx River Parkway,10472.0,False,True
+3283,Bronx River Parkway,10473.0,False,True
+3284,Bronx River Parkway,10472.0,False,True
+3285,Bronx River Parkway,10472.0,False,True
+3286,Bronx River Parkway,10472.0,False,True
+3287,Bronx River Parkway,10473.0,False,True
+3288,Bryan Park,10458.0,True,True
+3289,Claremont Park,10457.0,False,True
+3290,Claremont Park,10457.0,False,True
+3291,Claremont Park,10457.0,False,True
+3292,Claremont Park,10457.0,False,False
+3293,Claremont Park,10457.0,False,False
+3294,Claremont Park,10457.0,False,False
+3295,Monsignor Raul Del Valle Square,10459.0,False,True
+3296,Tremont Park,10457.0,False,True
+3297,Tremont Park,10457.0,True,True
+3298,Tremont Park,10457.0,False,True
+3299,Crotona Park,10456.0,True,True
+3300,Crotona Park,10456.0,False,True
+3301,Crotona Park,10456.0,False,True
+3302,Crotona Park,10457.0,False,True
+3303,Crotona Park,10457.0,True,True
+3304,Crotona Park,10457.0,False,True
+3305,Crotona Park,10457.0,False,True
+3306,Crotona Park,10457.0,False,True
+3307,Crotona Park,10457.0,False,True
+3308,Crotona Park,10457.0,False,True
+3309,Crotona Park,10457.0,False,True
+3310,Crotona Park,10457.0,False,True
+3311,Crotona Park,10457.0,False,True
+3312,Crotona Park,10457.0,False,True
+3313,Crotona Park,10457.0,True,True
+3314,Crotona Park,10457.0,False,True
+3315,Crotona Park,10457.0,False,True
+3316,Crotona Park,10457.0,False,True
+3317,Crotona Park,10457.0,False,True
+3318,Crotona Park,10457.0,False,True
+3319,Crotona Park,10457.0,True,True
+3320,Crotona Park,10457.0,True,True
+3321,Crotona Park,10457.0,True,False
+3322,Crotona Park,10457.0,False,False
+3323,Crotona Park,10457.0,False,False
+3324,Crotona Park,10457.0,False,False
+3325,Crotona Park,10457.0,False,False
+3326,Devoe Park,10468.0,False,True
+3327,Devoe Park,10468.0,False,True
+3328,Devoe Park,10468.0,False,True
+3329,Devoe Park,10468.0,False,True
+3330,Devoe Park,10468.0,False,False
+3331,Horseshoe Playground,10459.0,False,True
+3332,Owen F. Dolen Park,10461.0,False,True
+3333,Owen F. Dolen Park,10461.0,False,False
+3334,Owen F. Dolen Park,10461.0,False,False
+3335,Owen F. Dolen Park,10461.0,False,False
+3336,Owen F. Dolen Park,10461.0,False,False
+3337,Richman (Echo) Park,10457.0,False,True
+3338,Ewen Park,10463.0,False,True
+3339,Fort Independence Playground,10468.0,False,True
+3340,Fort Independence Playground,10463.0,False,True
+3341,Drew Playground,10456.0,False,True
+3342,Benjamin Gladstone Square,10459.0,False,True
+3343,Hines Park,10456.0,False,True
+3344,Joyce Kilmer Park,10451.0,False,True
+3345,Joyce Kilmer Park,10451.0,False,True
+3346,Lyons Square Playground,10459.0,False,True
+3347,Lyons Square Playground,10459.0,False,True
+3348,Lyons Square Playground,10459.0,False,True
+3349,Lyons Square Playground,10459.0,False,True
+3350,Macombs Dam Park,10452.0,False,True
+3351,Macombs Dam Park,10451.0,False,True
+3352,Macombs Dam Park,10451.0,False,True
+3353,Macombs Dam Park,10451.0,True,True
+3354,Macombs Dam Park,10451.0,False,True
+3355,Macombs Dam Park,10451.0,False,True
+3356,Macombs Dam Park,10451.0,False,True
+3357,Macombs Dam Park,10451.0,False,True
+3358,Macombs Dam Park,10452.0,True,True
+3359,Railroad Park,10451.0,True,True
+3360,Mosholu Parkway,10458.0,False,True
+3362,Mosholu Parkway,10467.0,False,True
+3363,Mosholu Parkway,10467.0,False,True
+3364,Mosholu Parkway,10467.0,False,True
+3365,Mullaly Park,10452.0,True,True
+3366,Mullaly Park,10452.0,False,True
+3367,Mullaly Park,10452.0,False,True
+3368,Mullaly Park,10452.0,False,True
+3369,Mullaly Park,10452.0,False,True
+3370,Mullaly Park,10452.0,False,True
+3371,Mullaly Park,10452.0,False,True
+3372,Mullaly Park,10452.0,False,False
+3373,Mullaly Park,10452.0,False,False
+3374,Mullaly Park,10452.0,False,False
+3375,Mullaly Park,10452.0,False,False
+3376,Mullaly Park,10452.0,False,False
+3377,Mullaly Park,10452.0,False,True
+3378,Washington's Walk,10468.0,True,True
+3379,Washington's Walk,10468.0,False,True
+3380,Pelham Bay Park,10465.0,False,True
+3381,Pelham Bay Park,10465.0,False,True
+3382,Pelham Bay Park,10465.0,False,True
+3383,Pelham Bay Park,10465.0,False,True
+3384,Pelham Bay Park,10465.0,False,True
+3385,Pelham Bay Park,10465.0,False,True
+3386,Pelham Bay Park,10464.0,False,True
+3387,Pelham Bay Park,10464.0,False,True
+3388,Pelham Bay Park,10465.0,False,True
+3389,Pelham Bay Park,10465.0,False,True
+3390,Pelham Bay Park,10465.0,False,True
+3391,Pelham Bay Park,10465.0,False,True
+3392,Pelham Bay Park,10465.0,False,True
+3393,Pelham Bay Park,10464.0,False,True
+3394,Pelham Bay Park,10464.0,False,True
+3395,Pelham Bay Park,10464.0,False,True
+3396,Pelham Bay Park,10464.0,False,True
+3397,Pelham Bay Park,10464.0,False,True
+3398,Pelham Bay Park,10464.0,False,True
+3399,Pelham Bay Park,10464.0,True,True
+3400,Pelham Bay Park,10464.0,True,True
+3401,Pelham Bay Park,10464.0,False,True
+3402,Pelham Bay Park,10464.0,False,True
+3403,Pelham Bay Park,10464.0,False,True
+3404,Pelham Bay Park,10464.0,False,True
+3405,Pelham Bay Park,10464.0,False,True
+3406,Pelham Bay Park,10464.0,False,True
+3407,Pelham Bay Park,10464.0,False,True
+3408,Pelham Bay Park,10464.0,False,True
+3409,Pelham Bay Park,10464.0,False,True
+3410,Pelham Bay Park,10464.0,False,True
+3411,Pelham Bay Park,10464.0,False,True
+3412,Pelham Bay Park,10464.0,False,True
+3413,Pelham Bay Park,10464.0,False,True
+3414,Pelham Bay Park,10464.0,False,True
+3415,Pelham Bay Park,10464.0,False,True
+3416,Pelham Bay Park,10464.0,False,True
+3417,Pelham Bay Park,10464.0,False,True
+3418,Pelham Bay Park,10464.0,False,True
+3419,Pelham Bay Park,10465.0,False,True
+3420,Pelham Bay Park,10465.0,False,True
+3421,Pelham Bay Park,10464.0,True,False
+3422,Pelham Bay Park,10465.0,False,False
+3423,Pelham Bay Park,10464.0,False,False
+3424,Pelham Bay Park,10464.0,False,False
+3425,Pelham Bay Park,10464.0,False,True
+3426,Pelham Bay Park,10464.0,False,False
+3427,Pelham Bay Park,10464.0,False,False
+3428,Pelham Bay Park,10464.0,False,False
+3429,Poe Park,10458.0,False,True
+3430,Poe Park,10458.0,False,True
+3431,Poe Park,10458.0,False,False
+3432,Pulaski Park,10454.0,False,True
+3433,Pulaski Park,10454.0,False,True
+3434,Rose Hill Park,10458.0,True,True
+3435,Rose Hill Park,10458.0,False,False
+3436,St. James Park,10468.0,True,True
+3437,St. James Park,10468.0,False,True
+3438,St. James Park,10468.0,True,True
+3439,St. James Park,10468.0,True,True
+3440,St. James Park,10468.0,False,False
+3441,St. James Park,10468.0,False,False
+3442,St. James Park,10468.0,False,False
+3443,St. James Park,10468.0,False,False
+3444,St. Mary's Park,10454.0,True,True
+3445,St. Mary's Park,10454.0,False,True
+3446,St. Mary's Park,10454.0,False,True
+3447,St. Mary's Park,10454.0,False,True
+3448,St. Mary's Park,10454.0,False,True
+3449,St. Mary's Park,10454.0,False,True
+3450,St. Mary's Park,10454.0,False,False
+3451,St. Mary's Park,10454.0,False,False
+3452,St. Mary's Park,10454.0,False,False
+3453,St. Mary's Park,10454.0,False,False
+3454,St. Mary's Park,10454.0,False,False
+3455,St. Mary's Park,10454.0,False,False
+3456,St. Mary's Park,10454.0,False,False
+3457,Seton Falls Park,10466.0,False,True
+3458,Franz Sigel Park,10451.0,False,True
+3459,Franz Sigel Park,10451.0,False,True
+3460,Franz Sigel Park,10451.0,False,True
+3461,Franz Sigel Park,10451.0,False,True
+3462,O'Neill Triangle,10451.0,True,True
+3463,Beatty Plaza,10456.0,False,True
+3464,D'Auria-Murphy Triangle,10458.0,False,True
+3465,Henry Hudson Park,10463.0,False,True
+3466,Henry Hudson Park,10463.0,False,True
+3467,Henry Hudson Park,10463.0,False,True
+3468,Henry Hudson Park,10463.0,False,True
+3469,Henry Hudson Park,10463.0,False,True
+3470,Henry Hudson Park,10463.0,True,True
+3471,Mount Eden Malls,10457.0,False,True
+3472,Slattery Playground,10458.0,True,True
+3473,Slattery Playground,10458.0,True,True
+3474,Charlton Garden,10456.0,False,True
+3475,Zimmerman Playground,10467.0,False,True
+3476,Pugsley Creek Park,10473.0,False,True
+3477,Van Cortlandt Park,10471.0,False,True
+3478,Van Cortlandt Park,10471.0,False,True
+3479,Van Cortlandt Park,10470.0,False,True
+3480,Van Cortlandt Park,10470.0,False,True
+3481,Van Cortlandt Park,10470.0,False,True
+3482,Van Cortlandt Park,10471.0,False,True
+3483,Van Cortlandt Park,10470.0,False,True
+3484,Van Cortlandt Park,10471.0,False,True
+3485,Van Cortlandt Park,10471.0,False,True
+3486,Van Cortlandt Park,10471.0,False,True
+3487,Van Cortlandt Park,10471.0,False,True
+3488,Van Cortlandt Park,10471.0,False,True
+3489,Van Cortlandt Park,10471.0,False,True
+3490,Van Cortlandt Park,10471.0,False,True
+3491,Van Cortlandt Park,10471.0,False,True
+3492,Van Cortlandt Park,10471.0,False,True
+3493,Van Cortlandt Park,10471.0,False,True
+3494,Van Cortlandt Park,10471.0,False,True
+3495,Van Cortlandt Park,10471.0,False,True
+3496,Van Cortlandt Park,10471.0,False,True
+3497,Van Cortlandt Park,10471.0,False,True
+3498,Van Cortlandt Park,10471.0,False,True
+3499,Van Cortlandt Park,10471.0,False,True
+3500,Van Cortlandt Park,10471.0,False,True
+3501,Van Cortlandt Park,10471.0,False,True
+3502,Van Cortlandt Park,10471.0,False,True
+3503,Van Cortlandt Park,10470.0,False,True
+3504,Van Cortlandt Park,10471.0,False,True
+3505,Van Cortlandt Park,10471.0,False,True
+3506,Van Cortlandt Park,10471.0,False,True
+3507,Van Cortlandt Park,10471.0,False,True
+3508,Van Cortlandt Park,10471.0,False,True
+3509,Van Cortlandt Park,10471.0,False,True
+3510,Van Cortlandt Park,10471.0,True,True
+3511,Van Cortlandt Park,10471.0,False,True
+3512,Van Cortlandt Park,10471.0,False,True
+3513,Van Cortlandt Park,10471.0,True,True
+3514,Van Cortlandt Park,10471.0,True,False
+3515,Van Cortlandt Park,10471.0,True,False
+3516,Van Cortlandt Park,10471.0,False,False
+3517,Van Cortlandt Park,10471.0,False,False
+3518,Van Cortlandt Park,10470.0,False,False
+3519,Van Cortlandt Park,10471.0,False,False
+3520,Van Nest Park,10462.0,False,True
+3521,Bridge Park,10453.0,False,True
+3522,Bridge Park,10453.0,False,True
+3523,Bridge Park,10452.0,False,True
+3524,Williamsbridge Square,10467.0,False,False
+3525,Ciccarone Park,10458.0,True,True
+3526,Ciccarone Park,10458.0,True,True
+3527,People's Park,10454.0,False,True
+3528,People's Park,10454.0,False,True
+3529,Soundview Park,10473.0,False,True
+3530,Williamsbridge Oval,10467.0,False,True
+3531,Williamsbridge Oval,10467.0,False,True
+3532,Williamsbridge Oval,10467.0,False,True
+3533,Williamsbridge Oval,10467.0,False,True
+3534,Williamsbridge Oval,10467.0,False,True
+3535,Williamsbridge Oval,10467.0,False,True
+3536,Williamsbridge Oval,10467.0,True,True
+3537,Williamsbridge Oval,10467.0,True,True
+3538,Williamsbridge Oval,10467.0,False,False
+3539,Williamsbridge Oval,10467.0,False,False
+3540,Williamsbridge Oval,10467.0,False,False
+3541,Hawkins Park,10464.0,False,True
+3542,Belmont Playground,10457.0,False,True
+3543,Belmont Playground,10457.0,False,True
+3544,Belmont Playground,10457.0,False,True
+3545,Belmont Playground,10457.0,False,True
+3546,Cedar Playground,10453.0,False,True
+3547,Cedar Playground,10453.0,False,True
+3548,Cedar Playground,10453.0,False,True
+3549,Hilton White Playground,10456.0,False,True
+3550,Hunts Point Playground,10474.0,False,True
+3551,Hunts Point Playground,10474.0,False,True
+3552,Hunts Point Playground,10474.0,False,True
+3553,Hunts Point Playground,10474.0,False,True
+3554,Goble Playground,10452.0,False,True
+3555,Mott Playground,10456.0,False,True
+3556,Rev J Polite Playground,10459.0,True,True
+3557,Rev J Polite Playground,10459.0,False,True
+3558,Soundview Park,10473.0,False,True
+3559,Soundview Park,10473.0,True,True
+3560,Soundview Park,10473.0,False,True
+3561,Soundview Park,10473.0,False,True
+3562,Soundview Park,10473.0,False,True
+3563,Soundview Park,10473.0,False,True
+3564,Soundview Park,10473.0,True,True
+3565,Soundview Park,10473.0,False,True
+3566,Soundview Park,10473.0,False,True
+3567,Soundview Park,10473.0,False,True
+3568,Soundview Park,10473.0,False,False
+3569,Alexander's Alley,10454.0,False,True
+3570,Highbridge Park,10452.0,False,True
+3571,Bufano Park,10461.0,False,True
+3572,Colucci Playground,10461.0,False,True
+3573,Colucci Playground,10461.0,False,True
+3574,Colucci Playground,10461.0,True,True
+3575,Noble Playground,10460.0,True,True
+3576,Noble Playground,10460.0,False,True
+3577,Noble Playground,10460.0,True,True
+3578,Noble Playground,10460.0,False,True
+3579,Watson Gleason Playground,10472.0,True,True
+3580,Watson Gleason Playground,10472.0,False,True
+3581,Watson Gleason Playground,10472.0,False,True
+3582,Ferry Point Park,10465.0,False,True
+3583,Ferry Point Park,10465.0,False,True
+3584,Ferry Point Park,10465.0,False,True
+3585,Ferry Point Park,10465.0,False,True
+3586,Ferry Point Park,10465.0,False,True
+3587,Ferry Point Park,10465.0,False,True
+3588,Nelson Playground,10452.0,False,True
+3589,Ferry Point Park,10465.0,False,True
+3590,Ferry Point Park,10465.0,True,True
+3591,Lozada Playground,10454.0,True,True
+3592,Lozada Playground,10454.0,False,True
+3593,Harris Park,10468.0,True,True
+3594,Harris Park,10468.0,False,True
+3595,Harris Park,10468.0,False,True
+3596,Harris Park,10468.0,False,True
+3597,Harris Park,10468.0,False,True
+3598,Harris Park,10468.0,False,True
+3599,Harris Park,10468.0,False,True
+3600,Jerome Park,10468.0,False,True
+3601,Rienzi Playground,10466.0,False,True
+3602,Rienzi Playground,10466.0,False,True
+3603,Flynn Playground,10451.0,False,True
+3604,Flynn Playground,10451.0,False,True
+3605,Starlight Park,10459.0,False,True
+3606,Starlight Park,10459.0,False,True
+3607,Jennie Jerome Playground,10453.0,False,True
+3609,Morris Mesa,10457.0,False,True
+3610,Virginia Park,10462.0,False,True
+3611,Virginia Park,10472.0,False,True
+3612,Virginia Playground,10462.0,True,True
+3613,Havemeyer Playground,10462.0,False,True
+3614,Fordham Landing Playground,10468.0,False,True
+3615,Cooney Grauer Field,10463.0,False,True
+3616,Bailey Playground,10463.0,False,True
+3617,Bailey Playground,10463.0,False,True
+3618,P.O. Serrano Playground,10473.0,True,True
+3619,P.O. Serrano Playground,10473.0,False,True
+3620,P.O. Serrano Playground,10473.0,False,True
+3621,P.O. Serrano Playground,10473.0,False,True
+3622,Vinmont Veteran Park,10471.0,False,True
+3623,Vinmont Veteran Park,10471.0,False,True
+3624,Vinmont Veteran Park,10471.0,False,True
+3625,Merriam Playground,10452.0,True,True
+3626,Merriam Playground,10452.0,False,True
+3627,Merriam Playground,10452.0,False,True
+3628,Merriam Playground,10452.0,False,True
+3629,Melrose Playground,10451.0,True,True
+3630,Patterson Playground,10451.0,False,True
+3631,Eastchester Playground,10469.0,True,True
+3632,Mazzei Playground,10469.0,False,True
+3633,Mazzei Playground,10469.0,False,True
+3634,Sedgwick Playground,10453.0,False,True
+3635,Playground 174,10472.0,False,True
+3636,Playground 174,10472.0,False,True
+3637,Caserta Playground,10462.0,False,True
+3638,Gun Hill Playground,10467.0,False,True
+3639,Parkside Playground,10467.0,False,True
+3640,Loreto Playground,10461.0,False,True
+3641,Loreto Playground,10461.0,False,True
+3642,Loreto Playground,10461.0,False,True
+3643,Loreto Playground,10461.0,False,True
+3644,Dawson Playground,10459.0,False,True
+3645,Edenwald Playground,10466.0,False,True
+3646,Behagen Playground,10456.0,False,True
+3647,Behagen Playground,10456.0,False,True
+3648,Behagen Playground,10456.0,False,True
+3649,Behagen Playground,10456.0,False,True
+3650,Behagen Playground,10456.0,False,True
+3651,Nelson Playground,10452.0,False,True
+3652,Agnes Haywood Playground,10467.0,False,True
+3653,Agnes Haywood Playground,10467.0,False,True
+3654,The Pearly Gates,10461.0,False,True
+3655,The Pearly Gates,10461.0,False,True
+3656,Spuyten Duyvil Playground,10463.0,False,True
+3657,Spuyten Duyvil Playground,10463.0,False,False
+3658,Spuyten Duyvil Playground,10463.0,False,True
+3659,Allerton Playground,10469.0,False,True
+3660,Webster Playground,10458.0,True,True
+3661,Webster Playground,10458.0,False,True
+3662,Riverbend Playground,10463.0,True,True
+3663,Taylor Playground,10460.0,False,True
+3664,Castle Hill Playground,10462.0,False,True
+3665,Matthews Muliner Playground,10462.0,False,True
+3666,Matthews Muliner Playground,10462.0,False,True
+3667,Playground 52 LII,10455.0,False,True
+3668,Playground 52 LII,10455.0,False,True
+3669,Playground 52 LII,10455.0,False,True
+3670,Whalen Playground,10467.0,False,True
+3671,Millbrook Playground,10454.0,False,True
+3672,Millbrook Playground,10454.0,False,True
+3673,Millbrook Playground,10454.0,False,True
+3674,Bruckner Playground,10465.0,False,True
+3675,Bruckner Playground,10465.0,False,True
+3676,Dunbar Playground,10456.0,False,True
+3677,Dunbar Playground,10456.0,False,True
+3678,Riverdale Playground,10463.0,False,True
+3679,Riverdale Playground,10463.0,False,True
+3680,Givan Square,10469.0,False,True
+3681,Seton Park,10471.0,False,True
+3682,Givan Square,10469.0,False,True
+3683,Wakefield Playground,10470.0,False,True
+3684,Wakefield Playground,10470.0,False,True
+3685,Wakefield Playground,10470.0,False,True
+3686,Tiffany Playground,10459.0,False,True
+3687,Bicentennial Veterans Memorial Park,10465.0,False,True
+3688,Bicentennial Veterans Memorial Park,10465.0,False,True
+3689,Bicentennial Veterans Memorial Park,10465.0,False,True
+3690,Stars & Stripes Playground,10466.0,False,True
+3691,Stars & Stripes Playground,10466.0,False,True
+3692,Stars & Stripes Playground,10466.0,False,True
+3693,Captain Rivera Playground,10455.0,True,True
+3694,Colgate Close,10472.0,False,True
+3695,Colgate Close,10472.0,False,True
+3696,Colgate Close,10472.0,False,True
+3697,Haffen Park,10469.0,False,True
+3698,Haffen Park,10469.0,False,True
+3699,Haffen Park,10469.0,False,True
+3700,Haffen Park,10469.0,False,True
+3701,Haffen Park,10469.0,False,True
+3702,Haffen Park,10469.0,False,True
+3703,Haffen Park,10469.0,False,True
+3704,Haffen Park,10469.0,False,False
+3705,Haffen Park,10469.0,True,False
+3706,Haffen Park,10469.0,True,False
+3707,Haffen Park,10469.0,False,False
+3708,Clark Playground,10454.0,False,True
+3709,Clark Playground,10454.0,False,True
+3710,Seton Park,10471.0,False,True
+3711,Seton Park,10471.0,False,True
+3713,Marble Hill Playground,10463.0,False,True
+3714,Marble Hill Playground,10463.0,False,True
+3715,Marble Hill Playground,10463.0,False,True
+3716,Randall Playground,10473.0,False,True
+3717,Story Playground,10473.0,False,True
+3718,Black Rock Playground,10472.0,False,True
+3719,Morgan Playground,10456.0,False,True
+3720,Morgan Playground,10456.0,False,True
+3721,Stebbins Playground,10459.0,False,True
+3722,Magenta Playground,10467.0,False,True
+3723,Abigail Playground,10455.0,True,True
+3724,Abigail Playground,10455.0,False,True
+3725,Willis Playground,10454.0,False,True
+3726,Willis Playground,10454.0,False,True
+3727,Arcilla Playground,10456.0,True,True
+3728,Arcilla Playground,10456.0,False,True
+3729,Space Time Playground,10473.0,True,True
+3730,Gouverneur Playground,10456.0,True,True
+3731,MacLaughlin Playground,10471.0,False,True
+3732,MacLaughlin Playground,10471.0,False,True
+3733,Burns Playground,10469.0,False,True
+3734,Fountain Of Youth Playground,10455.0,False,True
+3735,Fountain Of Youth Playground,10455.0,True,True
+3736,Grove Hill Playground,10456.0,False,True
+3737,Grove Hill Playground,10456.0,False,True
+3738,Grove Hill Playground,10456.0,False,True
+3739,Mapes Pool,10460.0,False,False
+3740,Mapes Pool,10460.0,False,False
+3741,Estella Diggs Park,10456.0,True,True
+3742,Estella Diggs Park,10456.0,False,True
+3743,Grand Playground,10453.0,False,True
+3744,Grand Playground,10453.0,True,True
+3745,Fox Playground,10455.0,True,True
+3746,Fox Playground,10455.0,True,True
+3747,Co-op City Field,10475.0,False,True
+3748,Co-op City Field,10475.0,False,True
+3749,Co-op City Field,10475.0,True,True
+3750,Bathgate Playground,10457.0,False,True
+3751,Bathgate Playground,10457.0,True,True
+3752,Ambrosini Field,10464.0,False,True
+3753,Ambrosini Field,10464.0,False,True
+3754,Ambrosini Field,10464.0,False,True
+3755,Bill Rainey Park,10459.0,False,True
+3756,Bill Rainey Park,10459.0,False,True
+3757,Bill Rainey Park,10459.0,False,True
+3758,Bill Rainey Park,10459.0,True,True
+3759,Bill Rainey Park,10459.0,True,True
+3760,Bill Rainey Park,10459.0,False,True
+3761,Bill Rainey Park,10459.0,False,False
+3762,Mount Hope Playground,10453.0,False,True
+3763,Mount Hope Playground,10453.0,True,True
+3764,Cleopatra Playground,10457.0,False,True
+3765,Cleopatra Playground,10457.0,True,True
+3766,Julio Carballo Fields,10474.0,False,True
+3767,Julio Carballo Fields,10474.0,False,True
+3768,Julio Carballo Fields,10474.0,False,False
+3769,Julio Carballo Fields,10474.0,False,False
+3770,Julio Carballo Fields,10474.0,False,False
+3771,West Bronx Recreation Center,10452.0,False,True
+3772,West Bronx Recreation Center,10452.0,False,False
+3773,Harding Park,10473.0,False,True
+3774,Harding Park,10473.0,False,True
+3776,Quarry Ballfields,10457.0,False,True
+3777,Quarry Ballfields,10457.0,False,True
+3778,Galileo Playground,10453.0,False,True
+3779,Galileo Playground,10453.0,False,True
+3780,Vidalia Park,10460.0,True,True
+3781,Vidalia Park,10460.0,True,True
+3782,Vidalia Park,10460.0,True,True
+3783,Vidalia Park,10460.0,True,True
+3784,Eae J Mitchell Park,10460.0,False,True
+3785,Grant Park,10456.0,True,True
+3786,Grant Park,10456.0,False,True
+3787,Ranaqua Playground,10454.0,False,True
+3788,Rock Garden Park,10460.0,False,True
+3789,Rock Garden Park,10460.0,False,True
+3790,Washington Park,10458.0,True,True
+3791,Stop & Go Playground,10457.0,False,True
+3792,Seabury Playground,10460.0,False,True
+3793,Beanstalk Playground,10453.0,False,True
+3794,Printers Park,10459.0,False,True
+3795,Printers Park,10459.0,False,True
+3796,Rev Lena Irons Unity Park,10456.0,True,True
+3797,Ogden Plimpton Playground,10452.0,False,True
+3798,Morris Garden,10453.0,False,True
+3799,Half-Nelson Playground,10453.0,False,True
+3800,Half-Nelson Playground,10453.0,True,True
+3801,Little Claremont Playground,10457.0,False,True
+3802,Little Claremont Playground,10457.0,False,True
+3803,Davidson Playground,10453.0,False,True
+3804,Thorpe Family Playground,10458.0,False,True
+3805,Concrete Plant Park,10459.0,False,True
+3806,Concrete Plant Park,10459.0,False,True
+3807,Barretto Point Park,10474.0,False,True
+3808,Barretto Point Park,10474.0,False,True
+3809,Barretto Point Park,,True,False
+3810,Barretto Point Park,,False,False
+3811,Barretto Point Park,,False,True
+3812,Mohegan Triangle,10460.0,True,True
+3813,Risse Street Park,10468.0,False,True
+3814,Hunts Point Riverside Park,10474.0,False,True
+3815,Hunts Point Riverside Park,10474.0,False,True
+3816,Mill Pond Park,10451.0,False,True
+3817,Mill Pond Park,10451.0,False,True
+3818,River Avenue Parks,10451.0,False,True
+3819,River Avenue Parks,10451.0,True,True
+3820,River Avenue Parks,10451.0,False,True
+3821,P.S. 29 Ballfield,10451.0,False,True
+3822,The Battery,10004.0,False,True
+3824,Hope Ballfield,11237.0,False,True
+3825,Hope Ballfield,11237.0,False,True
+3826,Central Park,83.0,False,True
+3827,Central Park,83.0,False,True
+3828,Corporal John A. Seravalli Playground,10014.0,False,True
+3829,Norelli-Hargreaves Playground,11435.0,False,True
+3830,Weeksville Playground,11233.0,False,True
+3831,Jesse Owens Playground,11221.0,False,True
+3832,Stockton Playground,11206.0,False,True
+3833,Dutch Kills Playground,11106.0,False,True
+3834,Nostrand Playground,11210.0,False,True
+3835,Lafayette Playground,11214.0,False,True
+3837,Lafayette Playground,11214.0,False,True
+3838,Hallets Cove Playground,11102.0,False,True
+3839,Jacob Joffe Fields,11234.0,False,True
+3840,City Line Park,11208.0,False,True
+3841,St. Mary's Park,11231.0,False,True
+3842,Rory Staunton Field,11372.0,False,True
+3843,Newport Playground,11212.0,False,True
+3844,Newport Playground,11212.0,False,True
+3845,Ten Eyck Playground,11206.0,False,True
+3846,Bronx Park,10462.0,False,True
+3847,Mount Hope Garden,10453.0,False,True
+3848,Saw Mill Playground,10454.0,False,True
+3849,Prospect Park,11215.0,False,False
+3850,Walton Park,10453.0,False,True
+3851,Yolanda García Park,10451.0,False,True
+3852,Yolanda García Park,10451.0,False,True
+3853,Saw Mill Playground,10454.0,False,True
+3854,Luther Gulick Park,10002.0,False,True
+3855,Plimpton Playground,10452.0,False,True
+3856,Plimpton Playground,10452.0,False,True
+3857,Plimpton Playground,10452.0,False,True
+3858,Fort Tryon Park,10040.0,False,True
+3859,Garrison Playground,10451.0,False,True
+3860,Grant Park,10456.0,False,True
+3861,Pelham Bay Park,10464.0,False,True
+3862,Pelham Bay Park,10464.0,False,True
+3868,Van Cortlandt Park,10471.0,False,True

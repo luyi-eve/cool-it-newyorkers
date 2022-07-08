@@ -1,0 +1,274 @@
+Status,FeatureType,PropertyName,SubPropertyName,GISPropNum,OMPPropID,Borough,District,x,y
+Activated,Misting Station,Newtown Barge Playground,,B135,B135,Brooklyn,B-01,995395.466542214,207417.260083973
+Activated,Hydrant Spray Cap,Randall's Island Park,,M107,M107,Manhattan,M-11R,1002274.65652397,224781.691562399
+Activated,Hydrant Spray Cap,Randall's Island Park,,M107,M107,Manhattan,M-11R,1002486.58326546,224686.983746558
+Activated,Misting Station,Rockaway Beach Boardwalk,,Q163,Q163,Queens,Q-14,1031524.86934888,150386.391862481
+Activated,Misting Station,Rockaway Beach Boardwalk,,Q163,Q163,Queens,Q-14,1031865.8466853,150522.134373143
+Activated,Hydrant Spray Cap,Randall's Island Park,,M107,M107,Manhattan,M-11R,1003188.49787214,224495.34666264
+Activated,Misting Station,Rockaway Beach Boardwalk,,Q163,Q163,Queens,Q-14,1032232.7514633,150656.447752803
+Activated,Misting Station,Sgt. William Dougherty Playground,,B096,B096,Brooklyn,B-01,1001687.04319788,202975.071133732
+Activated,Misting Station,Rockaway Beach Boardwalk,,Q163,Q163,Queens,Q-14,1032462.0600598,150742.993839561
+Activated,Misting Station,Rockaway Beach Boardwalk,,Q163,Q163,Queens,Q-14,1032895.04410196,150914.852419734
+Activated,Misting Station,Rockaway Beach Boardwalk,,Q163,Q163,Queens,Q-14,1033216.37219947,151033.353495061
+Activated,Misting Station,Rockaway Beach Boardwalk,,Q163,Q163,Queens,Q-14,1033485.90020371,151122.957318469
+Activated,Misting Station,Rockaway Beach Boardwalk,,Q163,Q163,Queens,Q-14,1035310.46249946,151793.469428896
+Activated,Misting Station,Rockaway Beach Boardwalk,,Q163,Q163,Queens,Q-14,1036272.09705913,152095.628273397
+Activated,Misting Station,Rockaway Beach Boardwalk,,Q163,Q163,Queens,Q-14,1036587.76539105,152198.126099899
+Activated,Misting Station,Rockaway Beach Boardwalk,,Q163,Q163,Queens,Q-14,1037156.38826955,152460.585220649
+Activated,Misting Station,Rockaway Beach Boardwalk,,Q163,Q163,Queens,Q-14,1037527.00957556,152640.393916144
+Activated,Misting Station,Rockaway Beach Boardwalk,,Q163,Q163,Queens,Q-14,1038021.31928247,152809.199680894
+Activated,Misting Station,Rockaway Beach Boardwalk,,Q163,Q163,Queens,Q-14,1038272.4815098,152832.316432565
+Activated,Misting Station,Rockaway Beach Boardwalk,,Q163,Q163,Queens,Q-14,1038516.18345022,152859.871495559
+Activated,Misting Station,Rockaway Beach Boardwalk,,Q163,Q163,Queens,Q-14,1038852.84747505,152893.277596727
+Activated,Misting Station,Rockaway Beach Boardwalk,,Q163,Q163,Queens,Q-14,1039215.73224796,152927.638420388
+Activated,Misting Station,Rockaway Beach Boardwalk,,Q163,Q163,Queens,Q-14,1039519.67881855,152932.779486224
+Activated,Misting Station,Rockaway Beach Boardwalk,,Q162,Q162,Queens,Q-14,1046825.17470622,154877.511161059
+Activated,Misting Station,Beach 17 Playground,,Q162J,Q162J,Queens,Q-14,1053653.09215271,155881.013091057
+Activated,Hydrant Spray Cap,Randall's Island Park,,M107,M107,Manhattan,M-11R,1004724.20871147,224812.242682397
+Activated,Drinking Fountain Spray Adapter,Flushing Meadows Corona Park,,Q099,Q099,Queens,Q-15,1027948.58647522,210229.945403471
+Activated,Hydrant Spray Cap,Flushing Meadows Corona Park,,Q099,Q099,Queens,Q-15,1028065.55540138,210035.245661646
+Activated,Drinking Fountain Spray Adapter,Flushing Meadows Corona Park,,Q099,Q099,Queens,Q-15,1028584.08093914,210580.933218553
+Activated,Drinking Fountain Spray Adapter,Flushing Meadows Corona Park,,Q099,Q099,Queens,Q-15,1029501.01250422,212691.746910303
+Activated,Drinking Fountain Spray Adapter,Flushing Meadows Corona Park,,Q099,Q099,Queens,Q-15,1027404.12398147,210945.478421226
+Activated,Hydrant Spray Cap,Randall's Island Park,,M104,M104,Manhattan,M-11R,1007308.86036629,227792.611721649
+Activated,Drinking Fountain Spray Adapter,Flushing Meadows Corona Park,,Q099,Q099,Queens,Q-15,1025939.22894538,209606.386939317
+Activated,Drinking Fountain Spray Adapter,Flushing Meadows Corona Park,,Q099,Q099,Queens,Q-15,1025675.11989355,211151.388770565
+Activated,Hydrant Spray Cap,Randall's Island Park,,M104,M104,Manhattan,M-11R,1007812.32622288,228119.337446138
+Activated,Hydrant Spray Cap,Flushing Meadows Corona Park,,Q099,Q099,Queens,Q-15,1025261.1709183,211182.36082147
+Activated,Hydrant Spray Cap,Randall's Island Park,,M104,M104,Manhattan,M-11R,1007706.36383639,228331.365893483
+Activated,Hydrant Spray Cap,Randall's Island Park,,M104,M104,Manhattan,M-11R,1006436.51204538,228639.965013816
+Activated,CS Spray Adapter,Claremont Park,,X008,X008,Bronx,X-04,1010008.26408822,245876.645107314
+Activated,CS Spray Adapter,Claremont Park,Claremont Park,X008,X008-01,Bronx,X-04,1009691.52817313,244482.333591476
+Activated,Misting Station,John Hancock Playground,,B237,B237,Brooklyn,B-03,996698.680471226,187829.581083565
+Broken,Misting Station,Betty Carter Park,,B592,B592,Brooklyn,B-02,990619.560083553,189620.93839322
+Activated,Misting Station,Fulton Park,,B038,B038,Brooklyn,B-03,1002601.8323788,186896.352635055
+Activated,Misting Station,Jackie Robinson Park Playground,,B294,B294,Brooklyn,B-03,1004402.19918489,187151.968265563
+Activated,Misting Station,Thomas Boyland Park,,B381,B381,Brooklyn,B-04,1009938.46829605,187793.695656642
+Activated,Misting Station,Murray Playground,,Q141,Q141,Queens,Q-02,998454.2501228,211575.825913816
+Activated,Misting Station,Murray Playground,,Q141,Q141,Queens,Q-02,998423.850249216,211453.652929812
+Activated,Misting Station,Murray Playground,,Q141,Q141,Queens,Q-02,998709.934978887,211533.037613555
+Activated,Misting Station,Murray Playground,,Q141,Q141,Queens,Q-02,998672.871076643,211371.622253969
+Activated,Misting Station,Queensbridge Park,,Q104,Q104,Queens,Q-01,998684.311342477,215129.144266471
+Activated,Misting Station,Newtown Playground,,Q041,Q041,Queens,Q-04,1020386.88637556,207581.754833728
+Activated,Misting Station,Maurice A FitzGerald Playground,,Q337,Q337,Queens,Q-09,1028831.9373988,190852.894918814
+Activated,Misting Station,Detective Keith L Williams Park,K.l. Williams Playground (Tennis),Q121,Q121-02,Queens,Q-12,1043801.83790513,195882.624688729
+Activated,Misting Station,Mapes Pool,,X236,X236,Bronx,X-06,1015601.26799406,247834.62511523
+Activated,Misting Station,Monsignor Raul Del Valle Square,,X009,X009,Bronx,X-02,1014521.11562679,238306.744892805
+Activated,Buckner Box Spray Adapter,Pulaski Park,,X041,X041,Bronx,X-01,1004950.36803606,232756.484339803
+Activated,RPZ Spray Adapter,Pulaski Park,,X041,X041,Bronx,X-01,1005277.47433722,232629.412415474
+Activated,Buckner Box Spray Adapter,People's Park,,X103,X103,Bronx,X-01,1007220.43829906,234154.669535562
+Activated,CS Spray Adapter,Clark Playground,,X200,X200,Bronx,X-01,1006071.67550471,235841.371542722
+Activated,Buckner Box Spray Adapter,Bathgate Playground,,X252,X252,Bronx,X-06,1013441.36089655,249734.078993469
+Activated,Hydrant Spray Cap,Randall's Island Park,,M104,M104,Manhattan,M-11R,1006850.76023264,228325.820957064
+Activated,Hydrant Spray Cap,Randall's Island Park,,M104,M104,Manhattan,M-11R,1005408.88293805,231203.474485662
+Activated,Drinking Fountain Spray Adapter,Eae J Mitchell Park,,X267,X267,Bronx,X-03,1016299.58746355,244052.773755058
+Activated,Drinking Fountain Spray Adapter,Aqueduct Walk,Morton Plgd,X001A,X001A-01,Bronx,X-05,1007988.00730197,249387.090842306
+Activated,Buckner Box Spray Adapter,Bill Rainey Park,,X255,X255,Bronx,X-02,1012741.56931713,237906.679748058
+Activated,Buckner Box Spray Adapter,Tiffany Playground,,X190,X190,Bronx,X-02,1013528.49720522,239794.054910317
+Activated,CS Spray Adapter,Magenta Playground,,X214,X214,Bronx,X-12,1020823.6286123,257626.703300058
+Activated,Buckner Box Spray Adapter,Rev J Polite Playground,,X116,X116,Bronx,X-02,1012505.34964522,240516.455040305
+Not Yet Activated,Misting Station,P.S. 155 Playground,,M239,M239,Manhattan,M-11,1002131.40254511,229817.835690713
+Activated,Buckner Box Spray Adapter,Watson Gleason Playground,,X124,X124,Bronx,X-09,1020567.0582593,240854.799179896
+Activated,Ground Hydrant Spray Adapter,Lyons Square Park,,X029,X029,Bronx,X-02,1015203.54700471,238904.856229394
+Activated,Buckner Box Spray Adapter,Vidalia Park,,X266,X266,Bronx,X-06,1017055.19553238,246862.266495645
+Activated,Buckner Box Spray Adapter,Vidalia Park,,X266,X266,Bronx,X-06,1016993.20549888,246714.609966814
+Not Yet Activated,Other,Rev Lena Irons Unity Park,,X286,X286,Bronx,X-03,1010025.94121822,242030.781079888
+Activated,Misting Station,Howard Bennett Playground,,M217,M217,Manhattan,M-10,1001241.43221247,235672.071684479
+Activated,Buckner Box Spray Adapter,Rev Lena Irons Unity Park,,X286,X286,Bronx,X-03,1010121.65821838,242107.345559313
+Activated,Drinking Fountain Spray Adapter,Benjamin Gladstone Square,,X022,X022,Bronx,X-02,1014435.79361897,240004.637166306
+Broken,Misting Station,Heckscher Playground,,B139,B139,Brooklyn,B-04,1006937.79581971,192476.639046639
+Broken,Misting Station,Pulaski Playground,,B322,B322,Brooklyn,B-03,1000367.2344858,191911.255991056
+Activated,Misting Station,Sheltering Arms Playground,,M190,M190,Manhattan,M-09,996617.10320656,236195.271097391
+Activated,Misting Station,Lt. Wm. Tighe Triangle,,M180,M180,Manhattan,M-12,1004127.15445938,254744.935769647
+Activated,Misting Station,Highbridge Park,,M037,M037,Manhattan,M-12A,1002752.44887547,246867.808807387
+Activated,Buckner Box Spray Adapter,Washington Park,,X280,X280,Bronx,X-06,1013793.69483755,251150.307788312
+Activated,Misting Station,Railroad Park,,X032,X032,Bronx,X-03,1007693.16996513,239854.388779148
+Activated,Misting Station,Railroad Park,,X032,X032,Bronx,X-03,1007614.54545046,239901.280745729
+Activated,Buckner Box Spray Adapter,Rose Hill Park,,X042,X042,Bronx,X-06,1014556.13655413,253378.870588392
+Activated,Other,Fox Playground,,X247,X247,Bronx,X-02,1012380.24786131,236279.432674482
+Activated,Buckner Box Spray Adapter,Lozada Playground,,X131,X131,Bronx,X-01,1004962.75515039,233567.235342979
+Activated,Misting Station,D'Auria-Murphy Triangle,,X068,X068,Bronx,X-06,1014939.71846413,250177.254288226
+Activated,Misting Station,Fred Samuel Playground,,M160,M160,Manhattan,M-10,1001013.0009108,236917.189601063
+Activated,Misting Station,William McCray Playground,,M110,M110,Manhattan,M-10,1001512.80666972,236398.724102556
+Broken,Misting Station,Powell Playground,,B156,B156,Brooklyn,B-16,1010663.41566506,183870.154619231
+Activated,Drinking Fountain Spray Adapter,Marconi Park,,Q127,Q127,Queens,Q-12,1040966.73694805,192195.236394226
+Activated,Misting Station,Captain Rivera Playground,,X194,X194,Bronx,X-01,1010012.09577347,237347.454816639
+Activated,Misting Station,Macombs Dam Park,Macombs Dam Park,X030,X030-01,Bronx,X-04,1003716.51978197,241066.45722115
+Activated,Misting Station,Behagen Playground,,X166,X166,Bronx,X-03,1011649.77786555,240043.614450559
+Activated,Misting Station,Nelson Playground,,X168,X168,Bronx,X-04,1004455.40511521,243465.197502389
+Activated,Misting Station,Beanstalk Playground,,X283,X283,Bronx,X-05,1007295.3938578,250429.252471894
+Activated,Misting Station,Gouverneur Playground,,X222,X222,Bronx,X-03,1011012.61247321,243787.189640566
+Activated,Misting Station,Noble Playground,,X123,X123,Bronx,X-09,1019519.10792738,244204.270827397
+Activated,RPZ Spray Adapter,Andrews Grove,,Q045,Q045,Queens,Q-02,996719.830691382,210129.425263315
+Activated,Drinking Fountain Spray Adapter,Playground One Forty,,Q220E,Q220E,Queens,Q-12,1039464.37709188,185176.286193311
+Activated,Drinking Fountain Spray Adapter,Springfield Park,Springfield Playground,Q107,Q107-01,Queens,Q-13,1050102.81874147,179760.426946312
+Activated,Ground Hydrant Spray Adapter,Asser Levy Park,,B080,B080,Brooklyn,B-13,991861.727218642,148929.980077147
+Broken,Drinking Fountain Spray Adapter,Ethan Allen Playground,,B345,B345,Brooklyn,B-05,1015717.70444096,178220.94938223
+Broken,Drinking Fountain Spray Adapter,Herbert Von King Park,,B088,B088,Brooklyn,B-03,999305.941004723,190596.929551482
+Broken,Drinking Fountain Spray Adapter,Robert E. Venable Park,,B380,B380,Brooklyn,B-05,1021720.36632013,185067.612526148
+Broken,Drinking Fountain Spray Adapter,Poor Richard's Playground,,M230,M230,Manhattan,M-11,1000128.40983194,228085.341452281
+Broken,Misting Station,Marion Hopkinson Playground,,B110,B110,Brooklyn,B-16,1008359.08365955,187680.452116727
+Broken,Misting Station,South Pacific Playground,,B153,B153,Brooklyn,B-16,1006569.01735781,185461.337132394
+Activated,CS Spray Adapter,Nautilus Playground,,B268,B268,Brooklyn,B-13,985372.576154977,147569.152090147
+Activated,Misting Station,Lafayette Playground,,B106B,B106B,Brooklyn,B-13,988377.27716656,156062.077689558
+Activated,Misting Station,Irving Square Park,,B049,B049,Brooklyn,B-04,1009277.87152013,191408.534883648
+Broken,Drinking Fountain Spray Adapter,Breukelen Ballfields,Breukelen Plgd,B247,B247-01,Brooklyn,B-18,1013759.86911781,177546.748630896
+Activated,CS Spray Adapter,Carver Playground,,B347,B347,Brooklyn,B-03,1006330.83017013,187201.019020482
+Activated,Misting Station,Lafayette Playground,,B023,B023,Brooklyn,B-03,1003650.7495723,191577.889531806
+Broken,Misting Station,South Oxford Park,,B407,B407,Brooklyn,B-02,991808.727652713,188318.868818894
+Activated,Buckner Box Spray Adapter,Detective Keith L Williams Park,,Q121,Q121,Queens,Q-12,1043856.42244163,195459.010706558
+Activated,Drinking Fountain Spray Adapter,Wayanda Park,,Q082,Q082,Queens,Q-13,1056700.34097947,198375.611828729
+Activated,Drinking Fountain Spray Adapter,Pat Williams Playground,,Q133,Q133,Queens,Q-13,1059209.68208938,199214.592106148
+Broken,Misting Station,Mae Grant Playground,,M213,M213,Manhattan,M-11,998263.596632443,227981.465675783
+Activated,Drinking Fountain Spray Adapter,Moore Playground,,M204,M204,Manhattan,M-11,1001191.93788889,234193.641898557
+Activated,Misting Station,Moore Playground,,M204,M204,Manhattan,M-11,1001269.22579205,234212.596913144
+Activated,Drinking Fountain Spray Adapter,Howard Bennett Playground,,M217,M217,Manhattan,M-10,1001164.00356155,235825.055958554
+Activated,Misting Station,Mitchel Square,,M054,M054,Manhattan,M-12A,1000873.67376163,245381.838026061
+,Misting Station,Monsignor Kett Playground,,M199,M199,Manhattan,M-12A,1006203.29302335,253597.169693621
+Activated,Misting Station,Robert L. Clinkscales Playground and Community Garden,,M355,M355,Manhattan,M-10,1000880.14815813,239033.308072224
+Activated,Drinking Fountain Spray Adapter,Detective Keith L Williams Park,,Q121,Q121,Queens,Q-12,1044125.49605047,195533.040414139
+Activated,Buckner Box Spray Adapter,Courtney Callender Playground,,M155,M155,Manhattan,M-10,1000781.78450971,234423.259877637
+Activated,Buckner Box Spray Adapter,Courtney Callender Playground,,M155,M155,Manhattan,M-10,1000918.56540413,234459.471091315
+Activated,Buckner Box Spray Adapter,James Weldon Johnson Playground,,M111,M111,Manhattan,M-11,1000336.95961196,229671.644052803
+Broken,Misting Station,Sledge Playground,,B097,B097,Brooklyn,B-18,1012666.29420521,171764.149631813
+Broken,Drinking Fountain Spray Adapter,100% Playground,,B342,B342,Brooklyn,B-18,1012173.53305163,174843.551281392
+Activated,CS Spray Adapter,Eleanor Roosevelt Playground,,B359,B359,Brooklyn,B-03,1002054.69469355,191656.204663887
+Broken,Ground Hydrant Spray Adapter,Kennedy King Playground,,B304,B304,Brooklyn,B-17,1005975.67241588,179245.49556148
+Activated,Misting Station,Sternberg Park,,B055,B055,Brooklyn,B-01,998764.632047966,196539.308414727
+Broken,RPZ Spray Adapter,Green Central Knoll,,B395,B395,Brooklyn,B-04,1002867.70815938,194796.886702731
+Activated,Misting Station,Lafayette Playground,,B106B,B106B,Brooklyn,B-13,988407.935569807,155714.115787059
+Activated,RPZ Spray Adapter,Lewis Playground,,B430,B430,Brooklyn,B-03,1001454.13027788,192602.825474053
+Broken,Misting Station,Lincoln Terrace / Arthur S. Somers Park,Lincoln Terrace Park / Arthur S. Somers Playground,B054,B054-01,Brooklyn,B-08,1004296.22367505,182009.468708053
+Activated,Buckner Box Spray Adapter,Dr. Ronald E. McNair Playground,,M285,M285,Manhattan,M-11,1001363.7836738,231682.019297137
+Activated,Misting Station,Dr. Ronald E. McNair Playground,,M285,M285,Manhattan,M-11,1001417.95909038,231628.940006971
+Activated,Misting Station,Haffen Park,,X196,X196,Bronx,X-12,1028610.17373472,257283.260089308
+Activated,Misting Station,Haffen Park,,X196,X196,Bronx,X-12,1028525.86550438,257345.679911971
+Activated,Other,Poe Park,,X040,X040,Bronx,X-07,1013252.12210179,254261.655896306
+Activated,Misting Station,Joyce Kilmer Park,,X028,X028,Bronx,X-04,1005831.88005255,241218.305670723
+Activated,Misting Station,Edenwald Playground,,X165,X165,Bronx,X-12,1027080.00487905,261409.18359597
+Activated,Misting Station,Abigail Playground,,X216,X216,Bronx,X-01,1010633.87602597,237020.413804054
+Activated,Misting Station,Slattery Playground,,X085,X085,Bronx,X-05,1012282.79562838,251713.980873554
+Activated,Misting Station,Ranaqua Playground,,X272,X272,Bronx,X-01,1005788.10225297,233224.423692643
+Activated,Misting Station,Joyce Kilmer Park,,X028,X028,Bronx,X-04,1005552.79137188,241107.494868725
+Activated,Misting Station,Joyce Kilmer Park,,X028,X028,Bronx,X-04,1005566.43701389,240801.066347733
+Activated,Misting Station,Bushwick Playground,,B017,B017,Brooklyn,B-04,1008733.55174264,192803.242396056
+Activated,Misting Station,Ocean Hill Playground,,B144,B144,Brooklyn,B-16,1008672.04530397,185057.814973562
+Activated,Misting Station,Mott Playground,,X115,X115,Bronx,X-04,1007763.5212537,242093.987270829
+Activated,CS Spray Adapter,Grove Hill Playground,,X235,X235,Bronx,X-01,1009560.24516897,237993.926274752
+Activated,Misting Station,Givan Square,Angelo Campanaro Plgd,X187,X187-01,Bronx,X-12,1027737.10264621,255608.18371506
+Activated,Misting Station,St. Nicholas Park,Arlington Edinboro Playground,M077,M077-03,Manhattan,M-09,998999.622063547,238202.753302887
+Activated,Misting Station,Wakefield Playground,,X188,X188,Bronx,X-12,1024522.22871596,267837.12924252
+Activated,Misting Station,Story Playground,,X204,X204,Bronx,X-09,1022132.65697813,238975.272126415
+Activated,Misting Station,Colgate Close,,X195A,X195A,Bronx,X-09,1016964.82202966,239498.338855797
+Activated,Misting Station,Holcombe Rucker Park,,M216,M216,Manhattan,M-10,1001959.20496068,241314.783589082
+Activated,Buckner Box Spray Adapter,Holcombe Rucker Park,,M216,M216,Manhattan,M-10,1001888.10902482,241451.257964836
+Activated,Misting Station,Carmansville Playground,,M018,M018,Manhattan,M-09,999646.123441175,241369.04049484
+Activated,Misting Station,Springfield Park,,Q107,Q107,Queens,Q-13,1050038.16441403,180205.020958679
+Activated,Misting Station,Springfield Park,,Q107,Q107,Queens,Q-13,1050027.11441514,180163.478927934
+Activated,Drinking Fountain Spray Adapter,Delphin H. Greene Playground,,Q307,Q307,Queens,Q-13,1059486.08856884,188862.511366707
+Activated,CS Spray Adapter,Delphin H. Greene Playground,,Q307,Q307,Queens,Q-13,1059499.620919,188816.60956638
+Activated,Buckner Box Spray Adapter,St. Nicholas Playground South,,M211A,M211A,Manhattan,M-10,998788.195609678,234675.45506511
+Broken,Misting Station,St. Nicholas Playground North,,M211B,M211B,Manhattan,M-10,999100.561612964,235247.833237542
+Activated,Buckner Box Spray Adapter,Martin Luther King Jr. Playground,,M198,M198,Manhattan,M-10,997908.186909034,230705.307110689
+Activated,Misting Station,Cherry Tree Park,,M215,M215,Manhattan,M-11,998962.661179468,226152.54971306
+,Misting Station,White Playground,,M148,M148,Manhattan,M-11,999284.866243436,227770.287620452
+Activated,Misting Station,Frost Playground,,B257,B257,Brooklyn,B-01,1001113.74349147,201157.451409399
+Activated,Drinking Fountain Spray Adapter,Marcy Playground,,B217,B217,Brooklyn,B-03,998189.316269472,192722.782583221
+Activated,Misting Station,Lafayette Gardens Playground,,B317,B317,Brooklyn,B-03,996050.254602715,190685.827667638
+Broken,Misting Station,Livonia Park,,B367,B367,Brooklyn,B-16,1011436.84226781,181136.146963894
+Activated,Misting Station,Renaissance Playground,,M245,M245,Manhattan,M-10,1000359.60753256,238555.382190808
+Activated,Drinking Fountain Spray Adapter,Flushing Meadows Corona Park,Meadow Lake North,Q099,Q099-ZN20,Queens,Q-15,1028038.16569238,209041.735837638
+Broken,Misting Station,Sumner Playground,,B263,B263,Brooklyn,B-03,1000105.51453679,193257.724098637
+Activated,CS Spray Adapter,Flushing Meadows Corona Park,,Q099,Q099,Queens,Q-15,1030283.59952172,212914.436097472
+Activated,Misting Station,Jennie Jerome Playground,,X148C5,X148C5,Bronx,X-05,1008135.28555071,247335.700588136
+Activated,Other,Quarry Ballfields,,X263,X263,Bronx,X-06,1014705.72680613,249038.41601473
+Activated,RPZ Spray Adapter,Beatty Plaza,,X062,X062,Bronx,X-03,1011412.44402264,242258.498800307
+Activated,RPZ Spray Adapter,Bryan Park,,X005,X005,Bronx,X-07,1013504.7810453,253403.538518056
+Activated,Misting Station,The Pearly Gates,,X170,X170,Bronx,X-10,1027033.3858778,244966.137413889
+Activated,RPZ Spray Adapter,Devoe Park,,X013,X013,Bronx,X-05,1009705.44448389,253703.578272312
+Activated,CS Spray Adapter,Webster Playground,,X174,X174,Bronx,X-06,1013861.47718229,252431.077208399
+Activated,Misting Station,Franz Sigel Park,,X047,X047,Bronx,X-04,1004632.13540481,238507.188061475
+Activated,Drinking Fountain Spray Adapter,Behagen Playground,,X166,X166,Bronx,X-03,1011524.64753839,240058.717438727
+Activated,Misting Station,Paerdegat Park,,B218,B218,Brooklyn,B-17,1001363.50086596,171901.827506065
+Activated,Misting Station,Maria Hernandez Park,,B016,B016,Brooklyn,B-04,1005306.2718518,195421.884140387
+Activated,Misting Station,Bushwick Playground,,B310,B310,Brooklyn,B-01,1001029.16885747,194918.825435221
+Activated,CS Spray Adapter,Raymond Bush Playground,,B216,B216,Brooklyn,B-03,1001050.84499521,189415.66124472
+Activated,CS Spray Adapter,Beach 9 Playground,,Q162J01,Q162J01,Queens,Q-14,1055173.78924255,156386.109521806
+Activated,Other,Rockaway Beach Boardwalk,,Q162,Q162,Queens,Q-14,1042788.06663872,153841.989938139
+Activated,Misting Station,Broad Channel Park,,Q460,Q460,Queens,Q-14,1034306.84541222,158393.209838315
+Not Yet Activated,Drinking Fountain Spray Adapter,Broad Channel Park,,Q460,Q460,Queens,Q-14,1034306.47303763,158212.173783063
+Broken,CS Spray Adapter,St. Andrew's Playground,,B225,B225,Brooklyn,B-03,1000345.25880797,186595.122266396
+Activated,Drinking Fountain Spray Adapter,Osborn Playground,,B343,B343,Brooklyn,B-16,1010263.42007397,178336.309715807
+Activated,Misting Station,Sternberg Park,,B055,B055,Brooklyn,B-01,999006.159780144,196573.038662225
+Activated,Misting Station,Cooper Park,,B025,B025,Brooklyn,B-01,1001892.59265555,200071.888619899
+Activated,Drinking Fountain Spray Adapter,Middleton Playground,,B022,B022,Brooklyn,B-01,996678.88523522,194535.356385886
+Activated,Drinking Fountain Spray Adapter,Bartlett Playground,,B286,B286,Brooklyn,B-01,999238.442123964,194613.595074564
+Activated,Ground Hydrant Spray Adapter,Seth Low Playground/ Bealin Square,,B100,B100,Brooklyn,B-11,988128.079502224,161093.210671886
+Activated,Misting Station,Jesse Owens Playground,,B269,B269,Brooklyn,B-03,1002988.35030655,191231.096262142
+Broken,Misting Station,Stockton Playground,,B298,B298,Brooklyn,B-03,998556.093423053,193253.033163145
+Activated,CS Spray Adapter,Brevoort Playground,,B258,B258,Brooklyn,B-03,1005675.48896113,187275.334160566
+Not Yet Activated,Other,Mount Eden Malls,,X081,X081,Bronx,X-04,1009226.03336922,246360.050964638
+Not Yet Activated,Other,Pelham Bay Park,,X039,X039,Bronx,X-15,1033386.72881414,248559.452733814
+Not Yet Activated,Other,Crotona Park,Crotona Playground (1),X010,X010-01,Bronx,X-03,1013327.57044172,246023.294092223
+Broken,Drinking Fountain Spray Adapter,Coffey Park,Coffey Park Playground,B077,B077-01,Brooklyn,B-06,981846.644886642,185936.008099064
+Activated,Drinking Fountain Spray Adapter,Hot Spot Tot Lot,,B212,B212,Brooklyn,B-14,996303.086774215,169223.970328971
+Broken,Buckner Box Spray Adapter,Tilden Playground,,B234,B234,Brooklyn,B-17,1003281.63580922,175285.77185364
+Activated,Misting Station,De Hostos Playground,,B358,B358,Brooklyn,B-01,998321.52269797,195178.029313147
+Activated,Misting Station,Rodney Park North,,B223PB,B223PB,Brooklyn,B-01,996379.024286389,197587.758417561
+Activated,Misting Station,Fermi Playground,,B334,B334,Brooklyn,B-04,1004133.06455256,194402.050878226
+Activated,Misting Station,St. John's Park,,B245,B245,Brooklyn,B-08,1002191.72821213,184928.361164227
+Activated,Misting Station,Harry Maze Playground,,B285,B285,Brooklyn,B-17,1005456.24071197,173887.939675554
+Broken,Misting Station,Martin Luther King Jr. Playground,,B056,B056,Brooklyn,B-05,1014679.25409005,182324.147540643
+Broken,Misting Station,Remsen Playground,,B360,B360,Brooklyn,B-18,1009869.03503596,173198.241251811
+Activated,Drinking Fountain Spray Adapter,Railroad Playground,,B271,B271,Brooklyn,B-17,1008095.57237555,175813.610036805
+Activated,Other,Van Cortlandt Park,,X092,X092,Bronx,X-13,1012979.47861821,264907.948251977
+Activated,CS Spray Adapter,St. Mary's Park,St Mary's Playground East,X045,X045-01,Bronx,X-01,1009039.14791622,234367.129084393
+Activated,Misting Station,Rienzi Playground,,X141,X141,Bronx,X-12,1023310.77226005,262694.94283548
+Activated,Misting Station,Mount Hope Playground,,X257,X257,Bronx,X-05,1009388.39328071,249100.416874974
+Activated,Misting Station,Jackie Robinson Park,Plgd One Fifty Two CLII,M014,M014-02,Manhattan,M-10,1000914.96731421,240895.399164304
+Activated,Buckner Box Spray Adapter,Jackie Robinson Park,"Playground One Forty Nine, CIL",M014,M014-03,Manhattan,M-10,1000561.63796839,240309.848826229
+Activated,CS Spray Adapter,Annunciation Playground,,M003,M003,Manhattan,M-09,997514.014142394,237522.66050297
+Activated,Misting Station,Col. Young Playground,,M186,M186,Manhattan,M-10,1001906.85279764,237688.066668227
+Activated,Misting Station,Donnellan Square,,M023,M023,Manhattan,M-09,1000071.14780764,240491.801546305
+Activated,CS Spray Adapter,Sheltering Arms Playground,,M190,M190,Manhattan,M-09,996432.777787804,236327.584152981
+Broken,Misting Station,Newport Playground,,B339,B339,Brooklyn,B-16,1009984.02135455,180112.302226811
+Activated,RPZ Spray Adapter,Decatur Playground,,B215,B215,Brooklyn,B-03,1001842.74367389,187479.639198139
+Broken,Misting Station,Curtis Playground,,B352,B352,Brooklyn,B-18,1007207.67848205,172808.174118563
+Activated,Other,Claremont Park,,X008,X008,Bronx,X-04,1010420.08806772,245547.217616558
+Activated,Misting Station,Taylor Playground,,X176,X176,Bronx,X-09,1021293.54138638,244969.600989639
+,Misting Station,Inwood Hill Park,Emerson Plgd,M042,M042-02,Manhattan,M-12,1005818.38007927,256070.943289365
+,Misting Station,Inwood Hill Park,Payson Plgd,M042,M042-01,Manhattan,M-12,1003948.7125585,255278.492119524
+,Misting Station,Inwood Park,,M042,M042,Manhattan,M-12,1003742.04236844,257806.196708618
+Broken,Misting Station,Houston Playground,,B363,B363,Brooklyn,B-16,1010558.59533663,184124.637377977
+Broken,RPZ Spray Adapter,Fish Playground,,B325,B325,Brooklyn,B-16,1008024.77756963,186424.844063639
+Activated,Misting Station,Highbridge Park,Ft George Plgd,M037,M037-09,Manhattan,M-12A,1004796.20561471,252009.91302447
+,Misting Station,Highbridge Park,,M037,M037-ZN04,Manhattan,M-12A,1005068.93899286,251786.068985115
+Activated,RPZ Spray Adapter,Highbridge Park,Sunken Plgd,M037,M037-01,Manhattan,M-12A,1001920.38918788,244556.258312389
+Activated,Drinking Fountain Spray Adapter,Highbridge Park,Coogan's Bluff Playground,M037,M037-08,Manhattan,M-12A,1000822.81789222,242280.265160977
+Activated,Misting Station,Wright Brothers Playground,,M234,M234,Manhattan,M-12A,1000323.92518922,242352.690212979
+Activated,Other,Harmony Park,,B403,B403,Brooklyn,B-03,1002343.50251488,186291.008701398
+Activated,CS Spray Adapter,Renaissance Playground,,M245,M245,Manhattan,M-10,1000385.12290146,238634.541481316
+Not Yet Activated,Misting Station,Fred Samuel Playground,,M160,M160,Manhattan,M-10,1001129.51281689,237066.072505399
+Activated,Misting Station,St. Nicholas Playground South,,M211A,M211A,Manhattan,M-10,998896.174763888,234868.43648073
+Activated,Misting Station,"Martin Luther King, Jr. Playground",,M198,M198,Manhattan,M-10,997956.958794549,230885.594052732
+Activated,Misting Station,Wagner Houses Pool,Othmar Ammann Playground,M273,M273-01,Manhattan,M-11,1002943.2198191,231334.140072793
+Activated,Misting Station,John Jay Park,,M045,M045,Manhattan,M-08,998285.659580722,219463.96039997
+Broken,Misting Station,Jerome Playground,,B246,B246,Brooklyn,B-05,1017681.21691814,179338.786057308
+Broken,Buckner Box Spray Adapter,Sankofa Park,,B261,B261,Brooklyn,B-05,1015836.08675013,181774.636172473
+Broken,Misting Station,Grace Playground,,B078,B078,Brooklyn,B-05,1013480.28732788,183772.164657726
+Activated,Misting Station,P.O. Reinaldo Salgado Playground,,B224,B224,Brooklyn,B-03,1004900.88683579,189910.295754149
+Broken,Misting Station,Zion Triangle,,B116,B116,Brooklyn,B-16,1006834.27240471,182898.586680471
+Broken,Misting Station,Zion Triangle,,B116,B116,Brooklyn,B-16,1006795.96637897,182926.54364556
+Activated,Drinking Fountain Spray Adapter,Upper Highland Playground,Upper Highland Playground,Q020,Q020-02,Queens,Q-05A,1013923.80317313,188120.486669734
+Broken,Misting Station,Star Spangled Playground,,B266,B266,Brooklyn,B-03,995837.182194218,191319.581977561
+Activated,Misting Station,Wagner Houses Pool,,M273,M273,Manhattan,M-11,1002721.09362322,231394.076303482
+Activated,CS Spray Adapter,Inwood Hill Park,,M042,M042,Manhattan,M-12,1005976.11368797,256345.707830563
+Activated,Misting Station,Kosciuszko Pool,,B351,B351,Brooklyn,B-03,998414.185476156,191236.561537811
+Broken,CS Spray Adapter,P.S. 279 Playground,,B305,B305,Brooklyn,B-18,1013878.71475124,174118.479726777
+Activated,Misting Station,Marcus Garvey Park,,M058,M058,Manhattan,M-11,999981.288089861,232711.728711896
+Activated,Misting Station,Marcus Garvey Park,,M058,M058,Manhattan,M-11,999844.627043165,232695.29398105
+Broken,Misting Station,Nostrand Playground,,B250,B250,Brooklyn,B-17,998820.707122646,171859.354194095
+Not Yet Activated,Misting Station,Hamilton Fish Park,,,,Manhattan,,989406.723142808,201692.205023908
+Not Yet Activated,Misting Station,Hamilton Fish Park,,,,Manhattan,,989501.535551933,201758.818813449
+Activated,Misting Station,Fred Samuel Playground,,,,Manhattan,,1001058.53807544,236970.535149579
+Activated,Spray Bollard,Rockaway Beach Boardwalk,,,,Queens,,1052981.75196073,155492.198654389
