@@ -7,16 +7,11 @@
         <link rel="icon" href="sweat.ico" type="image/x-icon" />
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto"> 
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Helvetica">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cormorant Garamond">
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sigmar One">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM Serif Display">
 
         <!--This is for icons button-->
         <script src="https://kit.fontawesome.com/a2143a8170.js" crossorigin="anonymous"></script>
-        <!--This is for d3.js-->
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.3.0/d3.min.js"></script>
-
         
         <!--Div Style-->
          <style>
@@ -52,11 +47,11 @@
          <!--BG Color Theme (to the body tag) -->
          <style>
             .dark-theme {
-             background-color: #b6d4e6;
+             background-color: #012d4875;
              color: #fbfbfb;
             }
             .light-theme {
-             background-color: white;
+             background-color: rgb(255, 255, 255);
              color: black;
             }
          </style>
@@ -181,6 +176,33 @@
 
         </style>
 
+        <!-- icon style-->
+        <style>
+            i.padding {padding-left: 30px;}
+            i.transparency {opacity: 0.4;}
+        </style>
+
+        <!--Mobile Style-->
+        <style>
+            @media (max-width:700px) {
+    
+                .chart-row {
+                    display:block;
+                }
+    
+                .chart-row .chart {
+                    padding:0;
+                }
+    
+                .photo-section {
+                    display:block;
+                }
+                .photo {
+                    padding:0;
+                }
+            }
+        </style>
+
         <!--Scrolly Style-->
         <style>
             #scrolly {
@@ -258,58 +280,6 @@
               }
             }
         </style>
-            
-        <!--Photos Style-->
-        <style>
-            .photo-section {
-                padding:30px 0px;
-                width:100%;
-                margin:auto;
-                display:flex;
-                max-width:1200px;
-            }
-    
-            .photo {
-                width:100%;
-                padding-right:15px;
-            }
-            .photo img {
-                width:100%;	
-            }
-    
-            p.caption {
-                font-size:0.9rem;
-                margin:0;
-            }
-        </style>
-            
-        <!--Mobile Style-->
-        <style>
-        @media (max-width:700px) {
-
-            .chart-row {
-                display:block;
-            }
-
-            .chart-row .chart {
-                padding:0;
-            }
-
-            .photo-section {
-                display:block;
-            }
-            .photo {
-                padding:0;
-            }
-        }
-        </style>
-
-        <!-- icon style-->
-        <style>
-        i.padding {padding-left: 30px;}
-        i.transparency {opacity: 0.4;}
-        </style>
-
     </head>
 
 
@@ -387,7 +357,7 @@
             <h2 class="annotation text-center">you can call 311📞 but... </h2>
         </div>
         <br>
-        <!--Spray Shower befor/after 2020 Data-->
+        <!--Spray Shower before/after 2020 Data-->
         <div class="chart-section3">
             <div class="columns is-mobile is-variable is-8">
                 <div class="column">
