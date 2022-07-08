@@ -8,7 +8,7 @@
 
 ## Repository guideline
 
-data folder includes four sections including:
+data folder includes four sections as below:
 - weather scraping: 
 - drinking fountains: 
 - spray showers folder: 
