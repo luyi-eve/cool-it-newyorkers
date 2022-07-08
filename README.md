@@ -8,7 +8,8 @@
 
 ## Repository guideline
 
-- Weather Scraping folder: 
-- Drinking fountains folder: 
-- Cooling Sites folder: 
-- Spray Showers folder: 
+data folder includes four sections including:
+- weather scraping: 
+- drinking fountains: 
+- spray showers folder: 
+- cooling sites folder: 
