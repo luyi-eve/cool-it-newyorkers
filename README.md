@@ -1,10 +1,8 @@
 # Cool it?! New Yorkers
 ## About this project
 
-This repository includes the data pulled from [The Weather Channel webpage](https://weather.com/weather/monthly/l/f892433d7660da170347398eb8e3d722d8d362fe7dd15af16ce88324e1b96e70), along with delightful csv files from [NYC Open Data](https://data.cityofnewyork.us/browse?Data-Collection_Data-Collection=Cool+It%21+NYC+2020&sortBy=most_accessed&utf8=✓)(click [here](https://docs.google.com/spreadsheets/d/1GpXHX9p0e520LcAf3gstOKTQm64wxkdDUiACjhMwd9Q/edit#gid=974986071)
-for user-guideline)
-
-Also, you can find data analysis notebook in each folder.
+This repository includes the data pulled from [The Weather Channel webpage](https://weather.com/weather/monthly/l/f892433d7660da170347398eb8e3d722d8d362fe7dd15af16ce88324e1b96e70), along with delightful csv files from [NYC Open Data](https://data.cityofnewyork.us/browse?Data-Collection_Data-Collection=Cool+It%21+NYC+2020&sortBy=most_accessed&utf8=✓) (click [here](https://docs.google.com/spreadsheets/d/1GpXHX9p0e520LcAf3gstOKTQm64wxkdDUiACjhMwd9Q/edit#gid=974986071)
+for user-guideline) Also, you can find data analysis notebook in each folder ✨.
 
 data folder includes four parts as below:
 - weather scraping: Scraped 2022 July's tempmax monthly data from [The Weather Channel webpage](https://weather.com/weather/monthly/l/f892433d7660da170347398eb8e3d722d8d362fe7dd15af16ce88324e1b96e70)'s webpage.
