@@ -1,7 +1,8 @@
 # Cool it?! New Yorkers
 ## About this project
 
-This repository includes the data pulled from The Weather Channel webpage, along with delightful csv files from NYC Open Data. Note: User-Guideline can be found [here](https://docs.google.com/spreadsheets/d/1GpXHX9p0e520LcAf3gstOKTQm64wxkdDUiACjhMwd9Q/edit#gid=9749)
+This repository includes the data pulled from The Weather Channel webpage, along with delightful csv files from NYC Open Data (user-guideline can be found [here](https://docs.google.com/spreadsheets/d/1GpXHX9p0e520LcAf3gstOKTQm64wxkdDUiACjhMwd9Q/edit#gid=9749))
+
 Also, you can find data analysis notebook in each folder.
 
 data folder includes four parts as below:
