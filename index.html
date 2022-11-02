@@ -87,14 +87,15 @@
             }
 
             h1.headline {
-                font-family: DM Serif Display;
+                font-family: "DM Serif Display";
                 font-size: 4rem;
                 font-weight: 800;
-                line-height: 50.5px;
+                line-height: 1em;
                 margin-bottom: 15px;
-                margin-top: 5px;
+                margin-top: 0;
                 color: #a0e3eb;
             }
+
             h2.subhead {
                 font-family: 'Roboto', sans-serif;
                 font-size: 18px;
@@ -106,7 +107,7 @@
             }
 
             h2.annotation {
-                font-family: DM Serif Display;
+                font-family: "DM Serif Display";
                 font-size: 20px;
                 line-height: 2rem;
                 margin-top: 2px;
@@ -114,8 +115,8 @@
                 color: #3c3c3c
             }
 
-            h3.annotation {
-                font-family: DM Serif Display;
+            h3.annotation{
+                font-family: "DM Serif Display";
                 font-size: 30px;
                 font-weight: 800;
                 line-height: 2rem;
@@ -128,7 +129,7 @@
             }
 
             h3.annotation2 {
-                font-family: DM Serif Display;
+                font-family: "DM Serif Display";
                 font-size: 30px;
                 font-weight: 800;
                 line-height: 2rem;
@@ -142,12 +143,15 @@
 
             p.body-text {
                 /*font-family: Helvetica;*/
-                text-align:justify;
-                font-size: 1.1rem;
+                text-align:left;
+                font-size: 1.06rem;
                 line-height: 1.5em;
                 margin-top:0;
                 margin-bottom:15px;
-                color: #010101
+                color: #010101;
+                padding-left: 0.5rem;
+                padding-right: 0.5rem;
+
             }
 
             .byline {
@@ -166,13 +170,47 @@
             }
 
             .findcode {
-                font-family: Cormorant Garamond;
+                font-family: "Cormorant Garamond";
                 font-size: 1.1rem;
                 line-height: 1.4;
                 margin-top:0;
                 margin-bottom:15px;
-                color: #010101
+                color: #010101;
+
             }
+
+            @media only screen and (min-width: 40em){
+                h1.headline {
+                    font-family: "DM Serif Display";
+                    font-size: 4rem;
+                    font-weight: 800;
+                    line-height: 50.5px;
+                    margin-bottom: 15px;
+                    margin-top: 5px;
+                    color: #a0e3eb;
+                }
+
+                p.body-text {
+                    /*font-family: Helvetica;*/
+                    text-align:left;
+                    font-size: 1.1rem;
+                    line-height: 1.5em;
+                    margin-top:0;
+                    margin-bottom:15px;
+                    color: #010101
+                }
+
+                .findcode {
+                    font-family: "Cormorant Garamond";
+                    font-size: 1.1rem;
+                    line-height: 1.4;
+                    margin-top:0;
+                    margin-bottom:15px;
+                    color: #010101;
+                    max-width:38rem;
+                }
+            }
+
 
         </style>
 
@@ -384,8 +422,7 @@
     <footer class="light-theme">
         <p></p>
         <div class="footer findcode text-center">
-            <p>If you' d like to check my code for this project, they are now available on <a href="https://github.com/luyi-eve/cool-it-newyorkers">GitHub</a>.</p>
-            <p>The original dataset can be found <a href="https://data.cityofnewyork.us/browse?q=Cool%20It!%20NYC%202020%20&sortBy=relevance">here</a>.</p>
+            <p>If you' d like to check my code for this project, they are now available on <a href="https://github.com/luyi-eve/cool-it-newyorkers">GitHub</a>. The original dataset can be found <a href="https://data.cityofnewyork.us/browse?q=Cool%20It!%20NYC%202020%20&sortBy=relevance">here</a>.</p>
         </div>        
         <!--sometimes icon not showing up is because of subsription plan!-->
         <div class="adjust four-icon text-center">
